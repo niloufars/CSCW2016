@@ -1,5 +1,5 @@
  <?php 
-	$pageTitle = 'CSCW 2016 | Submitting | Doctoral Colloquium ';
+	$pageTitle = "CSCW $year | Submitting | Doctoral Colloquium";
 	$section = 'submit';
 	$basePath = '..';
 	include_once('../_inc/header.php');
@@ -30,14 +30,14 @@
 			<p>The Colloquium committee will select approximately 15 participants who will be expected to give short, informal presentations of their work during the Colloquium, to be followed by extensive group discussion. Participants will also present their research in an interactive poster session during the main technical program of the conference.
 			</p>
 			
-			<p>Applicants should submit the following items by email to dc2016@cscw.acm.org with the subject line "CSCW2016 Colloquium Submission." All items below should be collated into one PDF file named YOURNAME_CSCWDC2016.pdf (substitute your full name where it reads YOURNAME):
+			<p>Applicants should submit the following items by email to dc<?php echo $year; ?>@cscw.acm.org with the subject line "CSCW<?php echo $year; ?> Colloquium Submission." All items below should be collated into one PDF file named YOURNAME_CSCWDC<?php echo $year; ?>.pdf (substitute your full name where it reads YOURNAME):
 				<ul>
 					<li>A FOUR-page overview of your doctoral research that describes your research question, work in progress, and expected contributions. This overview should also include (1) a paragraph that articulates what you hope to gain from attending the CSCW Doctoral Colloquium, and (2) an abstract of no more than 100 words. Your overview will be published in the ACM Digital Library and distributed to all attendees as part of the Conference Extended Abstracts. Please submit your overview in the <a href="http://www.sigchi.org/publications/chipubform" target="_blank">Extended Abstract Format</a>.
 					</li>
 					<li>A short (2-3 paragraph) biographical sketch on another page.</li>
 					<li>An up-to-date curriculum vitae.</li>
 					<li>Optionally, one publication that you feel best illustrates your progress in your research.</li>
-					<li>An email letter from your supervisor sent to dc2016@cscw.acm.org indicating that they support your application to the colloquium and that they agree that your research is at an appropriate stage for participation. These letters should also make reference to how you might benefit from the Doctoral Colloquium and how they expect that you might benefit the other students in this group experience. The email should have "CSCW Doctoral Colloquium: " + YOUR NAME in the subject header.</li>
+					<li>An email letter from your supervisor sent to dc<?php echo $year; ?>@cscw.acm.org indicating that they support your application to the colloquium and that they agree that your research is at an appropriate stage for participation. These letters should also make reference to how you might benefit from the Doctoral Colloquium and how they expect that you might benefit the other students in this group experience. The email should have "CSCW Doctoral Colloquium: " + YOUR NAME in the subject header.</li>
 				</ul>
 			</p>
 			<p>All submissions must be received by the chairs by 5:00pm (17:00) Pacific Time on November 10, 2014. Submissions received after this date will not be considered. All submissions will be acknowledged by email.
@@ -49,7 +49,7 @@
 			<h3>Doctoral Colloquium Co-Chairs</h3>
      		<p>Carl Gutwin, University of Saskatchewan<br />
      		Abigail Sellen, Microsoft Research Cambridge<br />
-     		<a href="mailto:dc2016@cscw.acm.org">dc2016@cscw.acm.org</a></p>
+     		<a href="mailto:dc<?php echo $year; ?>@cscw.acm.org">dc<?php echo $year; ?>@cscw.acm.org</a></p>
 			</article>
 			<aside class="five columns offset-by-one omega">
 				<div class="item">

@@ -20,7 +20,7 @@
 
 <h3>Call for Papers</h3>
 
-<p>The ACM conference on Computer-Supported Cooperative Work and Social Computing is an international and interdisciplinary conference focused on how technology intersects with social practices. In <?php echo $year; ?> the CSCW conference will be held in <?php echo $cityCountry; ?> from <?php $datesYear; ?>. </p>
+<p>The ACM conference on Computer-Supported Cooperative Work and Social Computing is an international and interdisciplinary conference focused on how technology intersects with social practices. In <?php echo $year; ?> the CSCW conference will be held in <?php echo $cityCountry; ?> from <?php echo $datesYear; ?>. </p>
 
 <p>We invite papers that detail existing practices, inform the design or deployment of systems, or introduce novel systems, interaction techniques, or algorithms. The scope of CSCW includes, social computing and social media, crowdsourcing, open collaboration, technologically-enabled or enhanced communication, CSCL and related educational technologies, multi-user input technologies, collaboration, information sharing, and coordination. This scope spans socio-technical domains of work, home, education, healthcare, the arts, for socializing, and for entertainment. The technical program seeks novel research results or new ways of thinking about, studying, or supporting shared activities can be in these and related areas:
 <ul>

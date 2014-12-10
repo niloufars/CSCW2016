@@ -1,5 +1,5 @@
 <?php
-	$pageTitle = 'CSCW 2016 | Submitting | Workshops';
+	$pageTitle = "CSCW $year | Submitting | Workshops";
 	$section = 'submit';
 	$basePath = '..';
 	include_once('../_inc/header.php');
@@ -18,10 +18,10 @@
 				<li><strong>October 15, 2014</strong>: Revised 150 word Workshop Abstract for website</li>
                 <li><strong>October 26, 2014</strong>: Final camera-ready versions of abstracts due</li>
 				<li><strong>November & December 2014</strong>: Workshop submissions due and accepted submissions notified -- see <a href="<?php echo $basePath; ?>/program/accepted_workshops.php">individual workshops</a> for information, deadlines, and updates</li>
-				<li><strong>March 14/15, 2016</strong>: Workshops take place at CSCW 2016</li>
+				<li><strong>March 14/15, 2016</strong>: Workshops take place at CSCW <?php echo $year; ?></li>
 			</ul>
 
-<p><strong>Workshop proposal submission: <a href="mailto:workshops2016@cscw.acm.org">workshops2016@cscw.acm.org</a></strong></p>
+<p><strong>Workshop proposal submission: <a href="mailto:workshops<?php echo $year; ?>@cscw.acm.org">workshops<?php echo $year; ?>@cscw.acm.org</a></strong></p>
 
 <h3>Call for Workshop Proposals</h3>
 <p>Workshops provide an opportunity to discuss and explore emerging areas of CSCW research with a group of like-minded researchers and practitioners from industry and academia. Workshops may focus on any aspect of CSCW theory or practice, established concerns or new ideas. However, radical new ideas expected to draw a sufficient number of participants are very much encouraged! The goal of a workshop is to share understandings and experiences, to foster research communities, to learn from each other and to envision future directions. For a sample of workshop topics from the last conference, please look at the <a href="http://www.cscw2010.org/program/workshops.php">CSCW 2010</a>, <a href="http://cscw2011.org/program/workshops.html">CSCW 2011</a>, <a href="http://cscw2012.org/program/accepted_workshops.php">CSCW 2012</a>, <a href="http://cscw.acm.org/2013/program_workshop.html">CSCW 2013</a>, and <a href="http://cscw.acm.org/program_workshop.html">CSCW 2014</a> Workshop Programs.</p>
@@ -30,9 +30,9 @@
 
 <p>Please note that workshops receive minimal technology support, which is reflected in the low fee for attending them. This means that organizers should plan to bring their own equipment insofar as it is possible to do so (e.g., projector, laptops, portable supplies) and will be responsible for the security of their own equipment. We encourage workshop organizers to create web-based resources for their workshops so that advertising, submission and organization can be handled online.</p>
 
-<p>Questions concerning workshop proposals should be directed to the CSCW 2016 Workshop Co-Chairs via email: <a href="mailto:workshops2016@cscw.acm.org">workshops2016@cscw.acm.org</a></p>
+<p>Questions concerning workshop proposals should be directed to the CSCW <?php echo $year; ?> Workshop Co-Chairs via email: <a href="mailto:workshops<?php echo $year; ?>@cscw.acm.org">workshops<?php echo $year; ?>@cscw.acm.org</a></p>
 
-<p>Workshop proposals should be e-mailed to the Workshop Co-Chairs at workshops2016@cscw.acm.org by 5:00 p.m. PDT on Friday, August 8, 2014. Submissions will be acknowledged via email.</p>
+<p>Workshop proposals should be e-mailed to the Workshop Co-Chairs at workshops<?php echo $year; ?>@cscw.acm.org by 5:00 p.m. PDT on Friday, August 8, 2014. Submissions will be acknowledged via email.</p>
 
 <p>Accepted workshops will need to provide a short description of the workshop for publication on the conference web site containing the workshop title, names and affiliations of organizers, 150-word abstract, workshop web site, and position paper submission or other participation requirements. The due date for the web description is October 15th, 2014.</p>
 
@@ -43,7 +43,7 @@
 
 <p>Laura Dabbish, Carnegie Mellon University<br />
 Jenn Thom, Amazon<br />
-<a href="mailto:workshops2016@cscw.acm.org">workshops2016@cscw.acm.org</a></p>
+<a href="mailto:workshops<?php echo $year; ?>@cscw.acm.org">workshops<?php echo $year; ?>@cscw.acm.org</a></p>
 
 			</article>
 			<aside class="five columns offset-by-one omega">

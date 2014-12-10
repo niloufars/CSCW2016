@@ -8,7 +8,7 @@
 		<div class="row">
 			<article class="ten columns" role="main">
 								<h1>Registration</h1>
-				<p>Please check back for rates, deadlines, and further information about registering for CSCW 2016.</p>
+				<p>Please check back for rates, deadlines, and further information about registering for CSCW <?php echo $year; ?>.</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>

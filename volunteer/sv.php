@@ -1,5 +1,5 @@
 <?php 
-	$pageTitle = 'CSCW 2016 | Volunteer';
+	$pageTitle = "CSCW $year | Volunteer";
 	$section = 'volunteer';
 	$basePath = '..';
 	include_once('../_inc/header.php');
@@ -19,7 +19,7 @@
 				
 				<h3>You commit to:</h3>
 				<p>Complete 20 hours of volunteer work at the conference during
-					March 14-18, 2016. In return, you get: (please note: SV benefits
+					<?php echo $datesYear; ?>. In return, you get: (please note: SV benefits
 					are still being discussed)</p>
 				<ul>
 					<li>Free conference registration & reception ticket</li>
@@ -44,7 +44,7 @@
 			<p>
 				Erin Brady, University of Rochester<br />
 				Syavash Nobarany, University of British Columbia<br />
-				<a href="mailto:sv2016@cscw.acm.org">sv2016@cscw.acm.org</a>
+				<a href="mailto:sv<?php echo $year; ?>@cscw.acm.org">sv<?php echo $year; ?>@cscw.acm.org</a>
 			</p>
 			</article>
 			

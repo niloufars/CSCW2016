@@ -1,5 +1,5 @@
 <?php 
-	$pageTitle = 'CSCW 2016 Sponsors';
+	$pageTitle = "CSCW $year Sponsors";
 	$section = 'sponsors';
 	$basePath = '..';
 	include_once('../_inc/header.php');
@@ -9,7 +9,7 @@
 			<article class="ten columns" role="main">
 				<h1>Sponsoring CSCW</h1>
 				<p>Several levels of sponsorship are available -- for details, please check the page about <a href="become-a-sponsor.php">becoming a sponsor</a>.</p>
-				<h2>CSCW 2016 Sponsors</h2>
+				<h2>CSCW <?php echo $year; ?> Sponsors</h2>
 				<ul class="sponsors-list none">
 					<li><h3>Benefactors</h3></li>
 					<li><a href="http://grand-nce.ca/" target="_blank"><img src="../images/grand_logo.png" alt="GRAND" /></a></li>

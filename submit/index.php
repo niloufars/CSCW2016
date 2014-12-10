@@ -1,5 +1,5 @@
 <?php 
-	$pageTitle = 'CSCW 2016 | Submitting ';
+	$pageTitle = "CSCW $year | Submitting";
 	$section = 'submit';
 	$basePath = '..';
 	include_once('../_inc/header.php');

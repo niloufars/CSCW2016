@@ -11,7 +11,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title><?php if($pageTitle != '') { echo $pageTitle . ' | '; } ?>CSCW 2016</title>
+	<title><?php if($pageTitle != '') { echo $pageTitle . ' | '; } ?>CSCW <?php echo $year; ?></title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -55,11 +55,11 @@
 		<div class="container">
 			<div class="brand clearfix">
 				<div class="logo">
-					<a href="<?php echo $basePath; ?>/">CSCW 2016</a>
+					<a href="<?php echo $basePath; ?>/">CSCW <?php echo $year; ?></a>
 				</div>
 				<div class="title-block">
 					<h2><small>The <?php echo $nth; ?> ACM conference on</small> Computer-Supported Cooperative Work and <span>Social Computing</span></h2>
-					<h3>March 14-18, 2016 | Vancouver, BC, Canada</h3>
+					<h3><?php echo "$datesYear | $cityCountry"; ?></h3>
 				</div>
 			</div>
 		</div>
