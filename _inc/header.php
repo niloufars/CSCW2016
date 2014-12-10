@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title><?php if($pageTitle != '') { echo $pageTitle . ' | '; } ?>CSCW 2015</title>
+	<title><?php if($pageTitle != '') { echo $pageTitle . ' | '; } ?>CSCW 2016</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -52,11 +52,11 @@
 		<div class="container">
 			<div class="brand clearfix">
 				<div class="logo">
-					<a href="/2015">CSCW 2015</a>
+					<a href="<?php echo $basePath; ?>/">CSCW 2016</a>
 				</div>
 				<div class="title-block">
 					<h2><small>The 18th ACM conference on</small> Computer-Supported Cooperative Work and <span>Social Computing</span></h2>
-					<h3>March 14-18, 2015 | Vancouver, BC, Canada</h3>
+					<h3>March 14-18, 2016 | Vancouver, BC, Canada</h3>
 				</div>
 			</div>
 		</div>
@@ -64,12 +64,12 @@
 	<a href="#menu" class="menu-link">Menu</a>			
 	<nav role="navigation" id="menu">
 		<ul>
-			<li><a href="/2015/" class="home">Home</a></li>
-			<li><a href="/2015/submit/" class="submit">Submit</a></li>
-			<li><a href="/2015/attend/" class="attend">Attend</a></li>
-			<li><a href="/2015/program/" class="program">Program</a></li>
-			<li><a href="/2015/volunteer/" class="volunteer">Volunteer</a></li>
-			<li><a href="/2015/committee/" class="committee">Committee</a></li>
-			<li><a href="/2015/sponsors/" class="sponsors">Sponsors</a></li>
+			<li><a href="<?php echo $basePath; ?>/" class="home">Home</a></li>
+			<li><a href="<?php echo $basePath; ?>/submit/" class="submit">Submit</a></li>
+			<li><a href="<?php echo $basePath; ?>/attend/" class="attend">Attend</a></li>
+			<li><a href="<?php echo $basePath; ?>/program/" class="program">Program</a></li>
+			<li><a href="<?php echo $basePath; ?>/volunteer/" class="volunteer">Volunteer</a></li>
+			<li><a href="<?php echo $basePath; ?>/committee/" class="committee">Committee</a></li>
+			<li><a href="<?php echo $basePath; ?>/sponsors/" class="sponsors">Sponsors</a></li>
 		</ul>
 	</nav>

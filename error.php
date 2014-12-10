@@ -1,7 +1,7 @@
 <?php 
 	$pageTitle = 'Error';
 	$section = 'home';
-	$basePath = '';
+	$basePath = '.';
 	include_once('_inc/header.php');
 ?>
 	<div class="container main">
