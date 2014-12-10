@@ -70,7 +70,7 @@
 					<div class="inner" id="connect">
 					
 						<!--<p>The buzz on <a href="https://twitter.com/hashtag/cscw2016" target="_blank">Twitter</a>:-->
-						<a class="twitter-timeline" href="https://twitter.com/search?q=%23cscw2016" data-widget-id="419285811587055616">Tweets about "#cscw2016"</a>
+						<a class="twitter-timeline" href="https://twitter.com/hashtag/cscw2016" data-widget-id="542591485024022529">#cscw2016 Tweets</a>
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					
 						<!--<p>Find us on <a href="http://www.facebook.com/acmCSCW" target="_blank">Facebook</a>!</p>-->
