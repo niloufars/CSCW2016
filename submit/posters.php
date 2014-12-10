@@ -1,6 +1,7 @@
  <?php 
-	$pageTitle = 'CSCW 2015 | Submitting | Posters ';
+	$pageTitle = 'CSCW 2016 | Submitting | Posters ';
 	$section = 'submit';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
@@ -14,7 +15,7 @@
 				<li><strong>Monday, December 15, 2014</strong>: Notification of acceptance</li>
 			</ul>
 			
-			<p>CSCW 2015 will include an interactive poster category for late-breaking and preliminary results, smaller results not suitable for a full or short paper, innovative ideas not yet validated through user studies, early student research, and other research best presented in an interactive forum.
+			<p>CSCW 2016 will include an interactive poster category for late-breaking and preliminary results, smaller results not suitable for a full or short paper, innovative ideas not yet validated through user studies, early student research, and other research best presented in an interactive forum.
 			</p>
 			<p>Posters will be presented in a special Poster Session where researchers will interact directly with conference attendees. The posters will then remain up throughout the remainder of the conference.
 			</p>
@@ -26,7 +27,7 @@
 		  	</p>
 		  	<p>Interactive poster abstract submissions (extended abstract and poster draft) must be uploaded online via the <a href="https://precisionconference.com/~sigchi/" target="_blank"> Precision Conference System (PCS) </a>  by 5:00pm (17:00) Pacific Daylight Time (PDT) on November 10, 2014 to be considered. All attachments must be less than 5MB.
 		  	</p>
-		  	<p>Any questions regarding the interactive posters venue, the submission process or issues emerging from complications due to large files can be directed to posters2015@cscw.acm.org
+		  	<p>Any questions regarding the interactive posters venue, the submission process or issues emerging from complications due to large files can be directed to posters2016@cscw.acm.org
 		  	</p>
 		  	
 		  	<h3>Interactive Poster Abstract Authoring Tips</h3>
@@ -52,7 +53,7 @@
           	<h3>Interactive Posters Co-Chairs</h3>
 			<p>Karyn Moffatt, McGill University<br />
 			Aleksandra Sarcevic, Drexel University<br />
-			<a href="mailto:posters2015@cscw.acm.org">posters2015@cscw.acm.org</a>
+			<a href="mailto:posters2016@cscw.acm.org">posters2016@cscw.acm.org</a>
 			</article>
 			<aside class="five columns offset-by-one omega">
 				<div class="item">

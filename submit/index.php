@@ -1,7 +1,8 @@
 <?php 
-	$pageTitle = 'CSCW 2015 | Submitting ';
+	$pageTitle = 'CSCW 2016 | Submitting ';
 	$section = 'submit';
-		include_once('../_inc/header.php');
+	$basePath = '..';
+	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
 		<div class="row">

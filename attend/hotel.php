@@ -1,13 +1,14 @@
 <?php 
-	$pageTitle = 'CSCW 2015 Registration';
+	$pageTitle = 'CSCW 2016 Registration';
 	$section = 'attend';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
 		<div class="row">
 			<article class="ten columns" role="main">
 		<H1>Conference Hotel</H1>
-<p><a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1410280403&key=60942F" class="text" target="_blank">Online hotel registration</a> is now available -- reservations can be booked, modified, or canceled from October 28, 2014 to March 22, 2015.</p>
+<p><a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1410280403&key=60942F" class="text" target="_blank">Online hotel registration</a> is now available -- reservations can be booked, modified, or canceled from October 28, 2014 to March 22, 2016.</p>
 <p>The conference will be held at the <a href="http://www.westinbayshore.com/" class="text" target="_blank">Westin Bayshore</a> hotel. A landmark resort respite in the centre of a vibrant city, The Westin Bayshore Vancouver is just steps from the historic 1,000-acre Stanley Park with its picturesque seawall and unspoiled nature offering you the best of both worlds: an invigorating urban lifestyle and a relaxing resort-like experience. The hotel is located on a short walk to downtown's business district, the Vancouver Convention Centre, shopping and entertainment.
 			</p>  
 			<div id="result"></div>

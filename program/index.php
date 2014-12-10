@@ -1,6 +1,7 @@
 <?php 
-	$pageTitle = 'CSCW 2015 Program';
+	$pageTitle = 'CSCW 2016 Program';
 	$section = 'program';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">

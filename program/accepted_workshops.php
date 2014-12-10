@@ -1,6 +1,7 @@
 <?php 
-	$pageTitle = 'CSCW 2015 | Program | Workshops';
+	$pageTitle = 'CSCW 2016 | Program | Workshops';
 	$section = 'program';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
@@ -275,7 +276,7 @@
                 <h3>Workshops Co-Chairs</h3>
                 <p>Laura Dabbish, Carnegie Mellon University
                 <br />Jenn Thom, Amazon<br />
-                <a href="mailto:workshops2015@cscw.acm.org">workshops2015@cscw.acm.org</a></p>
+                <a href="mailto:workshops2016@cscw.acm.org">workshops2016@cscw.acm.org</a></p>
             </article>
             <aside class="five columns offset-by-one omega">
                 <div class="item">

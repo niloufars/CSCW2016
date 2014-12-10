@@ -1,6 +1,7 @@
 <?php 
-	$pageTitle = 'CSCW 2015 | Volunteer';
+	$pageTitle = 'CSCW 2016 | Volunteer';
 	$section = 'volunteer';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
@@ -9,7 +10,7 @@
 				<h1>Call for Participation Student Volunteers</h1>
 				<h3>Important Dates</h3>
 				<ul>
-					<li><strong>August 18, 2014</strong>: Student volunteer lottery registration system will open at: <a href="http://www.chisv.org/cscw2015/news" target="_blank" class="text">http://www.chisv.org/cscw2015/news</a></li>
+					<li><strong>August 18, 2014</strong>: Student volunteer lottery registration system will open at: <a href="http://www.chisv.org/cscw2016/news" target="_blank" class="text">http://www.chisv.org/cscw2016/news</a></li>
 					<li><strong>October 24, 2014</strong>: Deadline to register for volunteer lottery</li>
 					<li><strong>October 27, 2014</strong>: Applicants will be informed of their acceptance or waitlist status</li>
 				</ul>
@@ -18,7 +19,7 @@
 				
 				<h3>You commit to:</h3>
 				<p>Complete 20 hours of volunteer work at the conference during
-					March 14-18, 2015. In return, you get: (please note: SV benefits
+					March 14-18, 2016. In return, you get: (please note: SV benefits
 					are still being discussed)</p>
 				<ul>
 					<li>Free conference registration & reception ticket</li>
@@ -43,7 +44,7 @@
 			<p>
 				Erin Brady, University of Rochester<br />
 				Syavash Nobarany, University of British Columbia<br />
-				<a href="mailto:sv2015@cscw.acm.org">sv2015@cscw.acm.org</a>
+				<a href="mailto:sv2016@cscw.acm.org">sv2016@cscw.acm.org</a>
 			</p>
 			</article>
 			

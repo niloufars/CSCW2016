@@ -1,6 +1,7 @@
 <?php 
-	$pageTitle = 'CSCW 2015 | Submitting | Papers';
+	$pageTitle = 'CSCW 2016 | Submitting | Papers';
 	$section = 'submit';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
@@ -19,7 +20,7 @@
 
 <h3>Call for Papers</h3>
 
-<p>The ACM conference on Computer-Supported Cooperative Work and Social Computing is an international and interdisciplinary conference focused on how technology intersects with social practices. In 2015 the CSCW conference will be held in Vancouver, BC, Canada from March 14th-18th, 2015. </p>
+<p>The ACM conference on Computer-Supported Cooperative Work and Social Computing is an international and interdisciplinary conference focused on how technology intersects with social practices. In 2016 the CSCW conference will be held in Vancouver, BC, Canada from March 14th-18th, 2016. </p>
 
 <p>We invite papers that detail existing practices, inform the design or deployment of systems, or introduce novel systems, interaction techniques, or algorithms. The scope of CSCW includes, social computing and social media, crowdsourcing, open collaboration, technologically-enabled or enhanced communication, CSCL and related educational technologies, multi-user input technologies, collaboration, information sharing, and coordination. This scope spans socio-technical domains of work, home, education, healthcare, the arts, for socializing, and for entertainment. The technical program seeks novel research results or new ways of thinking about, studying, or supporting shared activities can be in these and related areas:
 <ul>
@@ -62,7 +63,7 @@
 
 <H3>Revision Cycle</H3>
 
-<p>Papers will undergo two review cycles. After the first round of review, a submission will receive either a "Revise & Resubmit" or a "Reject" notification (along with the reviews themselves). Submissions rejected in the first round cannot be revised for CSCW 2015, but authors can begin reworking them for submission to other venues. Authors of papers designated "Revise & Resubmit" will have two weeks to revise their paper in response to the reviewers' comments. Authors will need to allocate time for possible revisions during the period between July 14th and August 1st. Revised papers must be re-submitted via the PCS system by 5:00 p.m. PDT on August 1st. Note that an invitation to "Revise & Resubmit" is not a guarantee of acceptance--the revision will be re-reviewed as the basis for the final decision. This is similar to a journal process, except that it is limited to a single revision with a strict deadline.</p>
+<p>Papers will undergo two review cycles. After the first round of review, a submission will receive either a "Revise & Resubmit" or a "Reject" notification (along with the reviews themselves). Submissions rejected in the first round cannot be revised for CSCW 2016, but authors can begin reworking them for submission to other venues. Authors of papers designated "Revise & Resubmit" will have two weeks to revise their paper in response to the reviewers' comments. Authors will need to allocate time for possible revisions during the period between July 14th and August 1st. Revised papers must be re-submitted via the PCS system by 5:00 p.m. PDT on August 1st. Note that an invitation to "Revise & Resubmit" is not a guarantee of acceptance--the revision will be re-reviewed as the basis for the final decision. This is similar to a journal process, except that it is limited to a single revision with a strict deadline.</p>
 
 <p>The revision cycle enables authors to address issues raised by reviewers that may have been a cause for rejection under prior conference reviewing schemes, such as the need to improve readability/grammar, discuss missing citations, redo some analyses, adopt terminology familiar to the field, and/or reframe ideas more clearly. It also allows authors of papers that may have been accepted under a single-cycle approach to further strengthen their papers, perhaps better positioning themselves for consideration for a "Best of CSCW" recognition. Along with their revised paper, authors submit a letter explaining the key changes they have made, allowing more interaction between authors and reviewers.</p>
 
@@ -82,22 +83,22 @@
 
 <h3><a class='anchortag' name='lastingimpact' style='text-decoration:none;'>"CSCW Lasting Impact" Award</a></h3>
 
-<p>The ACM's Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2015) will again bestow the honor of “CSCW Lasting Impact Award”. This award recognizes a paper published at the CSCW conference at least 10 years ago (CSCW 2004 and earlier) that has been extremely influential since its publication. The Lasting Impact Award winner will be determined by a committee consisting of senior members of the CSCW community.
+<p>The ACM's Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2016) will again bestow the honor of “CSCW Lasting Impact Award”. This award recognizes a paper published at the CSCW conference at least 10 years ago (CSCW 2004 and earlier) that has been extremely influential since its publication. The Lasting Impact Award winner will be determined by a committee consisting of senior members of the CSCW community.
 <br /><br />
-If you would like to nominate a paper for consideration, please email <a href="mailto:papers2015@cscw.acm.org">papers2015@cscw.acm.org</a> by September 19th 2014 and include: the paper's title, author list, and year of publication, as well as a brief paragraph explaining why the paper deserves recognition for its "lasting impact." Nominations involving personal or institutional conflicts-of-interest will NOT be considered.
+If you would like to nominate a paper for consideration, please email <a href="mailto:papers2016@cscw.acm.org">papers2016@cscw.acm.org</a> by September 19th 2014 and include: the paper's title, author list, and year of publication, as well as a brief paragraph explaining why the paper deserves recognition for its "lasting impact." Nominations involving personal or institutional conflicts-of-interest will NOT be considered.
 </p>
 
 <h3>Accepted Works</h3>
 
 <p>The CSCW Proceedings is a peer-reviewed archival publication. AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference).</p>
 
-<p>Authors seeking information about obtaining a visa for traveling to the conference can find such details here: <a href="http://cscw.acm.org/2015/attend/visas.php">http://cscw.acm.org/2015/attend/visas.php</a></p>
+<p>Authors seeking information about obtaining a visa for traveling to the conference can find such details <a href="<?php echo $basePath; ?>/attend/visas.php">here</a>.</p>
 
 <h1>Program Committee</h1>
 <h3>Papers & Notes Co-Chairs</h3>
 <p>Luigina Ciolfi, Sheffield Hallam University<br />
 David McDonald, University of Washington<br />
-<a href="mailto:papers2015@cscw.acm.org">papers2015@cscw.acm.org</a></p>
+<a href="mailto:papers2016@cscw.acm.org">papers2016@cscw.acm.org</a></p>
 
 <h3>PC Members</h3>
 Joanna Abraham, University of Illinois, Chicago<br />

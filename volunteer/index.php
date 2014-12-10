@@ -1,6 +1,7 @@
 <?php 
-	$pageTitle = 'CSCW 2015 | Volunteer';
+	$pageTitle = 'CSCW 2016 | Volunteer';
 	$section = 'volunteer';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">

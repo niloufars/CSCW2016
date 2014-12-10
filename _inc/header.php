@@ -18,9 +18,9 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="/2015/css/base.css">
-	<link rel="stylesheet" href="/2015/css/styles.css">
-	<link rel="stylesheet" href="/2015/css/layout.css">
+	<link rel="stylesheet" href="<?php echo $basePath; ?>/css/base.css">
+	<link rel="stylesheet" href="<?php echo $basePath; ?>/css/styles.css">
+	<link rel="stylesheet" href="<?php echo $basePath; ?>/css/layout.css">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,7 +28,7 @@
 
 	<!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="/2015/favicon.ico?v=2" />
+	<link rel="shortcut icon" href="<?php echo $basePath; ?>/favicon.ico?v=2" />
 
 	<!-- Webfonts
 	================================================== -->

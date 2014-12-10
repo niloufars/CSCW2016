@@ -1,6 +1,7 @@
  <?php 
-	$pageTitle = 'CSCW 2015 | Submitting | Panels ';
+	$pageTitle = 'CSCW 2016 | Submitting | Panels ';
 	$section = 'submit';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
@@ -37,7 +38,7 @@
 		  			<li>Technical requirements</li>
 		  		</ul>
 		  	</p>
-		  	<p>Panel submissions should be e-mailed to the Panels Co-Chairs at panels2015@cscw.acm.org. All panel submissions are due by 5:00pm (17:00) Pacific Daylight Time on November 10, 2014.
+		  	<p>Panel submissions should be e-mailed to the Panels Co-Chairs at panels2016@cscw.acm.org. All panel submissions are due by 5:00pm (17:00) Pacific Daylight Time on November 10, 2014.
 		  	</p>
 		  	
 		  	<h3>Accepted Proposals</h3>
@@ -50,7 +51,7 @@
           	<h3>Interactive Posters Co-Chairs</h3>
 <p>Louise Barkhuus, Stockholm University<br />
 Anatoliy Gruzd, Ryerson University<br />
-<a href="panels2015@cscw.acm.org">panels2015@cscw.acm.org</a></p>
+<a href="panels2016@cscw.acm.org">panels2016@cscw.acm.org</a></p>
 			</article>
 			<aside class="five columns offset-by-one omega">
 				<div class="item">

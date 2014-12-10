@@ -1,13 +1,14 @@
 <?php 
 	$pageTitle = 'Attending CSCW';
 	$section = 'attend';
+	$basePath = '..';
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
 		<div class="row">
 			<article class="ten columns" role="main">
 								<h1>Registration</h1>
-				<p>Please check back for rates, deadlines, and further information about registering for CSCW 2015.</p>
+				<p>Please check back for rates, deadlines, and further information about registering for CSCW 2016.</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>
 				<p>&nbsp;</p>

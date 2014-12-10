@@ -2,9 +2,9 @@
 <html>
 <head>
 <title>404</title>
-<meta http-equiv="REFRESH" content="0;url=http://cscw.acm.org/2015/error.html"></HEAD>
+<meta http-equiv="REFRESH" content="0;url=http://cscw.acm.org/2016/error.php"></HEAD>
 <BODY>
-Optional page text here.
+<a href="http://cscw.acm.org/2016/error.php">Page not found.</a>
 </BODY>
 </HTML>
 <!-- 
