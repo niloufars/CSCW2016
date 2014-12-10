@@ -8,7 +8,7 @@
 		<div class="row">
 			<article class="ten columns" role="main">
 				<h1>Welcome to CSCW <?php echo $year; ?>!</h1>
-				<p>The <?php echo $nth; ?> ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW <?php echo $year; ?>) will be held <?php echo $datesYear; ?> in <a href="http://vancouver.ca/default.aspx" target="_blank">Vancouver, Canada.</a></p>
+				<p>The <?php echo $nth; ?> ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW <?php echo $year; ?>) will be held <?php echo $datesYear; ?> in <a href="<?php echo $cityUrl; ?>" target="_blank"><?php echo $cityCountry; ?>.</a></p>
 				<p>CSCW is the premier venue for presenting research in the design and use of technologies that affect groups, organizations, communities, and networks. Bringing together top researchers and practitioners from academia and industry who are interested in the area of social computing, CSCW encompasses both the technical and social challenges encountered when supporting collaboration. The development and application of new technologies continues to enable new ways of working together and coordinating activities. Although work is an important area of focus for the conference, CSCW also embraces research and technologies supporting a wide variety of recreational and social activities using a diverse range of devices.</p>
 				<p>CSCW <?php echo $year; ?> will offer multiple venues for contribution, including Papers, Workshops, Panels, Interactive Posters, Videos, Demonstrations, and a Doctoral Colloquium. Please see the <a href="submit/index.php">Call for Participation</a> for deadlines and additional information.
 				</p>

@@ -3,10 +3,12 @@
 // hopefully this will help someone else in the future when migrating to new years
 // (on the off chance anyone uses this code again)
 
-//conference information.
+//conference dates, venue, etc
 $city = "San Francisco";
 $country = "USA";
 $cityCountry = $city . ", " . $country;
+$cityUrl = "http://sfgov.org/";
+
 $dates = "February 27&ndash;March 2";
 $year = "2016";
 $datesYear = $dates . ", " . $year;

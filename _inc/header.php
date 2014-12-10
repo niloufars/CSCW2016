@@ -58,7 +58,7 @@
 					<a href="<?php echo $basePath; ?>/">CSCW 2016</a>
 				</div>
 				<div class="title-block">
-					<h2><small>The 18th ACM conference on</small> Computer-Supported Cooperative Work and <span>Social Computing</span></h2>
+					<h2><small>The <?php echo $nth; ?> ACM conference on</small> Computer-Supported Cooperative Work and <span>Social Computing</span></h2>
 					<h3>March 14-18, 2016 | Vancouver, BC, Canada</h3>
 				</div>
 			</div>
