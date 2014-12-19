@@ -8,6 +8,9 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
 
+	<!-- On test release branch, do not let search engines index pages -->
+	<meta name="robots" content="noindex, nofollow">
+
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
