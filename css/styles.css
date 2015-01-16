@@ -64,7 +64,7 @@ a.anchortag:hover {
 /* Header
 ================================================== */
 header {
-	border-bottom: 1px solid #7b7b7b; background: #D8EBFA; background: rgba(256,256,256, 0.9); padding: 100px 0 0;
+	background: #D8EBFA; background: rgba(256,256,256, 0.9); padding: 100px 0 0;
 }
 .header-strip{
 	height: 50px; background: url(../images/bg-home.jpg) 0% 75%;
@@ -112,11 +112,11 @@ header {
 }
 
 nav {
-	border-bottom: 1px solid #7b7b7b;background: #D8EBFA; background: rgba(192,210,224,0.9);
+	background: rgb(197,32,38);
 }
 
 nav ul {
-	display: table; table-layout: fixed; width: 100%; max-width: 860px; margin: 0 auto; padding: 0; border-left: 1px solid #7b7b7b;
+	display: table; table-layout: fixed; width: 100%; max-width: 860px; margin: 0 auto; padding: 0;
 }
 
 nav ul li {
@@ -124,30 +124,30 @@ nav ul li {
 }
 
 nav ul li a {
-	display: block; padding: 8px; border-right: 1px solid rgba(0,0,0,0.4); color: #333; font-size: 13px; font-weight: bold; text-transform: uppercase; text-align: center; text-decoration: none; overflow: hidden;
+	display: block; padding: 8px; color: white; font-size: 13px; font-weight: bold; text-transform: uppercase; text-align: center; text-decoration: none; overflow: hidden;
 }
 
 nav ul li:first-child a {
 	margin-left: 0;
 }
 
-.home nav ul li a.home {  color: #ffffff; background: #2C4762; }
-.submit nav ul li a.submit {  color: #ffffff; background: #2FB1B6; }
-.attend nav ul li a.attend {  color: #ffffff; background: #8A9B0F; }
-.program nav ul li a.program {  color: #ffffff; background: #d84a3a; }
-.volunteer nav ul li a.volunteer {  color: #ffffff; background: #F2CF19; }
-.committee nav ul li a.committee {  color: #ffffff; background: #D97908; }
-.sponsors nav ul li a.sponsors {  color: #ffffff; background: #543775; }
+.home nav ul li a.home {  color: #ffffff; background: #af1b21; }
+.submit nav ul li a.submit {  color: #ffffff; background: #af1b21; }
+.attend nav ul li a.attend {  color: #ffffff; background: #af1b21; }
+.program nav ul li a.program {  color: #ffffff; background: #af1b21; }
+.volunteer nav ul li a.volunteer {  color: #ffffff; background: #af1b21; }
+.committee nav ul li a.committee {  color: #ffffff; background: #af1b21; }
+.sponsors nav ul li a.sponsors {  color: #ffffff; background: #af1b21; }
 
-nav ul li a.home:hover {  color: #ffffff; background: #2C4762; }
-nav ul li a.submit:hover {  color: #ffffff; background: #2FB1B6; }
-nav ul li a.attend:hover {  color: #ffffff; background: #8A9B0F; }
-nav ul li a.program:hover {  color: #ffffff; background: #d84a3a; }
-nav ul li a.volunteer:hover {  color: #ffffff; background: #F2CF19; }
-nav ul li a.committee:hover {  color: #ffffff; background: #D97908; }
-nav ul li a.sponsors:hover {  color: #ffffff; background: #543775; }
+nav ul li a.home:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.submit:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.attend:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.program:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.volunteer:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.committee:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.sponsors:hover {  color: #ffffff; background: #af1b21; }
 
-nav ul li a:visited {color: #000;}
+nav ul li a:visited {color: #ffffff;}
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) { /* ipad portrait */
 	header {
@@ -195,7 +195,7 @@ nav ul li a:visited {color: #000;}
 	}
 	
 	nav ul li a {
-		margin: 0; border-top: 1px solid #ffffff; border-right: none;
+		margin: 0; border-right: none;
 	}
 	
 	nav ul li:first-child a {
