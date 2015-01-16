@@ -51,7 +51,7 @@ a.anchortag:hover {
 	  background-size: cover;
 	}
 	
-	body.home { background-image: url(../images/bg-home.jpg); }
+	
 	body.submit { background-image: url(../images/GrouseMountaindownhill.jpg); }
 	body.attend { background-image: url(../images/bg-attend.jpg); }
 	body.program { background-image: url(../images/bg-program.jpg); }
@@ -64,9 +64,11 @@ a.anchortag:hover {
 /* Header
 ================================================== */
 header {
-	border-bottom: 1px solid #7b7b7b; background: #D8EBFA; background: rgba(216,235,250, 0.9); padding: 10px 0 0;
+	border-bottom: 1px solid #7b7b7b; background: #D8EBFA; background: rgba(256,256,256, 0.9); padding: 100px 0 0;
 }
-
+.header-strip{
+	height: 50px; background: url(../images/bg-home.jpg) 0% 75%;
+}
 .brand { 
 	margin-bottom: 15px;
 }
@@ -76,7 +78,7 @@ header {
 }
 
 .logo a {
-	display: block; width: 200px; height: 100px; text-indent: -999em; background: url(../images/logo.png) 0 0 no-repeat;
+	display: block; width: 200px; height: 165px; text-indent: -999em; background: url(../images/logo.png) 0 0 no-repeat;
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
@@ -90,11 +92,11 @@ header {
 }
 
 .title-block {
-	float: right; width: 75%; padding-top: 5px;
+	position: absolute; bottom: 10px; right:0; width: 75%; padding-top: 5px;
 }
 
 .title-block h2 {
-	margin-bottom: 5px; color: #1D54A7; font-weight: bold; font-size: 24px; line-height: 1.0; 
+	margin-bottom: 5px; color: black; font-weight: bold; font-size: 36px; line-height: 1.0; 
 }
 
 .title-block h2 span {
@@ -102,7 +104,7 @@ header {
 }
 
 .title-block h2 small {
-	display: block; color: #858080; font-size: 14px; font-style: italic; font-weight: normal;
+	display: block; color: #858080; font-size: 14px; font-weight: normal;
 }
 
 .title-block h3 {

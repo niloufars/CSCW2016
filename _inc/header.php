@@ -1,5 +1,5 @@
 <?php
-	include_once(dirname(__FILE__) . '/config.php');
+include_once(dirname(__FILE__) . '/config.php');
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
@@ -9,25 +9,25 @@
 <head>
 
 	<!-- Basic Page Needs
-  ================================================== -->
+	================================================== -->
 	<meta charset="utf-8">
 	<title><?php if($pageTitle != '') { echo $pageTitle . ' | '; } ?>CSCW <?php echo $year; ?></title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
 	<!-- Mobile Specific Metas
-  ================================================== -->
+	================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- CSS
-  ================================================== -->
+	================================================== -->
 	<link rel="stylesheet" href="<?php echo $basePath; ?>/css/base.css">
 	<link rel="stylesheet" href="<?php echo $basePath; ?>/css/styles.css">
 	<link rel="stylesheet" href="<?php echo $basePath; ?>/css/layout.css">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+		<![endif]-->
 
 	<!-- Favicons
 	================================================== -->
@@ -39,13 +39,13 @@
 	
 	<!-- Google Analytics -->
 	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	  ga('create', 'UA-50637706-1', 'acm.org');
-	  ga('send', 'pageview');
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-50637706-1', 'acm.org');
+		ga('send', 'pageview');
 	</script>
 	
 </head>
@@ -58,10 +58,14 @@
 					<a href="<?php echo $basePath; ?>/">CSCW <?php echo $year; ?></a>
 				</div>
 				<div class="title-block">
-					<h2><small>The <?php echo $nth; ?> ACM conference on</small> Computer-Supported Cooperative Work and <span>Social Computing</span></h2>
-					<h3><?php echo "$datesYear | $cityCountry"; ?></h3>
+					<h2><small>The <?php echo $nth; ?> ACM conference on</small> Computer-Supported Cooperative Work and Social Computing</h2>
+					<h3><?php echo "$datesYear"; ?></h3>
 				</div>
 			</div>
+
+		</div>
+		<div class="header-strip">
+			
 		</div>
 	</header>
 	<a href="#menu" class="menu-link">Menu</a>			
