@@ -51,7 +51,7 @@ a.anchortag:hover {
 	  background-size: cover;
 	}
 	
-	body.home { background-image: url(../images/bg-home.jpg); }
+	
 	body.submit { background-image: url(../images/GrouseMountaindownhill.jpg); }
 	body.attend { background-image: url(../images/bg-attend.jpg); }
 	body.program { background-image: url(../images/bg-program.jpg); }
@@ -64,9 +64,11 @@ a.anchortag:hover {
 /* Header
 ================================================== */
 header {
-	border-bottom: 1px solid #7b7b7b; background: #D8EBFA; background: rgba(216,235,250, 0.9); padding: 10px 0 0;
+	background: #D8EBFA; background: rgba(256,256,256, 0.9); padding: 100px 0 0;
 }
-
+.header-strip{
+	height: 50px; background: url(../images/bg-home.jpg) 0% 75%;
+}
 .brand { 
 	margin-bottom: 15px;
 }
@@ -76,7 +78,7 @@ header {
 }
 
 .logo a {
-	display: block; width: 200px; height: 100px; text-indent: -999em; background: url(../images/logo.png) 0 0 no-repeat;
+	display: block; width: 200px; height: 165px; text-indent: -999em; background: url(../images/logo.png) 0 0 no-repeat;
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
@@ -90,11 +92,11 @@ header {
 }
 
 .title-block {
-	float: right; width: 75%; padding-top: 5px;
+	position: absolute; bottom: 10px; right:0; width: 75%; padding-top: 5px;
 }
 
 .title-block h2 {
-	margin-bottom: 5px; color: #1D54A7; font-weight: bold; font-size: 24px; line-height: 1.0; 
+	margin-bottom: 5px; color: black; font-weight: bold; font-size: 36px; line-height: 1.0; 
 }
 
 .title-block h2 span {
@@ -102,7 +104,7 @@ header {
 }
 
 .title-block h2 small {
-	display: block; color: #858080; font-size: 14px; font-style: italic; font-weight: normal;
+	display: block; color: #858080; font-size: 14px; font-weight: normal;
 }
 
 .title-block h3 {
@@ -110,11 +112,11 @@ header {
 }
 
 nav {
-	border-bottom: 1px solid #7b7b7b;background: #D8EBFA; background: rgba(192,210,224,0.9);
+	background: rgb(197,32,38);
 }
 
 nav ul {
-	display: table; table-layout: fixed; width: 100%; max-width: 860px; margin: 0 auto; padding: 0; border-left: 1px solid #7b7b7b;
+	display: table; table-layout: fixed; width: 100%; max-width: 860px; margin: 0 auto; padding: 0;
 }
 
 nav ul li {
@@ -122,30 +124,30 @@ nav ul li {
 }
 
 nav ul li a {
-	display: block; padding: 8px; border-right: 1px solid rgba(0,0,0,0.4); color: #333; font-size: 13px; font-weight: bold; text-transform: uppercase; text-align: center; text-decoration: none; overflow: hidden;
+	display: block; padding: 8px; color: white; font-size: 13px; font-weight: bold; text-transform: uppercase; text-align: center; text-decoration: none; overflow: hidden;
 }
 
 nav ul li:first-child a {
 	margin-left: 0;
 }
 
-.home nav ul li a.home {  color: #ffffff; background: #2C4762; }
-.submit nav ul li a.submit {  color: #ffffff; background: #2FB1B6; }
-.attend nav ul li a.attend {  color: #ffffff; background: #8A9B0F; }
-.program nav ul li a.program {  color: #ffffff; background: #d84a3a; }
-.volunteer nav ul li a.volunteer {  color: #ffffff; background: #F2CF19; }
-.committee nav ul li a.committee {  color: #ffffff; background: #D97908; }
-.sponsors nav ul li a.sponsors {  color: #ffffff; background: #543775; }
+.home nav ul li a.home {  color: #ffffff; background: #af1b21; }
+.submit nav ul li a.submit {  color: #ffffff; background: #af1b21; }
+.attend nav ul li a.attend {  color: #ffffff; background: #af1b21; }
+.program nav ul li a.program {  color: #ffffff; background: #af1b21; }
+.volunteer nav ul li a.volunteer {  color: #ffffff; background: #af1b21; }
+.committee nav ul li a.committee {  color: #ffffff; background: #af1b21; }
+.sponsors nav ul li a.sponsors {  color: #ffffff; background: #af1b21; }
 
-nav ul li a.home:hover {  color: #ffffff; background: #2C4762; }
-nav ul li a.submit:hover {  color: #ffffff; background: #2FB1B6; }
-nav ul li a.attend:hover {  color: #ffffff; background: #8A9B0F; }
-nav ul li a.program:hover {  color: #ffffff; background: #d84a3a; }
-nav ul li a.volunteer:hover {  color: #ffffff; background: #F2CF19; }
-nav ul li a.committee:hover {  color: #ffffff; background: #D97908; }
-nav ul li a.sponsors:hover {  color: #ffffff; background: #543775; }
+nav ul li a.home:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.submit:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.attend:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.program:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.volunteer:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.committee:hover {  color: #ffffff; background: #af1b21; }
+nav ul li a.sponsors:hover {  color: #ffffff; background: #af1b21; }
 
-nav ul li a:visited {color: #000;}
+nav ul li a:visited {color: #ffffff;}
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) { /* ipad portrait */
 	header {
@@ -193,7 +195,7 @@ nav ul li a:visited {color: #000;}
 	}
 	
 	nav ul li a {
-		margin: 0; border-top: 1px solid #ffffff; border-right: none;
+		margin: 0; border-right: none;
 	}
 	
 	nav ul li:first-child a {
@@ -253,7 +255,7 @@ nav ul li a:visited {color: #000;}
 ================================================== */
 
 aside {
-	margin-top: 60px;
+	
 }
 
 aside .item {
