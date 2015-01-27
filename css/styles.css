@@ -69,11 +69,19 @@ header {
 	height: 207px; 
 	text-indent: -999em; 
 	background: url(../images/logo.png) 0 0 no-repeat;
+    background-size: 250px 207px; 
+}
+
+@media only screen and (max-width: 959px) {
+    .logo a {
+       background-image: url(../images/logo@220px.png);
+    }
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
 	.logo a {
-		margin: 0 auto; background-image: url(../images/logo@2x.png); background-size: 250px 207px; 
+		margin: 0 auto; 
+		background-image: url(../images/logo@2x.png); 
 	}
 }
 
