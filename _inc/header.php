@@ -57,7 +57,7 @@ include_once(dirname(__FILE__) . '/config.php');
 	<header role="banner" class="clearfix">
 		<div class="container">
 			<div class="brand clearfix">
-				<div class="logo six columns">
+				<div class="logo four columns offset-by-one">
 					<a href="<?php echo $basePath; ?>/">CSCW <?php echo $year; ?></a>
 				</div>
 				<div class="title-block ten columns">

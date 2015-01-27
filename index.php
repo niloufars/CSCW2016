@@ -6,7 +6,7 @@ include_once('_inc/header.php');
 ?>
 <div class="container main">
 	<div class="row">
-		<aside class="five columns offset-by-one">
+		<aside class="four columns offset-by-one">
 			<div class="item">
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
