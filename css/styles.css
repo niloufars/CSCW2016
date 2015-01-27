@@ -81,7 +81,7 @@ header {
 }
 
 .title-block h1 {
-	margin-bottom: 5px; 
+	margin-bottom: 2px;
 }
 
 .title-block h1 span {
@@ -89,7 +89,11 @@ header {
 }
 
 .title-block h1 small {
-	display: block; color: #858080; font-size: 14px; font-weight: normal;
+	display: block;
+	color: #808080;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 18px;
 }
 
 
