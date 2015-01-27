@@ -35,7 +35,7 @@ include_once(dirname(__FILE__) . '/config.php');
 
 	<!-- Webfonts
 	================================================== -->
-	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Raleway:500,400' rel='stylesheet' type='text/css'>
 	
 	<!-- Google Analytics -->
 	<script>
@@ -58,8 +58,9 @@ include_once(dirname(__FILE__) . '/config.php');
 					<a href="<?php echo $basePath; ?>/">CSCW <?php echo $year; ?></a>
 				</div>
 				<div class="title-block">
-					<h2><small>The <?php echo $nth; ?> ACM conference on</small> Computer-Supported Cooperative Work and Social Computing</h2>
-					<h3><?php echo "$datesYear"; ?></h3>
+					<h1><small>The <?php echo $nth; ?> ACM conference on</small> 
+					Computer-Supported Cooperative<br> Work and Social Computing
+					<small><?php echo "$datesYear"; ?></small></h1>
 				</div>
 			</div>
 
