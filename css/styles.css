@@ -325,7 +325,8 @@ nav ul li a:visited {color: #ffffff;}
 ================================================== */
 
 aside {
-	
+	font-size: 14px;
+	line-height: 18.4px;
 }
 
 aside .item {
@@ -337,7 +338,8 @@ aside .item h2 {
 	margin-bottom: 0; 
 	font-size: 20px; 
 	line-height: 36px;
-	font-weight: 600; 
+	font-weight: 600;
+	padding-top: 10px; 
 }
 
 aside .item .inner {
