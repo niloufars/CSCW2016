@@ -300,17 +300,15 @@ aside .item h2 {
 	margin-bottom: 0; 
 	font-size: 16px; 
 	font-weight: 600; 
-	text-align: center;
+	padding-top: 7px;      /* baseline alignment with h1 in body content */
 }
 
 aside .item .inner {
-	padding: 10px; background: #D8EBFA;
 }
 
 aside .item #updates {
-	height: 200px;
-	overflow-y: scroll;
-	font-size: 12px;
+/* 	min-height: 200px; */
+/* 	overflow-y: scroll; */
 }
 
 aside .subnav {
