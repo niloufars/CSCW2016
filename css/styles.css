@@ -73,7 +73,7 @@ header {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
 	.logo a {
-		margin: 0 auto; background-image: url(../images/logo@2x.png); background-size: 200px 100px; 
+		margin: 0 auto; background-image: url(../images/logo@2x.png); background-size: 250px 207px; 
 	}
 }
 
