@@ -57,6 +57,11 @@
 
 /* #Typography
 ================================================== */
+    body {
+        font-family: "Merriweather", "Georgia", serif;
+        font-weight: 400;
+    }
+
 	h1, h2, h3, h4, h5, h6, nav {
 		font-family: "Raleway", "Century Gothic", "Futura", sans-serif;
 		font-weight: 500;
