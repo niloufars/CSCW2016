@@ -42,23 +42,8 @@ a.anchortag:hover {
 @media only screen and (min-width: 1050px) {
 
 	body {
-	  background-repeat: no-repeat;
-	  background-position: center center;
-	  background-attachment: fixed;
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
+        background: #fff;
 	}
-	
-	
-	body.submit { background-image: url(../images/GrouseMountaindownhill.jpg); }
-	body.attend { background-image: url(../images/bg-attend.jpg); }
-	body.program { background-image: url(../images/bg-program.jpg); }
-	body.volunteer { background-image: url(../images/bg-volunteer.jpg); }
-	body.committee { background-image: url(../images/bg-committee.jpg); }
-	body.sponsors { background-image: url(../images/bg-sponsors.jpg); }
-
 }
 
 /* Header
@@ -96,7 +81,7 @@ header {
 }
 
 .title-block h1 {
-	margin-bottom: 5px; 
+	margin-bottom: 2px;
 }
 
 .title-block h1 span {
@@ -104,7 +89,11 @@ header {
 }
 
 .title-block h1 small {
-	display: block; color: #858080; font-size: 14px; font-weight: normal;
+	display: block;
+	color: #808080;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 18px;
 }
 
 
@@ -282,7 +271,7 @@ aside .subnav li {
 }
 
 aside .subnav a {
-	display: block; padding: 10px 15px; background: #D8EBFA; color: #444; text-decoration: none;
+	display: block; padding: 10px 15px; background: #D8EBFA; color: #222; text-decoration: none;
 }
 
 aside .subnav a:hover {
@@ -339,13 +328,13 @@ footer .container {
 @media only screen and (max-width: 959px),
 		only screen and (max-device-width: 959px) {
 	footer {
-		margin-bottom: 0; background: #D8EBFA; color: #444; text-align: center;
+		margin-bottom: 0; background: #D8EBFA; color: #222; text-align: center;
 	}
 	footer .container {
 		background: transparent; border-top: none; padding: 15px 0px; 
 	}
 	footer a {
-		color: #444;
+		color: #222;
 	}
 }
 

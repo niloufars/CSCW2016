@@ -49,7 +49,7 @@
 ================================================== */
 	body {
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		color: #444;
+		color: #222;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  }
@@ -58,12 +58,11 @@
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
-		color: #1D54A7;
 		font-family: "Raleway", "Century Gothic", "Futura", sans-serif;
 		font-weight: 600;
 		}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-	h1, .h1 { font-size: 30px; line-height: 40px; margin-bottom: 10px;}
+	h1, .h1 { font-size: 30px; line-height: 36px; margin-bottom: 10px;}
 	h2, .h2 { font-size: 25px; line-height: 35px; margin-bottom: 8px; }
 	h3, .h3 { font-size: 20px; line-height: 32px; margin-bottom: 6px; }
 	h4, .h4 { font-size: 16px; line-height: 30px; margin-bottom: 4px; }
@@ -141,7 +140,7 @@
 	  -moz-border-radius: 3px;
 	  -webkit-border-radius: 3px;
 	  border-radius: 3px;
-	  color: #444;
+	  color: #222;
 	  display: inline-block;
 	  font-size: 11px;
 	  font-weight: bold;
@@ -235,7 +234,7 @@
 	input[type="email"]:focus,
 	textarea:focus {
 		border: 1px solid #aaa;
- 		color: #444;
+ 		color: #222;
  		-moz-box-shadow: 0 0 3px rgba(0,0,0,.2);
 		-webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
 		box-shadow:  0 0 3px rgba(0,0,0,.2); }
@@ -254,7 +253,7 @@
 	legend span {
 		font-weight: normal;
 		font-size: 13px;
-		color: #444; }
+		color: #222; }
 
 /* #Misc
 ================================================== */
