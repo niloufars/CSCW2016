@@ -49,13 +49,13 @@ a.anchortag:hover {
 /* Header
 ================================================== */
 header {
-	padding: 100px 0 0;
+	padding: 50px 0 0;
 }
 .header-strip{
 	height: 50px; background: url(../images/bg-home.jpg) 0% 75%;
 }
 .brand { 
-	margin-bottom: 15px;
+	margin-bottom: 36px;
 }
 
 .logo {
@@ -64,9 +64,9 @@ header {
 
 .logo a {
 	display: block;
-	margin-left: -43px;    /* optical margin on CSCW 2016 logo */ 
-	width: 200px; 
-	height: 165px; 
+	margin-left: -50px;    /* optical margin on CSCW 2016 logo */ 
+	width: 250px; 
+	height: 207px; 
 	text-indent: -999em; 
 	background: url(../images/logo.png) 0 0 no-repeat;
 }
@@ -83,14 +83,11 @@ header {
 
 .title-block {
 	position: absolute; 
-	bottom: 10px; 
-	right:0; 
-	width: 75%; 
-	padding-top: 5px;
+	bottom: 36px; 
 }
 
 .title-block h1 {
-	margin-bottom: 2px;
+	margin-bottom: -2px;
 }
 
 .title-block h1 span {
