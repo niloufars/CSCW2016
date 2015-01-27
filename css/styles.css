@@ -201,6 +201,10 @@ nav ul li a:visited {color: #ffffff;}
 		text-align: center;
 	}
 	
+	.header-strip {
+	   background-position-x: 50%;     /* center photographic element on mobile */
+	}
+	
 	.brand {
 		margin-bottom: 20px;
 	}
