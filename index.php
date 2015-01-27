@@ -6,34 +6,11 @@ include_once('_inc/header.php');
 ?>
 <div class="container main">
 	<div class="row">
-		<aside class="four columns offset-by-one">
-			<div class="item">
-				<h2>Updates</h2>
-				<div class="inner" id="updates">
-					
-					<!--
-					December 15: Notification of acceptance of workshop submissions, posters,
-					panels, demos, and doctoral colloquium.
-					November 10: Posters, panels, demos, and doctoral colloquium submissions
-					due. 
-                                    
-				-->
-<?php /* TODO: launch news item
-                        <p><strong>October 27:</strong> Student volunteer applicants have been informed of acceptance or waitlist status</p>
-                        <p><strong>October 26:</strong> Attention authors! Final camera-ready papers <a href="https://precisionconference.com/~cscw15a/" target="_blank">due</a></p>
-                        <p><strong>October 21:</strong> Descriptions of the 11 accepted workshops have been <a href="http://cscw.acm.org/2015/program/accepted_workshops.php">posted</a></p>
-						<p><strong>October 5:</strong> Workshop organizers have been notified of acceptance. Descriptions of the 11 accepted workshops will be posted after October 15</p>
-						<p><strong>August 27:</strong> Final paper acceptances have been <a href="https://precisionconference.com/~cscw15a/" target="_blank">released</a></p>
-						<p><strong>August 18:</strong> Attention students! <a href="http://cscw.acm.org/2015/volunteer/sv.php">Enrollment</a> for student volunteers has opened, and will remain available until October 24th</p>
-						<p><strong>August 13:</strong> Attention reviewers! <a href="https://precisionconference.com/~sigchi?goto=cscw15a" target="_blank">Second-round paper reviews</a> due at 5pm PDT</p>
-						<p><strong>August 8:</strong> Attention workshop organizers! <a href="http://cscw.acm.org/2015/submit/workshops.php">Workshop proposals</a> due at 5pm PDT</p>
-						<p><strong>August 1:</strong> Attention authors! <a href="http://cscw.acm.org/2015/submit/papers.php">Revised papers</a> due for second-round reviews at 5pm PDT</p>
-						<p><strong>July 1: </strong><a href="https://precisionconference.com/~sigchi?goto=cscw15a" target="_blank">Round 1 paper scores</a> have been announced</p>
-						<p><strong>June 5, 2014:</strong> Final selection of student reviewers and mentor volunteers are done for CSCW 2015's <a href="http://cscw.acm.org/2015/volunteer/mentor.php">Reviewing Mentor Program</a></p>
-						<p><strong>April 26, 2014:</strong> Information posted about <a href="http://cscw.acm.org/2015/volunteer/mentor.php">CSCW Reviewing Mentor Program</a></p>
-						<p><strong>March 24, 2014:</strong> CSCW 2015 <a href="http://cscw.acm.org/2015/submit/">Call for Participation</a> released</p>
-						<p><strong>Feb 19, 2014:</strong> CSCW 2015 Website launched!</p>
-						*/?>
+			<aside class="four columns offset-by-one">
+				<div class="item">
+					<h2>Updates</h2>
+					<div class="inner" id="updates">
+						<p><strong>Feb 16, 2015:</strong> CSCW 2016 Website launched!</p>
 					</div>
 				</div>
 				
