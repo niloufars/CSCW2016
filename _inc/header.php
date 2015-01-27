@@ -54,10 +54,10 @@ include_once(dirname(__FILE__) . '/config.php');
 	<header role="banner" class="clearfix">
 		<div class="container">
 			<div class="brand clearfix">
-				<div class="logo">
+				<div class="logo six columns">
 					<a href="<?php echo $basePath; ?>/">CSCW <?php echo $year; ?></a>
 				</div>
-				<div class="title-block">
+				<div class="title-block ten columns">
 					<h1><small>The <?php echo $nth; ?> <abbr title="Association for Computing Machinery">ACM</abbr> conference on</small> 
 					Computer-Supported Cooperative<br> Work and Social Computing
 					<small><?php echo "$datesYear"; ?></small></h1>
