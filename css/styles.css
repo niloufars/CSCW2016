@@ -205,15 +205,10 @@ nav ul li a:visited {color: #ffffff;}
 		margin-bottom: 20px;
 	}
 	
-	.logo {
-		float: none;
-		margin: auto;
-	}
-	
     .logo a {
         position: relative;
-        left: -20px;           /* optical margin on CSCW 2016 logo */
-        margin: 0;
+        left: -21px;           /* optical margin on CSCW 2016 logo */
+        margin: auto;
     }
     
 	.title-block {
