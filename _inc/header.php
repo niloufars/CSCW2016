@@ -8,6 +8,10 @@ include_once(dirname(__FILE__) . '/config.php');
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
 
+	<!-- Webfonts (first so it loads earlier)
+	================================================== -->
+	<link href='http://fonts.googleapis.com/css?family=Raleway:600,400' rel='stylesheet' type='text/css'>
+	
 	<!-- Basic Page Needs
 	================================================== -->
 	<meta charset="utf-8">
@@ -33,10 +37,6 @@ include_once(dirname(__FILE__) . '/config.php');
 	================================================== -->
 	<link rel="shortcut icon" href="<?php echo $basePath; ?>/favicon.ico?v=2" />
 
-	<!-- Webfonts
-	================================================== -->
-	<link href='http://fonts.googleapis.com/css?family=Raleway:500,400' rel='stylesheet' type='text/css'>
-	
 	<!-- Google Analytics -->
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

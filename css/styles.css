@@ -110,7 +110,15 @@ nav ul li {
 }
 
 nav ul li a {
-	display: block; padding: 8px; color: white; font-size: 13px; font-weight: bold; text-transform: uppercase; text-align: center; text-decoration: none; overflow: hidden;
+	display: block;
+	padding: 8px;
+	color: white;
+	font-size: 12px;
+	text-transform: uppercase;
+    letter-spacing: 1px;
+	text-align: center;
+	text-decoration: none;
+	overflow: hidden;
 }
 
 nav ul li:first-child a {
