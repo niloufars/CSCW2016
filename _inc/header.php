@@ -11,7 +11,7 @@ include_once(dirname(__FILE__) . '/config.php');
 	<!-- Webfonts (first so it loads earlier)
 	================================================== -->
 	<link href='http://fonts.googleapis.com/css?family=Raleway:600,500,400' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
 	
 	<!-- Basic Page Needs
 	================================================== -->
