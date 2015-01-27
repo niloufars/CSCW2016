@@ -59,8 +59,9 @@
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
 		color: #1D54A7;
-		font-family: 'Lato', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		font-weight: bold; }
+		font-family: "Raleway", "Century Gothic", "Futura", sans-serif;
+		font-weight: 600;
+		}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1, .h1 { font-size: 30px; line-height: 40px; margin-bottom: 10px;}
 	h2, .h2 { font-size: 25px; line-height: 35px; margin-bottom: 8px; }
