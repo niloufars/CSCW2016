@@ -87,6 +87,8 @@ header {
 }
 
 .title-block h1 {
+	font-size: 38px;
+    line-height: 42px;
 	margin-bottom: -2px;
 }
 
@@ -163,6 +165,13 @@ nav ul li a:visited {color: #ffffff;}
 	header {
 		position: center; text-align: center; padding-left: 1px;
 	}
+}
+
+@media only screen and (max-width: 959px) {
+    .title-block h1 {
+        font-size: inherit;
+        line-height: inherit;
+    }
 }
 
 @media only screen and (max-width: 767px), 
@@ -242,6 +251,7 @@ nav ul li a:visited {color: #ffffff;}
 .sponsors-list a {
 	display: inline-block; padding: 10px; border: 1px solid #ddd; background: #fff;
 }
+
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	.container.main {
