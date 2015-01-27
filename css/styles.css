@@ -94,11 +94,13 @@ header {
 }
 
 .title-block {
-	position: absolute; 
-	bottom: 36px; 
+	position: relative;
+	height: 207px;
 }
 
 .title-block h1 {
+    position: absolute;
+    bottom: 0;
 	font-size: 38px;
     line-height: 42px;
 	margin-bottom: -2px;
@@ -183,6 +185,7 @@ nav ul li a:visited {color: #ffffff;}
     .title-block h1 {
         font-size: 30px;
         line-height: 36px;
+        height: 176px;
     }
 }
 
