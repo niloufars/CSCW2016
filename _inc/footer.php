@@ -1,6 +1,6 @@
 	<footer role="contentinfo">
 		<div class="container">
-			<p>
+			<div class="ten columns offset-by-five">
 	    	Past Conferences: 
 	    		<a href="/2015/" target="_blank">2015</a> | 
 	    		<a href="/2014/" target="_blank">2014</a> | 

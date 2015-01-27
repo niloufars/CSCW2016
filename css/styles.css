@@ -421,33 +421,25 @@ aside .item .fb-like-box {
 ================================================== */
 
 footer {
-	margin-bottom: 40px; color: #fff; text-align: right;
-	font-weight: bold;
+	color: #fff;
+	background: #C83127; 
 }
 
-footer p {
-	margin-bottom: 5px; font-size: 12px; line-height: 1.3;
+footer .container {
+    padding: 18px 0;
+}
+
+footer div {
+	font-size: 12px; 
+	font-weight: 500;
 }
 
 footer a {color: #fff;}
 footer a:visited {color: #fff;}
 footer a:hover {color: #8f8e8e;}
 
-footer .container {
-	 padding: 15px 30px; border-top: 1px solid rgba(0,0,0,0.7); background: #000; background: rgba(0, 0, 0, .3); border-radius: 0 0 5px 5px; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-}
-
 @media only screen and (max-width: 959px),
 		only screen and (max-device-width: 959px) {
-	footer {
-		margin-bottom: 0; background: #D8EBFA; color: #222; text-align: center;
-	}
-	footer .container {
-		background: transparent; border-top: none; padding: 15px 0px; 
-	}
-	footer a {
-		color: #222;
-	}
 }
 
 /* Program */
