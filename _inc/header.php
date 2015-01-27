@@ -61,7 +61,7 @@ include_once(dirname(__FILE__) . '/config.php');
 					<a href="<?php echo $basePath; ?>/">CSCW <?php echo $year; ?></a>
 				</div>
 				<div class="title-block">
-					<h1><small>The <?php echo $nth; ?> ACM conference on</small> 
+					<h1><small>The <?php echo $nth; ?> <abbr title="Association for Computing Machinery">ACM</abbr> conference on</small> 
 					Computer-Supported Cooperative<br> Work and Social Computing
 					<small><?php echo "$datesYear"; ?></small></h1>
 				</div>
