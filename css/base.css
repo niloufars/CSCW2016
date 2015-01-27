@@ -48,20 +48,16 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font: 15px/23px "PT Serif", "Georgia", serif;
 		color: #222;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
- }
+        font-weight: normal;
+    }
 
 
 /* #Typography
 ================================================== */
-    body {
-        font-family: "PT Serif", "Georgia", serif;
-        font-weight: normal;
-    }
-
 	h1, h2, h3, h4, h5, h6, nav {
 		font-family: "Raleway", "Century Gothic", "Futura", sans-serif;
 		font-weight: 500;
