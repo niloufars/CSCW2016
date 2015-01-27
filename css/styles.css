@@ -398,16 +398,16 @@ aside .item .fb-like-box {
 }
 
 .fb-like-box {
-	width: 95;
-	padding: 0;
+	width: 95 !important;
+	padding: 0 !important;
 }
 
 .fb-like-box > span {
-	width: 100%;
+	width: 100% !important;
 }
 
 .fb-like-box > span > iframe {
-    width: 100%;
+    width: 100% !important;
 }
 
 /* Footer
