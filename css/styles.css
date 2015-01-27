@@ -133,7 +133,12 @@ nav {
 }
 
 nav ul {
-	display: table; table-layout: fixed; width: 100%; max-width: 860px; margin: 0 auto; padding: 0;
+	display: table; 
+	table-layout: fixed; 
+	width: 100%; 
+	max-width: 963px;  /* manually tweaked so the left edge of "HOME" lines up with the logo and sidebar left margin */    
+	margin: 0 auto; 
+	padding: 0;
 }
 
 nav ul li {
