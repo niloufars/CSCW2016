@@ -97,13 +97,14 @@ header {
 }
 
 .title-block h1 abbr {
-	/* opentype all small caps */
-	-moz-font-feature-settings: "c2sc", "smcp";
-	-moz-font-feature-settings: "c2sc=1, smcp=1";
-	-ms-font-feature-settings: "c2sc", "smcp";
-	-o-font-feature-settings: "c2sc", "smcp";
-	-webkit-font-feature-settings: "c2sc", "smcp";
-	font-feature-settings: "c2sc", "smcp";	
+	/* all small caps (by transforming to lowercase and using small caps) */
+	text-transform: lowercase;
+	-moz-font-feature-settings: "smcp";
+	-moz-font-feature-settings: "smcp=1";
+	-ms-font-feature-settings: "smcp";
+	-o-font-feature-settings: "smcp";
+	-webkit-font-feature-settings: "smcp";
+	font-feature-settings: "smcp";	
 }
 
 nav {
