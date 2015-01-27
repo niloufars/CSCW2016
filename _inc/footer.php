@@ -11,7 +11,7 @@
 	    	<br />
 	    	<!--Graphic Design & Webmastering: Matthew Kay, Niloufar Salehi | -->
 	    	Contact: <a href="mailto:webmasters<?php echo $year; ?>@cscw.acm.org">webmaster<?php echo $year; ?>@cscw.acm.org</a><br />
-	    	CSCW <?php echo $year; ?> | Copyright &copy; 2014-2016	</p>
+	    	CSCW <?php echo $year; ?> | Copyright &copy; 2014-2016
 		</div>
 	</footer>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
