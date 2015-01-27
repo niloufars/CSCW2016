@@ -96,6 +96,15 @@ header {
 	line-height: 18px;
 }
 
+.title-block h1 abbr {
+	/* opentype all small caps */
+	-moz-font-feature-settings: "c2sc", "smcp";
+	-moz-font-feature-settings: "c2sc=1, smcp=1";
+	-ms-font-feature-settings: "c2sc", "smcp";
+	-o-font-feature-settings: "c2sc", "smcp";
+	-webkit-font-feature-settings: "c2sc", "smcp";
+	font-feature-settings: "c2sc", "smcp";	
+}
 
 nav {
 	background: #C83127;
