@@ -390,6 +390,10 @@ aside .item .fb-like-box {
 	background-color: #edeff4;
 }
 
+#twitter-widget-0 {
+	max-width: 95%;
+	min-width: auto;
+}
 
 /* Footer
 ================================================== */
