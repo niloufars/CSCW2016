@@ -72,13 +72,13 @@ include_once(dirname(__FILE__) . '/config.php');
 	</header>
 	<a href="#menu" class="menu-link">Menu</a>			
 	<nav role="navigation" id="menu">
-		<ul>
-			<li><a href="<?php echo $basePath; ?>/" class="home">Home</a></li
+		<ul
+			><li><a href="<?php echo $basePath; ?>/" class="home">Home</a></li
 			><li><a href="<?php echo $basePath; ?>/submit/" class="submit">Submit</a></li
 			><li><a href="<?php echo $basePath; ?>/attend/" class="attend">Attend</a></li
 			><li><a href="<?php echo $basePath; ?>/program/" class="program">Program</a></li
 			><li><a href="<?php echo $basePath; ?>/volunteer/" class="volunteer">Volunteer</a></li
 			><li><a href="<?php echo $basePath; ?>/committee/" class="committee">Committee</a></li
-			><li><a href="<?php echo $basePath; ?>/sponsors/" class="sponsors">Sponsors</a></li>
-		</ul>
+			><li><a href="<?php echo $basePath; ?>/sponsors/" class="sponsors">Sponsors</a></li
+		></ul>
 	</nav>
