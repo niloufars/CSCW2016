@@ -194,8 +194,11 @@ nav ul li a:visited {color: #ffffff;}
 @media only screen and (max-width: 767px), 
 		only screen and (max-device-width: 767px) {
 	
+	/* small screen header and navigation */
+	
 	header {
-		position: relative; text-align: center;
+		position: relative; 
+		text-align: center;
 	}
 	
 	.brand {
@@ -203,11 +206,15 @@ nav ul li a:visited {color: #ffffff;}
 	}
 	
 	.logo {
-		float: none; width: auto; margin: 0 0 5px;
+		float: none; 
+		width: auto; 
+		margin: 0 0 5px;
 	}
 	
 	.title-block {
-		clear: left; float: none; width: 100%;
+		clear: left; 
+		float: none; 
+		width: 100%;
 	}
 
 	.title-block h1 span {
@@ -215,19 +222,30 @@ nav ul li a:visited {color: #ffffff;}
 	}
 
 	.menu-link {
-		display: block; margin: 0; padding: 10px 15px; background: #1D54A7; color: #fff; text-align: center;text-decoration: none; font-weight: bold;
+		display: none; 
+		margin: 0; 
+		padding: 10px 15px; 
+		background: #1D54A7; 
+		color: #fff; 
+		text-align: center;
+		text-decoration: none; 
+		font-weight: bold;
 	}
 	
 	.menu-link:hover {
-		background: #1D54A7; color: #fff;
+		background: #1D54A7; 
+		color: #fff;
 	}
 	
 	nav ul {
-		display: block; border-left: none;
+		display: block; 
+		border-left: none;
 	}
 	
 	nav ul li {
-		display: block; margin: 0;
+		display: inline-block; 
+		margin: 0;
+		width: 32%;
 	}
 	
 	nav ul li a {
