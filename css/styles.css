@@ -182,10 +182,12 @@ nav ul li a:visited {color: #ffffff;}
 }
 
 @media only screen and (max-width: 959px) {
-    .title-block h1 {
+    .title-block {
+        height: 176px;
+    }
+	.title-block h1 {
         font-size: 30px;
         line-height: 36px;
-        height: 176px;
     }
 }
 
