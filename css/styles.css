@@ -74,11 +74,11 @@ header {
 
 @media only screen and (max-width: 959px) {
     .logo a {
-        background-image: url(../images/logo@220px.png);
-        margin-left: -44px;    /* optical margin on CSCW 2016 logo */ 
-	    width: 220px; 
-	    height: 182px; 
-        background-size: 220px 182px; 
+        background-image: url(../images/logo@213px.png);
+        margin-left: -43px;    /* optical margin on CSCW 2016 logo */ 
+	    width: 213px; 
+	    height: 176px; 
+        background-size: 213px 176px; 
     }
 }
 
