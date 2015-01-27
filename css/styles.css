@@ -250,7 +250,7 @@ nav ul li a:visited {color: #ffffff;}
 	nav ul li {
 		display: inline-block; 
 		margin: 0;
-		width: 33.333%;
+		width: 25%;
 	}
 	
 	nav ul li a {
@@ -278,7 +278,10 @@ nav ul li a:visited {color: #ffffff;}
 	header .container {
 		width: 100%; 
 	}
-	
+
+    nav ul li {
+        width: 33.333%;
+    }
 }
 
 /* Main Content
