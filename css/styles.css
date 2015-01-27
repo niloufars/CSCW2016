@@ -391,8 +391,8 @@ aside .item .fb-like-box {
 }
 
 #twitter-widget-0 {
-	max-width: 95%;
-	min-width: auto;
+	max-width: 95% !important;
+	min-width: 0 !important;
 }
 
 /* Footer
