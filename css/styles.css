@@ -42,23 +42,8 @@ a.anchortag:hover {
 @media only screen and (min-width: 1050px) {
 
 	body {
-	  background-repeat: no-repeat;
-	  background-position: center center;
-	  background-attachment: fixed;
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
+        background: #fff;
 	}
-	
-	
-	body.submit { background-image: url(../images/GrouseMountaindownhill.jpg); }
-	body.attend { background-image: url(../images/bg-attend.jpg); }
-	body.program { background-image: url(../images/bg-program.jpg); }
-	body.volunteer { background-image: url(../images/bg-volunteer.jpg); }
-	body.committee { background-image: url(../images/bg-committee.jpg); }
-	body.sponsors { background-image: url(../images/bg-sponsors.jpg); }
-
 }
 
 /* Header
