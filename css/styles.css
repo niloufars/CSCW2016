@@ -390,9 +390,24 @@ aside .item .fb-like-box {
 	background-color: #edeff4;
 }
 
+/* twitter widget and Facebook like box */
+
 #twitter-widget-0 {
 	max-width: 95% !important;
 	min-width: 0 !important;
+}
+
+.fb-like-box {
+	width: 95;
+	padding: 0;
+}
+
+.fb-like-box > span {
+	width: 100%;
+}
+
+.fb-like-box > span > iframe {
+    width: 100%;
 }
 
 /* Footer
