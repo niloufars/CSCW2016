@@ -212,7 +212,7 @@ nav ul li a:visited {color: #ffffff;}
     }
     
 	.title-block {
-	    display: none;
+	    display: none !important;
 		clear: left; 
 		float: none; 
 		width: 100%;
