@@ -63,7 +63,12 @@ header {
 }
 
 .logo a {
-	display: block; width: 200px; height: 165px; text-indent: -999em; background: url(../images/logo.png) 0 0 no-repeat;
+	display: block;
+	margin-left: -43px;    /* optical margin on CSCW 2016 logo */ 
+	width: 200px; 
+	height: 165px; 
+	text-indent: -999em; 
+	background: url(../images/logo.png) 0 0 no-repeat;
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
