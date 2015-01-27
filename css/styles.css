@@ -335,9 +335,9 @@ aside .item {
 
 aside .item h2 {
 	margin-bottom: 0; 
-	font-size: 16px; 
+	font-size: 20px; 
+	line-height: 36px;
 	font-weight: 600; 
-	padding-top: 7px;      /* baseline alignment with h1 in body content */
 }
 
 aside .item .inner {
