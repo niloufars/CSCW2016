@@ -1,11 +1,3 @@
-$(window).load(function() {
-    $('.flexslider').flexslider({
-    	directionNav: false,
-    	smoothHeight: true,
-    	slideshow: true
-    });
-  });
-
 $( document ).ready( function() {
 	
 	var $window = $(window);
