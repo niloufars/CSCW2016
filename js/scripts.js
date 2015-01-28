@@ -32,6 +32,10 @@ $( document ).ready( function() {
 	   $('nav').slideToggle('fast');
     });
 	
+    $("aside h2").on('click', function() {
+    	$(this).parent().toggleClass("collapsed");
+    })
+    
 });
 
 /*
