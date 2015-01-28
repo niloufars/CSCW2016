@@ -1,5 +1,5 @@
 $( document ).ready( function() {
     $("aside h2").on('click', function() {
-    	$(this).parent().toggleClass("collapsed");
+    	$(this).parent().toggleClass("expanded");
     })    
 });
