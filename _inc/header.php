@@ -41,6 +41,11 @@ include_once(dirname(__FILE__) . '/config.php');
 	================================================== -->
 	<link rel="shortcut icon" href="<?php echo $basePath; ?>/favicon.ico?v=2" />
 
+	<!-- Scripts
+	================================================== -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="<?php echo $basePath; ?>/js/scripts.js"></script>
+	
 	<!-- Google Analytics -->
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
