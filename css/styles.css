@@ -420,7 +420,7 @@ aside .item .fb-like-box {
         only screen and (max-device-width: 767px) {
         
     /* collapse sidebar content by default in small version */
-    aside .item.collapsed {
+    aside .item.collapsed .inner {
         display: none;
     }
 }
