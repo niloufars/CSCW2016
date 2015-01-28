@@ -436,9 +436,8 @@ aside .item .fb-like-box {
         margin: 0;
     }    
     aside .item h2:after {
-        content: '⌄';
+        content: '. . .';
         display: block;
-        font-size: 24px;
         border-bottom: 1px solid gray;
         padding: 0 0 4px;
     }
