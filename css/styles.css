@@ -423,8 +423,24 @@ aside .item .fb-like-box {
     aside .item .inner {
         display: none;
     }
+    aside .item h2 {
+        font-size: 14px;
+        line-height: 14px;
+        text-align: center;
+        padding-bottom: 6px;
+        margin: 0;
+    }    
+    aside .item h2:after {
+        content: '⌄';
+        display: block;
+        font-size: 24px;
+    }
     aside .item.expanded .inner {
         display: block;
+        border-bottom: 1px solid gray;
+    }
+    aside .item.expanded h2:after {
+        content: none;
     }
 }
 
