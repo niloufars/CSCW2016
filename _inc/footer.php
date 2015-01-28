@@ -14,7 +14,5 @@
 	    	CSCW <?php echo $year; ?> | Copyright &copy; 2014-2016
 		</div>
 	</footer>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="<?php echo $basePath; ?>/_dev/js/scripts.js"></script>
 </body>
 </html>
