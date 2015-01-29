@@ -10,7 +10,7 @@
 	    		<a href="http://cscw2010.org/" target="_blank">2010</a>
 	    	<br />
 	    	<!--Graphic Design & Webmastering: Matthew Kay, Niloufar Salehi | -->
-	    	Contact: <a href="mailto:webmasters<?php echo $year; ?>@cscw.acm.org">webmaster<?php echo $year; ?>@cscw.acm.org</a><br />
+	    	Contact: <a href="mailto:cscw<?php echo $year; ?>webmasters@acm.org">cscw<?php echo $year; ?>webmasters@acm.org</a><br />
 	    	CSCW <?php echo $year; ?> | Copyright &copy; 2014-2016	</p>
 		</div>
 	</footer>
