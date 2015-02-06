@@ -419,7 +419,7 @@ aside .item .fb-like-box {
 
 
 @media only screen and (max-width: 959px) {
-    .subnav {
+    aside .subnav {
         max-width: 100%;
 	}
 }
