@@ -449,7 +449,7 @@ aside .item .fb-like-box {
         border-bottom: 1px solid gray;
         padding: 0 0 4px;
     }
-    aside .item.expanded .inner {
+    aside .item.expanded .inner, aside .item.expanded .subnav {
         display: block;
         border-bottom: 1px solid gray;
         padding: 10px 0 14px;
