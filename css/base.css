@@ -62,8 +62,8 @@
 		font-weight: 500;
 		}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-	h1, .h1 { font-size: 30px; line-height: 36px; margin-bottom: 23px;}
-	h2, .h2 { font-size: 16px; line-height: 23px; margin-bottom: 23px; font-weight: 600; }
+	h1, .h1 { font-size: 30px; line-height: 36px; margin-bottom: 11.5px;}
+	h2, .h2 { font-size: 16px; line-height: 23px; margin-bottom: 0; font-weight: 600; }
 	h3, .h3 { font-size: 16px; line-height: 23px; margin-bottom: 0; font-weight: 500; }
 	h4, .h4 { font-size: 14px; line-height: 23px; margin-bottom: 0; font-weight: 600; }
 	h5, .h5 { font-size: 14px; line-height: 23px; margin-bottom: 0; font-weight: 500; }
@@ -98,7 +98,7 @@
 
 /* #Lists
 ================================================== */
-	ul, ol { margin-bottom: 23px; }
+	ul, ol { margin-bottom: 23px; margin-top: 11.5px; }
 	ul { list-style: square; }
 	ul.none {list-style: none; margin-left: 0;}
 	ol { list-style: decimal; }
