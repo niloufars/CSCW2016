@@ -70,7 +70,7 @@
 	h6, .h6 { font-size: 14px; line-height: 23px; margin-bottom: 0; font-weight: 500; }
 	.subheader { color: #777; }
 
-	p { margin: 0 0 20px 0; }
+	p { margin: 0 0 11.5px 0; }
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #FF0000;  }
 	
@@ -98,7 +98,7 @@
 
 /* #Lists
 ================================================== */
-	ul, ol { margin-bottom: 23px; margin-top: 11.5px; }
+	ul, ol { margin-bottom: 0; margin-top: 11.5px; }
 	ul { list-style: square; }
 	ul.none {list-style: none; margin-left: 0;}
 	ol { list-style: decimal; }
