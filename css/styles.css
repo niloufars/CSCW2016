@@ -433,7 +433,7 @@ aside .item .fb-like-box {
     }
         
     /* collapse sidebar content by default in small version */
-    aside .item .inner {
+    aside .item .inner, aside .item .subnav {
         display: none;
     }
     aside .item h2 {
