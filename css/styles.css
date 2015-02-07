@@ -260,6 +260,14 @@ nav ul li a:visited {color: #ffffff;}
                 box-sizing: border-box;
 	}
 	
+	.menu-link:before {
+		font-family: 'icon-font';
+		content: "\e600";           /* menu icon */
+		font-size: 24px;
+		font-weight: normal;
+		vertical-align: middle;
+	}
+	
 	.menu-link:hover {
 		background: #1D54A7; 
 		color: #fff;
