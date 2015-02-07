@@ -50,6 +50,7 @@ a.anchortag:hover {
 ================================================== */
 header {
 	padding: 50px 0 0;
+	overflow: hidden;
 }
 .header-strip{
 	height: 50px; background: url(../images/bg-home.jpg) 0% 75.2%;
@@ -229,7 +230,7 @@ nav ul li a:visited {color: #ffffff;}
     
 	.title-block {
 	    position: absolute;
-	    left: 22vw;
+	    left: 21vw;
 	    height: 17.6vw;
 		float: none; 
 		width: 100%;
@@ -351,6 +352,25 @@ nav ul li a:visited {color: #ffffff;}
 	h1 {
 		font-size: 22px;
 		line-height: 28px;
+	}
+	
+	/* use flexbox layout to move main content before other content (e.g. sidebar) on mobile */
+	.row {
+		display: -webkit-box;
+		display: -moz-box;   
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-direction: column;
+                flex-direction: column;
+	}
+	article {
+		/* move article content first */
+		-webkit-box-ordinal-group: -1;  
+		   -moz-box-ordinal-group: -1;     
+		           -ms-flex-order: -1;     
+		            -webkit-order: -1;  
+		                    order: -1;
 	}
 }
 
