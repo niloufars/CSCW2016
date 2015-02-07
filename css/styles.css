@@ -288,14 +288,6 @@ nav ul li a:visited {color: #ffffff;}
 		padding-bottom: 0;
 	}
 	
-	header h1 {
-		padding: 0 10px;
-	}
-	
-	header .container {
-		width: 100%; 
-	}
-
     nav ul li {
         width: 33.333%;
     }
