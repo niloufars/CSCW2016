@@ -130,6 +130,11 @@ header {
 
 nav {
 	background: #C83127;
+	/* animation config for show/hide of menu in mobile version */
+    -webkit-transition: max-height 300ms;
+       -moz-transition: max-height 300ms;
+         -o-transition: max-height 300ms;    
+            transition: max-height 300ms;	
 }
 
 nav ul {
@@ -268,18 +273,23 @@ nav ul li a:visited {color: #ffffff;}
 		vertical-align: middle;
 	}
 	
-	.menu-link:hover {
-		background: #1D54A7; 
+	.menu-link:hover, .menu-link.expanded {
+		background: #AF1B22;
+	}
+	
+	.menu-link a:visited {
 		color: #fff;
 	}
 	
 	nav ul {
 		display: block; 
 		border-left: none;
+		padding: 4px 0;
 	}
 	
 	nav ul li {
 		display: inline-block; 
+        vertical-align: bottom;
 		margin: 0;
 		width: 25%;
 	}
@@ -294,11 +304,13 @@ nav ul li a:visited {color: #ffffff;}
 	}
 	
     /* collapse nav menu by default in small version */
+    /* animation is done using max-height for compatibility reasons */
     nav {
-        display: none;
+        max-height: 0;
+        overflow: hidden;
     }
     nav.expanded {
-        display: block;
+        max-height: 150px;
     }
 }
 
