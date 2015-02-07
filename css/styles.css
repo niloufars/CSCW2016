@@ -369,6 +369,9 @@ nav ul li a:visited {color: #ffffff;}
 		-webkit-flex-direction: column-reverse;
                 flex-direction: column-reverse;
 	}
+	.container.main .row article {
+        padding-top: 11.5px;
+	}
     .container.main .row .column, 
     .container.main .row .columns {
         float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
