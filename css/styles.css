@@ -361,6 +361,8 @@ nav ul li a:visited {color: #ffffff;}
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
+        -webkit-box-orient: vertical;
+           -moz-box-orient: vertical;
 		-webkit-flex-direction: column;
                 flex-direction: column;
 	}
