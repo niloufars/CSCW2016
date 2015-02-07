@@ -371,6 +371,7 @@ nav ul li a:visited {color: #ffffff;}
 		           -ms-flex-order: -1;     
 		            -webkit-order: -1;  
 		                    order: -1;
+        padding-top: 11.5px;
 	}
 }
 
