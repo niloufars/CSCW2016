@@ -276,7 +276,6 @@ nav ul li a:visited {color: #ffffff;}
 	nav ul {
 		display: block; 
 		border-left: none;
-		text-align: center;
 	}
 	
 	nav ul li {
@@ -294,6 +293,13 @@ nav ul li a:visited {color: #ffffff;}
 		border-top: none;
 	}
 	
+    /* collapse nav menu by default in small version */
+    nav {
+        display: none;
+    }
+    nav.expanded {
+        display: block;
+    }
 }
 
 @media only screen and (max-width: 480px), 
