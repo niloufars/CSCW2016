@@ -203,6 +203,7 @@ nav ul li a:visited {color: #ffffff;}
 	/* small screen header and navigation */
 	
 	header {
+	    padding-top: 4%;
 		position: relative;
 	}
 	
