@@ -269,7 +269,8 @@ nav ul li a:visited {color: #ffffff;}
 	.menu-link:before {
 		font-family: 'icon-font';
 		content: "\e600";           /* menu icon */
-		font-size: 24px;
+		font-size: 25px;
+		line-height: 30px;
 		font-weight: normal;
 		vertical-align: middle;
 	}
