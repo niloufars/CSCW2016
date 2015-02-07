@@ -386,7 +386,7 @@ nav ul li a:visited {color: #ffffff;}
         float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
     }
     .container .column, .container .columns {
-        float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
+        float: none !important;    /* required else Safari 5 doesn't display blocks within flexbox */
     }
 	
 }
