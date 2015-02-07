@@ -355,7 +355,7 @@ nav ul li a:visited {color: #ffffff;}
 	}
 	
 	/* use flexbox layout to move main content before other content (e.g. sidebar) on mobile */
-	.row {
+	.containter.main .row {
 		display: -webkit-box;
 		display: -moz-box;   
 		display: -ms-flexbox;
@@ -366,7 +366,7 @@ nav ul li a:visited {color: #ffffff;}
 		-webkit-flex-direction: column;
                 flex-direction: column;
 	}
-	article {
+	.containter.main .row article {
 		/* move article content first */
 		-webkit-box-ordinal-group: 1;  
 		   -moz-box-ordinal-group: 1;     
@@ -376,7 +376,7 @@ nav ul li a:visited {color: #ffffff;}
         float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
         padding-top: 11.5px;
 	}
-    aside {
+    .containter.main .row aside {
         /* move sidebar content last */
         -webkit-box-ordinal-group: 99;  
            -moz-box-ordinal-group: 99;     
@@ -385,8 +385,9 @@ nav ul li a:visited {color: #ffffff;}
                             order: 99;
         float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
     }
-    .container .column, .container .columns {
-        float: none !important;    /* required else Safari 5 doesn't display blocks within flexbox */
+    .container.main .row .column, 
+    .container.main .row .columns {
+        float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
     }
 	
 }
