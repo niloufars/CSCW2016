@@ -238,7 +238,7 @@ nav ul li a:visited {color: #ffffff;}
 		display: inline;
 	}
     
-    .title-block small {
+    .title-block h1 small {
         display: none;
     }
 
