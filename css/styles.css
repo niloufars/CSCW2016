@@ -131,17 +131,17 @@ header {
 nav {
 	background: #C83127;
 	/* animation config for show/hide of menu in mobile version */
-    -webkit-transition: max-height 300ms;
-       -moz-transition: max-height 300ms;
-         -o-transition: max-height 300ms;    
-            transition: max-height 300ms;	
+    -webkit-transition: max-height 300ms linear;
+       -moz-transition: max-height 300ms linear;
+         -o-transition: max-height 300ms linear;    
+            transition: max-height 300ms linear;	
 }
 
 nav ul {
 	display: table; 
 	table-layout: fixed; 
 	width: 100%; 
-	max-width: 963px;  /* manually tweaked so the left edge of "HOME" lines up with the logo and sidebar left margin */    
+	max-width: 963px;  /* manually tweaked so the left edge of "HOME" lines up with the logo and sidebar left margin on the largest page size */    
 	margin: 0 auto; 
 	padding: 0;
 }
@@ -236,8 +236,8 @@ nav ul li a:visited {color: #ffffff;}
 	}
 
     .title-block h1 {
-        font-size: 4.3vw;
-        line-height: 5.3vw;
+        font-size: 4.4vw;
+        line-height: 5.5vw;
     }
 
 	.title-block h1 span {
@@ -346,6 +346,11 @@ nav ul li a:visited {color: #ffffff;}
 
 @media only screen and (max-width: 767px) {
 	.container.main {
+	}
+	
+	h1 {
+		font-size: 22px;
+		line-height: 28px;
 	}
 }
 
