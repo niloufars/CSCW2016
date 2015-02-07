@@ -385,6 +385,9 @@ nav ul li a:visited {color: #ffffff;}
                             order: 99;
         float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
     }
+    .container .column, .container .columns {
+        float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
+    }
 	
 }
 
