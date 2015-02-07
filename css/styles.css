@@ -203,8 +203,7 @@ nav ul li a:visited {color: #ffffff;}
 	/* small screen header and navigation */
 	
 	header {
-		position: relative; 
-		text-align: center;
+		position: relative;
 	}
 	
 	.header-strip {
@@ -216,21 +215,32 @@ nav ul li a:visited {color: #ffffff;}
 	}
 	
     .logo a {
-        position: relative;
-        left: -21px;           /* optical margin on CSCW 2016 logo */
-        margin: auto;
+        margin-left: -5vw;    /* optical margin on CSCW 2016 logo */ 
+        width: 23vw; 
+        height: 19vw; 
+        background-size: 23vw; 
     }
     
 	.title-block {
-	    display: none !important;
-		clear: left; 
+	    position: absolute;
+	    left: 22vw;
+	    height: 17.6vw;
 		float: none; 
 		width: 100%;
 	}
 
+    .title-block h1 {
+        font-size: 4.3vw;
+        line-height: 5.1vw;
+    }
+
 	.title-block h1 span {
 		display: inline;
 	}
+    
+    .title-block small {
+        display: none;
+    }
 
 	.menu-link {
 		display: none; 
