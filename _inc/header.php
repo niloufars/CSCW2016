@@ -78,7 +78,7 @@ include_once(dirname(__FILE__) . '/config.php');
 		<div class="header-strip">
 			
 		</div>
-		<a href="#menu" class="menu-link">Menu</a>			
+		<a href="#menu" class="menu-link"></a>			
 	</header>
 	<nav role="navigation" id="menu">
 		<ul
