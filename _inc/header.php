@@ -75,9 +75,9 @@ include_once(dirname(__FILE__) . '/config.php');
 		<div class="header-strip">
 			
 		</div>
-		<a href="#menu" class="menu-link"></a>			
+		<a href="#menu" class="menu-link" id="menu"></a>			
 	</header>
-	<nav role="navigation" id="menu">
+	<nav role="navigation">
 		<ul
 			><li><a href="<?php echo $basePath; ?>/" class="home">Home</a></li
 			><li><a href="<?php echo $basePath; ?>/submit/" class="submit">Submit</a></li
