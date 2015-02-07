@@ -361,10 +361,13 @@ nav ul li a:visited {color: #ffffff;}
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
+		/* lay out as a column (vertically) with reverse order so main content is first */
         -webkit-box-orient: vertical;
            -moz-box-orient: vertical;
-		-webkit-flex-direction: column;
-                flex-direction: column;
+        -webkit-box-direction: reverse;
+                box-direction: reverse;
+		-webkit-flex-direction: column-reverse;
+                flex-direction: column-reverse;
 	}
 	.container.main .row article {
 		/* move article content first */
