@@ -6,7 +6,7 @@
 ?>
 	<div class="container main">
 		<div class="row">
-			<article class="ten columns" role="main">
+			<article class="ten columns offset-by-five" role="main">
 				<h1>404 Page not found
 				<br />
 				<br />
