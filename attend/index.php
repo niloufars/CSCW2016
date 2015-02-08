@@ -1,40 +1,1 @@
-<?php 
-	$pageTitle = 'Attending CSCW';
-	$section = 'attend';
-	$basePath = '..';
-	include_once('../_inc/header.php');
-?>
-	<div class="container main">
-		<div class="row">
-			<article class="ten columns" role="main">
-				<h1>Attending CSCW <?php echo $year; ?></h1>
-				<p><img src="../images/BCPlacewebcamofFalseCreek.jpg" alt="False Creek" class="img-right" />CSCW <?php echo $year; ?> will take place at the Westin Bayshore hotel in beautiful and vibrant Vancouver, BC, Canada. <br />
-				The conference is co-located with <a href="http://learningatscale.acm.org/las2015/" target="_blank">Learning at Scale (L@S)</a>.</p>
-				<p>Greater Vancouver lies along the west coast of Canada where the Pacific Ocean meets the majestic mountains. With a population of over 2 million people, Greater Vancouver is known as one of the most ethnically diverse cities in Canada and has been ranked as one of the most liveable cities in the world based on quality of life. Vancouver was host to the 2010 Winter Olympics and the 2010 Winter Paralympics amongst other events, and will be hosting the finals of the 2015 FIFA Women&rsquo;s World Cup.</p>
-				<p>Downtown Vancouver contains an abundance of fine dining, ethnic cuisine (more sushi than you can eat!), outdoor ice skating, bicycling (yes, even in March!), and one of the largest urban parks in North America. Stanley Park covers 1,001 acres (404.9 hectares) of land and contains hiking trails, the Vancouver Aquarium, and the 22km Seawall which is perfect for walking, cycling, or running.</p>
-				<p>Vancouver is one of the warmest cities in Canada and March should see a mix of sun, cloud, and rain with average temperatures ranging from 3 to 10 degrees Celsius (37 to 50 Fahrenheit).</p>
-				<p>Do you ski or snowboard? Vancouver is a short drive from Whistler, Grouse Mountain, Cypress Mountain, and other outdoor winter destinations.</p>
-				<p>Please find information here about <a href="reg.php" class="text">registering</a> for CSCW <?php echo $year; ?>, booking your stay at the conference <a href="hotel.php" class="text">hotel</a>, and obtaining a <a href="visas.php" class="text">visa</a>. You can also find information here about Vancouver <a href="travel.php" class="text">travel, transportation, and accessibility</a> as well as details about local <a href="local.php">tourist attractions</a>.</p>    
-	        	<h3>Local Arrangements and Accessibility Co-Chairs</h3>
-	        	<p>Carman Neustaedter, Simon Fraser University<br />
-		         Serena Hillman, Simon Fraser University<br />
-		        <a class="email" href="mailto:local<?php echo $year; ?>@cscw.acm.org">local<?php echo $year; ?>@cscw.acm.org</a></p>
-			</article>
-			<aside class="five columns offset-by-one omega">
-				<div class="item">
-					<h2>Attending</h2>
-					<ul class="subnav" id="nav_attend">
-						<li><a href="index.php" class="active">Overview</a></li>
-						<li><a href="reg.php">Conference Registration</a></li>
-						<li><a href="hotel.php">Hotel</a></li>
-						<li><a href="visas.php">Visas</a></li>
-						<li><a href="travel.php">Travel & Transportation</a></li>
-						<li><a href="local.php">Local Attractions</a></li>
-					</ul>
-				</div>
-			</aside>
-		</div>	
-	</div>
-<?php 
-	include_once('../_inc/footer.php');
-?>
+<?php $pageTitle = 'Attending CSCW';$section = 'attend';$basePath = '..';include_once('../_inc/header.php');?><div class="container main">	<div class="row">		<aside class="four columns offset-by-one">			<div class="item">				<h2>Attending</h2>				<ul class="subnav" id="nav_attend">					<li><a href="index.php" class="active">Overview</a></li>					<li><a href="reg.php">Conference Registration</a></li>					<li><a href="hotel.php">Hotel</a></li>					<li><a href="visas.php">Visas</a></li>					<li><a href="travel.php">Travel & Transportation</a></li>					<li><a href="local.php">Local Attractions</a></li>				</ul>			</div>		</aside>		<article class="ten columns" role="main">			<h1>Attending CSCW <?php echo $year; ?></h1>			<p><img src="../images/2016-img/Ggb_by_night.jpg" alt="False Creek" class="img-right"  style="width: 400px"/>CSCW <?php echo $year; ?> will take place at the Hyatt Regency San Francisco in San Francisco, CA.</p>			<p>				Located on the West Coast of the United States, San Francisco is one of the most				renowned cities of the world and offers unique opportunities for site-seeing,				shopping, and entertainment. San Francisco offers steep rolling hills, eclectic				architecture, and world-famous attractions such as the Golden Gate Bridge, cable				cars, the former prison on Alcatraz island, Fisherman’s Wharf, and Chinatown				district. </p>				<p>					San Francisco contains more than 50 hills and many famous neighborhoods – such					as Nob Hill, Potrero Hill, and Russian Hill – are named after the hills they are					situated on. The historical center of the city, anchored by Market St and the					waterfront, contains Financial District and Union Square, the principal shopping and					hotel district. Other neighborhoods with interesting personalities are the Haight, the					Castro, Noe Valley, and The Mission. The city offers many culinary delights such as					Latin food in the Mission District, Asian food in Chinatown, and Italian food in North					Beach. 				</p>				<p>					San Francisco has a cool and mild Mediterranean climate. Late-Feb temperatures lie					between a low of 48F and a high of 60F. 				</p>				<p>					San Francisco and the Bay area offer something for everyone. For those who enjoy					skiing or snowboarding, Lake Tahoe offers an abundance of world-class ski resorts.					Wine aficionados can enjoy wine-tasting at Napa and Sonoma. Yosemite National					Park and Sequoia & Kings Canyon National Parks are a few hours away and offer					excellent hiking and camping opportunities for outdoor enthusiasts. 				</p>				<p>Please find information here about <a href="reg.php" class="text">registering</a> for CSCW <?php echo $year; ?>, booking your stay at the conference <a href="hotel.php" class="text">hotel</a>, and obtaining a <a href="visas.php" class="text">visa</a>. You can also find information here about Vancouver <a href="travel.php" class="text">travel, transportation, and accessibility</a> as well as details about local <a href="local.php">tourist attractions</a>.</p>    				<h3>Local Arrangements and Accessibility Co-Chairs</h3>				<p>Judd Antin, Facebook<br />					Sharoda Paul, GE Global Research<br />					<a class="email" href="mailto:cscw<?php echo $year; ?>local@acm.org">cscw<?php echo $year; ?>local@acm.org</a></p>				</article>							</div>			</div>		<?php 		include_once('../_inc/footer.php');		?>

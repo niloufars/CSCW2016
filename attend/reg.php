@@ -6,14 +6,7 @@
 ?>
 	<div class="container main">
 		<div class="row">
-			<article class="ten columns" role="main">
-								<h1>Registration</h1>
-				<p>Please check back for rates, deadlines, and further information about registering for CSCW <?php echo $year; ?>.</p>
-				<p>&nbsp;</p>
-				<p>&nbsp;</p>
-				<p>&nbsp;</p>
-			</article>
-			<aside class="five columns offset-by-one omega">
+		<aside class="five columns offset-by-one omega">
 				<div class="item">
 					<h2>Attending</h2>
 					<ul class="subnav" id="nav_attend">
@@ -26,6 +19,14 @@
 					</ul>
 				</div>
 			</aside>
+			<article class="ten columns" role="main">
+								<h1>Registration</h1>
+				<p>Please check back for rates, deadlines, and further information about registering for CSCW <?php echo $year; ?>.</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+			</article>
+			
 		</div>	
 	</div>
 <?php 
