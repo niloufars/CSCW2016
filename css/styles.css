@@ -411,8 +411,7 @@ aside .item {
 
 aside .item h2 {
 	margin-bottom: 0; 
-	line-height: 36px;
-	padding-top: 6px; 
+    padding: 11.5px 0 5.75px;
 }
 
 aside .item .inner {
