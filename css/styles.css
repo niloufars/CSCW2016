@@ -363,6 +363,7 @@ nav ul li a:visited {color: #ffffff;}
 		display: -webkit-flex;
 		display: flex;
 		/* lay out as a column (vertically) with reverse order so main content is first */
+        -webkit-box-align: start;       /* for a strange Safari 5 bug I haven't figured out yet */ 
         -webkit-box-orient: vertical;
            -moz-box-orient: vertical;
         -webkit-box-direction: reverse;
