@@ -77,7 +77,7 @@ include_once ('../_inc/header.php');
 
 						<tr>
 							<td><a href="demos.php" class="text">Demonstrations</a></td>
-							<td>Nov 6, 2015, 5:00pm&nbsp;PDT
+							<td>Fri Nov 6, 2015, 5:00pm&nbsp;PDT
 							</td>
 							<td>Tue Dec 15, 2015</td>
 						</tr>
