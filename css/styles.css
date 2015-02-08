@@ -362,8 +362,7 @@ nav ul li a:visited {color: #ffffff;}
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
-		/* lay out as a column (vertically) with reverse order so main content is first */
-        -webkit-box-align: start;       /* for a strange Safari 5 bug I haven't figured out yet */ 
+		/* lay out as a column (vertically) with reverse order so main content is first */ 
         -webkit-box-orient: vertical;
            -moz-box-orient: vertical;
         -webkit-box-direction: reverse;
@@ -500,12 +499,17 @@ aside .item .fb-like-box {
     }
     
     /* re-style sidebar to be visually distinct even laid out inline after body content */
-    .container aside.column,  
-    .container aside.columns {
-		border-top: 1px solid #999;
-		margin: 0 -5% -4.166666666666667%;
-		padding: 10px 5%;
+    aside .item {
+		margin: 0 -4.545454545454%;
+        padding: 11.5px 4.545454545454% 0;
 		background: #eee;
+    }
+
+    aside .item:first-child {
+        border-top: 1px solid #999;
+    }
+    aside .item:last-child {
+        padding-bottom: 23px;
     }
 }
 
