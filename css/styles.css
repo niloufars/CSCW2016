@@ -42,35 +42,23 @@ a.anchortag:hover {
 @media only screen and (min-width: 1050px) {
 
 	body {
-	  background-repeat: no-repeat;
-	  background-position: center center;
-	  background-attachment: fixed;
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
+        background: #fff;
 	}
-	
-	
-	body.submit { background-image: url(../images/GrouseMountaindownhill.jpg); }
-	body.attend { background-image: url(../images/bg-attend.jpg); }
-	body.program { background-image: url(../images/bg-program.jpg); }
-	body.volunteer { background-image: url(../images/bg-volunteer.jpg); }
-	body.committee { background-image: url(../images/bg-committee.jpg); }
-	body.sponsors { background-image: url(../images/bg-sponsors.jpg); }
-
 }
 
 /* Header
 ================================================== */
 header {
-	background: #D8EBFA; background: rgba(256,256,256, 0.9); padding: 100px 0 0;
+	padding: 50px 0 0;
+	overflow: hidden;
 }
-.header-strip{
-	height: 50px; background: url(../images/bg-home.jpg) 0% 75%;
+.header-strip {
+	height: 50px; 
+	background: url(../images/bg-home.jpg) 0% 75.2%;
+	background-size: 1200px;
 }
 .brand { 
-	margin-bottom: 15px;
+	margin-bottom: 36px;
 }
 
 .logo {
@@ -78,12 +66,32 @@ header {
 }
 
 .logo a {
-	display: block; width: 200px; height: 165px; text-indent: -999em; background: url(../images/logo.png) 0 0 no-repeat;
+	display: block;
+	margin-left: -53px;    /* optical margin on CSCW 2016 logo */ 
+	width: 257px; 
+	height: 213px; 
+	text-indent: -999em; 
+	background: url(../images/logo@257px.png) 0 0 no-repeat;
+    background-size: 257px; 
+}
+
+@media only screen and (max-width: 959px) {
+    .logo a {
+        background-image: url(../images/logo@213px.png);
+        margin-left: -43px;    /* optical margin on CSCW 2016 logo */ 
+	    width: 213px; 
+	    height: 176px; 
+        background-size: 213px 176px; 
+    }
+    .header-strip {
+		background-image: url(../images/bg-home-large.jpg);
+    }
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
 	.logo a {
-		margin: 0 auto; background-image: url(../images/logo@2x.png); background-size: 200px 100px; 
+		margin: 0 auto; 
+		background-image: url(../images/logo@514px.png); 
 	}
 }
 
@@ -92,31 +100,58 @@ header {
 }
 
 .title-block {
-	position: absolute; bottom: 10px; right:0; width: 75%; padding-top: 5px;
+	position: relative;
+	height: 213px;
 }
 
-.title-block h2 {
-	margin-bottom: 5px; color: black; font-weight: bold; font-size: 36px; line-height: 1.0; 
+.title-block h1 {
+	position: absolute;
+	bottom: 0;
+	font-size: 38px;
+	line-height: 47px;
+	margin-bottom: -5px;
+	white-space: nowrap;
 }
 
-.title-block h2 span {
+.title-block h1 span {
 	display: block;
 }
 
-.title-block h2 small {
-	display: block; color: #858080; font-size: 14px; font-weight: normal;
+.title-block h1 small {
+	display: block;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 28px;
+	margin-bottom: -2px;
 }
 
-.title-block h3 {
-	margin-bottom: 2px; color: #858080; font-size: 16px; font-weight: bold; line-height: 1.2;
+.title-block h1 abbr {
+	/* all small caps (by transforming to lowercase and using small caps) */
+	text-transform: lowercase;
+	-moz-font-feature-settings: "smcp";
+	-moz-font-feature-settings: "smcp=1";
+	-ms-font-feature-settings: "smcp";
+	-o-font-feature-settings: "smcp";
+	-webkit-font-feature-settings: "smcp";
+	font-feature-settings: "smcp";	
 }
 
 nav {
-	background: rgb(197,32,38);
+	background: #C83127;
+	/* animation config for show/hide of menu in mobile version */
+    -webkit-transition: max-height 300ms linear;
+       -moz-transition: max-height 300ms linear;
+         -o-transition: max-height 300ms linear;    
+            transition: max-height 300ms linear;	
 }
 
 nav ul {
-	display: table; table-layout: fixed; width: 100%; max-width: 860px; margin: 0 auto; padding: 0;
+	display: table; 
+	table-layout: fixed; 
+	width: 100%; 
+	max-width: 963px;  /* manually tweaked so the left edge of "HOME" lines up with the logo and sidebar left margin on the largest page size */    
+	margin: 0 auto; 
+	padding: 0;
 }
 
 nav ul li {
@@ -124,7 +159,16 @@ nav ul li {
 }
 
 nav ul li a {
-	display: block; padding: 8px; color: white; font-size: 13px; font-weight: bold; text-transform: uppercase; text-align: center; text-decoration: none; overflow: hidden;
+	display: block;
+	padding: 8px;
+	color: white;
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+    letter-spacing: 1px;
+	text-align: center;
+	text-decoration: none;
+	overflow: hidden;
 }
 
 nav ul li:first-child a {
@@ -151,57 +195,144 @@ nav ul li a:visited {color: #ffffff;}
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) { /* ipad portrait */
 	header {
-		position: center; text-align: center; padding-left: 1px;
+		position: center; 
+		padding-left: 1px;
+	}
+}
+
+@media only screen and (max-width: 959px) {
+    /* smaller title text and logo in smallest multiple column version */
+    .title-block {
+        height: 176px;
+    }
+	.title-block h1 {
+		font-size: 31.5px;
+		line-height: 38px;
+		margin-bottom: -3px;
+    }
+    .title-block h1 small {
+		font-size: 14px;
+		line-height: 22px;
+		margin-bottom: -1px;
 	}
 }
 
 @media only screen and (max-width: 767px), 
 		only screen and (max-device-width: 767px) {
 	
+	/* small screen header and navigation */
+	
 	header {
-		position: relative; text-align: center;
+	    padding-top: 4%;
+		position: relative;
+	}
+	
+	.header-strip {
+	   background-position: 30% 74.5%;     /* center photographic element on mobile */
+	   background-size: 900px;
 	}
 	
 	.brand {
-		margin-bottom: 20px;
+		margin-bottom: 5vw;
 	}
 	
-	.logo {
-		float: none; width: auto; margin: 0 0 5px;
-	}
-	
+    .logo a {
+        margin-left: -5vw;    /* optical margin on CSCW 2016 logo */ 
+        width: 23.4vw; 
+        height: 19.005vw; 
+        background-size: 23vw; 
+        background-image: url(../images/logo@514px.png); 
+    }
+    
 	.title-block {
-		clear: left; float: none; width: 100%;
+	    position: absolute;
+	    left: 21vw;
+	    height: 19.005vw;
+		float: none;
+		width: 100%;
 	}
 
-	.title-block h2 span {
+    .title-block h1 {
+		font-size: 4.4vw;
+		line-height: 5.8vw;
+		margin-bottom: -1vw;
+	}
+
+	.title-block h1 span {
 		display: inline;
 	}
+    
+    .title-block h1 small {
+		font-size: 2.8vw;
+		line-height: 4.7vw;
+		margin-bottom: -0.3vw;
+    }
 
 	.menu-link {
-		display: block; margin: 0; padding: 10px 15px; background: #1D54A7; color: #fff; text-align: center;text-decoration: none; font-weight: bold;
+		display: block; 
+		margin: 0; 
+		padding: 10px 15px; 
+		background: #C83127; 
+		color: #fff; 
+		text-align: center;
+		text-decoration: none; 
+		font-weight: bold;
+		position: absolute;
+		height: 50px;
+		bottom: 0;
+		-webkit-box-sizing: border-box;
+           -moz-box-sizing: border-box;
+                box-sizing: border-box;
+	}
+	
+	.menu-link:before {
+		font-family: 'icon-font';
+		content: "\e600";           /* menu icon */
+		font-size: 25px;
+		line-height: 30px;
+		font-weight: normal;
+		vertical-align: middle;
 	}
 	
 	.menu-link:hover {
-		background: #1D54A7; color: #fff;
+		background: #AF1B22;
+	}
+	
+	.menu-link:visited {
+		color: #fff;
 	}
 	
 	nav ul {
-		display: block; border-left: none;
+		display: block; 
+		border-left: none;
+		padding: 4px 0;
 	}
 	
 	nav ul li {
-		display: block; margin: 0;
+		display: inline-block; 
+        vertical-align: bottom;
+		margin: 0;
+		width: 25%;
 	}
 	
 	nav ul li a {
-		margin: 0; border-right: none;
+		margin: 0;
+		border-right: none;
 	}
 	
 	nav ul li:first-child a {
 		border-top: none;
 	}
 	
+    /* collapse nav menu by default in small version */
+    /* animation is done using max-height for compatibility reasons */
+    nav {
+        max-height: 0;
+        overflow: hidden;
+    }
+    nav.expanded {
+        max-height: 150px;
+    }
 }
 
 @media only screen and (max-width: 480px), 
@@ -211,38 +342,61 @@ nav ul li a:visited {color: #ffffff;}
 		padding-bottom: 0;
 	}
 	
-	header h2,
-	header h3 {
-		padding: 0 10px;
-	}
-	
-	header .container {
-		width: 100%; 
-	}
-	
+    nav ul li {
+        width: 33.333%;
+    }
 }
 
 /* Main Content
 ================================================== */
 
 .container.main {
-	margin-top: 40px; padding: 30px; background: #fff; background: rgba(255,255,255,0.92); border-radius: 5px 5px 0 0; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+	margin-top: 36px; 
+	background: #fff;
+	min-height: 300px; 
 }
 
 .sponsors-list a {
 	display: inline-block; padding: 10px; border: 1px solid #ddd; background: #fff;
 }
 
+
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	.container.main {
-		margin-top: 0; padding: 30px; background: #fff; border-radius: 0;
 	}
 }
 
 @media only screen and (max-width: 767px) {
 	.container.main {
-		margin-top: 0; padding: 30px 0;
 	}
+	
+	h1 {
+		font-size: 22px;
+		line-height: 28px;
+	}
+	
+	/* use flexbox layout to move main content before other content (e.g. sidebar) on mobile */
+	.container.main .row {
+		display: -webkit-box;
+		display: -moz-box;   
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		/* lay out as a column (vertically) with reverse order so main content is first */ 
+        -webkit-box-orient: vertical;
+           -moz-box-orient: vertical;
+        -webkit-box-direction: reverse;
+                box-direction: reverse;
+		-webkit-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+        padding-top: 11.5px;
+        margin-bottom: 0;
+	}
+    .container.main .row .column, 
+    .container.main .row .columns {
+        float: none;    /* required else Safari 5 doesn't display blocks within flexbox */
+    }
+	
 }
 
 @media only screen and (max-width: 480px) {
@@ -255,30 +409,37 @@ nav ul li a:visited {color: #ffffff;}
 ================================================== */
 
 aside {
-	
+	font-size: 13px;
+	line-height: 18.4px;
 }
 
 aside .item {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	overflow: hidden;
 }
 
 aside .item h2 {
-	margin-bottom: 0; border-top: 4px solid #65686A; border-radius: 5px 5px 0 0; background: #8A9193; color: #ffffff; font-size: 16px; font-weight: bold; text-align: center;
+	margin-bottom: 0; 
+    padding: 11.5px 0 5.75px;
 }
 
 aside .item .inner {
-	padding: 10px; background: #D8EBFA;
 }
 
 aside .item #updates {
-	height: 200px;
-	overflow-y: scroll;
-	font-size: 12px;
+/* 	min-height: 200px; */
+/* 	overflow-y: scroll; */
+}
+
+aside .item #updates p {
+	margin: 0;
 }
 
 aside .subnav {
-	margin: 0; padding: 0; list-style: none;
+	margin: 0; 
+	padding: 0; 
+	list-style: none;
+	max-width: 95%;
 }
 
 aside .subnav li {
@@ -286,7 +447,11 @@ aside .subnav li {
 }
 
 aside .subnav a {
-	display: block; padding: 10px 15px; background: #D8EBFA; color: #444; text-decoration: none;
+	display: block;
+	padding: 10px 15px;
+	background: #D8ECF8;
+	color: #222;
+	text-decoration: none;
 }
 
 aside .subnav a:hover {
@@ -294,19 +459,13 @@ aside .subnav a:hover {
 }
 
 aside .subnav a.active {
-	color: #fff; font-weight: bold; background: rgba(181,207,227,0.9);
+	color: #fff;
+	font-weight: 500;
+	background: #3EA2DA;
 }
-#nav_attend a.active {background: rgba(138, 155, 15, 0.9);}
-#nav_submit a.active {background: rgba(46, 176, 182, 0.9);}
-#nav_program a.active {background: rgba(216, 74, 58, 0.9);}
-#nav_volunteer a.active {background: rgba(242, 207, 25, 0.9);}
-#nav_sponsor a.active {background: rgba(83, 55, 117, 0.9);}
-
-#nav_attend a:hover {background: rgba(138, 155, 15, 0.2);}
-#nav_submit a:hover {background: rgba(46, 176, 182, 0.3);}
-#nav_program a.active {background: rgba(216, 74, 58, 0.9);}
-#nav_volunteer a.active {background: rgba(242, 207, 25, 0.45);}
-#nav_sponsor a:hover {background: rgba(83, 55, 117, 0.2);}
+aside .subnav a:hover {
+    background: #8BC7E9;
+}
 
 #twitter-widget-0 {
 	width:100%;
@@ -319,39 +478,74 @@ aside .item .fb-like-box {
 	background-color: #edeff4;
 }
 
+/* twitter widget and Facebook like box */
+
+#twitter-widget-0 {
+	max-width: 95% !important;
+	min-width: 0 !important;
+	width: 95% !important;
+}
+
+.fb-like-box {
+	width: 95% !important;
+	padding: 0 !important;
+}
+
+.fb-like-box > span {
+	width: 100% !important;
+}
+
+.fb-like-box > span > iframe {
+    width: 100% !important;
+}
+
+
+@media only screen and (max-width: 959px) {
+}
+
+@media only screen and (max-width: 767px), 
+        only screen and (max-device-width: 767px) {
+        
+    /* less margin on top of container due to collapsed sidebars */
+    .container.main {
+        margin-top: 16px;
+    }
+    
+    /* re-style sidebar to be visually distinct even laid out inline after body content */
+    aside .item {
+		margin: 0 -4.1666666666667%;
+        padding: 11.5px 4.1666666666667% 0;
+		background: #eee;
+    }
+
+    aside .item:first-child {
+        border-top: 1px solid #999;
+    }
+    aside .item:last-child {
+        padding-bottom: 23px;
+    }
+}
 
 /* Footer
 ================================================== */
 
 footer {
-	margin-bottom: 40px; color: #fff; text-align: right;
-	font-weight: bold;
+	color: #fff;
+	background: #C83127; 
 }
 
-footer p {
-	margin-bottom: 5px; font-size: 12px; line-height: 1.3;
+footer .container {
+    padding: 18px 0;
+}
+
+footer div {
+	font-size: 12px; 
+	font-weight: 500;
 }
 
 footer a {color: #fff;}
 footer a:visited {color: #fff;}
 footer a:hover {color: #8f8e8e;}
-
-footer .container {
-	 padding: 15px 30px; border-top: 1px solid rgba(0,0,0,0.7); background: #000; background: rgba(0, 0, 0, .3); border-radius: 0 0 5px 5px; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-}
-
-@media only screen and (max-width: 959px),
-		only screen and (max-device-width: 959px) {
-	footer {
-		margin-bottom: 0; background: #D8EBFA; color: #444; text-align: center;
-	}
-	footer .container {
-		background: transparent; border-top: none; padding: 15px 0px; 
-	}
-	footer a {
-		color: #444;
-	}
-}
 
 /* Program */
 
@@ -387,16 +581,12 @@ footer .container {
 	overflow: hidden;
 }
 
-aside .item h2 {
-	margin-bottom: 0; border-top: 4px solid #65686A; border-radius: 5px 5px 0 0; background: #8A9193; color: #ffffff; font-size: 16px; font-weight: bold; text-align: center;
-}
-
-
 /* #Base 960 Grid
 ================================================== */
 
     .container                                  { position: relative; width:100%; max-width: 860px; margin: 0 auto; padding: 0; }
     footer .container,
+    header .container,
     .container.main                             { max-width: 1020px;}
     .container .column,
     .container .columns                         { float: left; display: inline; margin-left: 1.041666666666667%; margin-right: 1.041666666666667%; }

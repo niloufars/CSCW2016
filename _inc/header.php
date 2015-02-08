@@ -8,6 +8,12 @@ include_once(dirname(__FILE__) . '/config.php');
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
 
+	<!-- Webfonts (first so it loads earlier)
+	================================================== -->
+	<link href='http://fonts.googleapis.com/css?family=Raleway:600,500,400' rel='stylesheet' type='text/css' data-noprefix>
+	<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic' rel='stylesheet' type='text/css' data-noprefix>
+	<link href='<?php echo $basePath; ?>/fonts/icon-font.css' rel='stylesheet' type='text/css' data-noprefix>
+	
 	<!-- Basic Page Needs
 	================================================== -->
 	<meta charset="utf-8">
@@ -33,9 +39,12 @@ include_once(dirname(__FILE__) . '/config.php');
 	================================================== -->
 	<link rel="shortcut icon" href="<?php echo $basePath; ?>/favicon.ico?v=2" />
 
-	<!-- Webfonts
+	<!-- Scripts
 	================================================== -->
-	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="<?php echo $basePath; ?>/js/scripts.js"></script>
+	<script src="<?php echo $basePath; ?>/js/prefixfree.min.js"></script>
+	<script src="<?php echo $basePath; ?>/js/vunits.js"></script>
 	
 	<!-- Google Analytics -->
 	<script>
@@ -54,12 +63,13 @@ include_once(dirname(__FILE__) . '/config.php');
 	<header role="banner" class="clearfix">
 		<div class="container">
 			<div class="brand clearfix">
-				<div class="logo">
+				<div class="logo four columns offset-by-one">
 					<a href="<?php echo $basePath; ?>/">CSCW <?php echo $year; ?></a>
 				</div>
-				<div class="title-block">
-					<h2><small>The <?php echo $nth; ?> ACM conference on</small> Computer-Supported Cooperative Work and Social Computing</h2>
-					<h3><?php echo "$datesYear"; ?></h3>
+				<div class="title-block eleven columns">
+					<h1><small>The <?php echo $nth; ?> <abbr title="Association for Computing Machinery">ACM</abbr> conference on</small> 
+					Computer-Supported Cooperative<br> Work and Social Computing
+					<small><?php echo "$datesYear"; ?></small></h1>
 				</div>
 			</div>
 
@@ -67,16 +77,16 @@ include_once(dirname(__FILE__) . '/config.php');
 		<div class="header-strip">
 			
 		</div>
+		<a href="#" class="menu-link"></a>			
 	</header>
-	<a href="#menu" class="menu-link">Menu</a>			
-	<nav role="navigation" id="menu">
-		<ul>
-			<li><a href="<?php echo $basePath; ?>/" class="home">Home</a></li>
-			<li><a href="<?php echo $basePath; ?>/submit/" class="submit">Submit</a></li>
-			<li><a href="<?php echo $basePath; ?>/attend/" class="attend">Attend</a></li>
-			<li><a href="<?php echo $basePath; ?>/program/" class="program">Program</a></li>
-			<li><a href="<?php echo $basePath; ?>/volunteer/" class="volunteer">Volunteer</a></li>
-			<li><a href="<?php echo $basePath; ?>/committee/" class="committee">Committee</a></li>
-			<li><a href="<?php echo $basePath; ?>/sponsors/" class="sponsors">Sponsors</a></li>
-		</ul>
+	<nav role="navigation">
+		<ul
+			><li><a href="<?php echo $basePath; ?>/" class="home">Home</a></li
+			><li><a href="<?php echo $basePath; ?>/submit/" class="submit">Submit</a></li
+			><li><a href="<?php echo $basePath; ?>/attend/" class="attend">Attend</a></li
+			><li><a href="<?php echo $basePath; ?>/program/" class="program">Program</a></li
+			><li><a href="<?php echo $basePath; ?>/volunteer/" class="volunteer">Volunteer</a></li
+			><li><a href="<?php echo $basePath; ?>/committee/" class="committee">Committee</a></li
+			><li><a href="<?php echo $basePath; ?>/sponsors/" class="sponsors">Sponsors</a></li
+		></ul>
 	</nav>

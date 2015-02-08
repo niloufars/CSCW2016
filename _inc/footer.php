@@ -1,6 +1,6 @@
 	<footer role="contentinfo">
 		<div class="container">
-			<p>
+			<div class="ten columns offset-by-five">
 	    	Past Conferences: 
 	    		<a href="/2015/" target="_blank">2015</a> | 
 	    		<a href="/2014/" target="_blank">2014</a> | 
@@ -11,10 +11,10 @@
 	    	<br />
 	    	<!--Graphic Design & Webmastering: Matthew Kay, Niloufar Salehi | -->
 	    	Contact: <a href="mailto:cscw<?php echo $year; ?>webmasters@acm.org">cscw<?php echo $year; ?>webmasters@acm.org</a><br />
-	    	CSCW <?php echo $year; ?> | Copyright &copy; 2014-2016	</p>
+	    	CSCW <?php echo $year; ?> | Copyright &copy; 2014-2016<br />
+	    	Background photo strip &copy; <a href="http://www.flickr.com/photos/redbeansandrice/5926822185">flickr/redbeansandrice</a> 2011 (<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>)
+
 		</div>
 	</footer>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="<?php echo $basePath; ?>/_dev/js/scripts.js"></script>
 </body>
 </html>
