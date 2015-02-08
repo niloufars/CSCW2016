@@ -84,7 +84,7 @@ header {
         background-size: 213px 176px; 
     }
     .header-strip {
-		background: url(../images/bg-home-large.jpg);
+		background-image: url(../images/bg-home-large.jpg);
     }
 }
 
