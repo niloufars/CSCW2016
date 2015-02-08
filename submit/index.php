@@ -23,25 +23,18 @@ include_once ('../_inc/header.php');
 		<article class="ten columns" role="main">
 
 			<h1>Call for Participation</h1>
-			<p>
-				The <strong>ACM conference on Computer-Supported Cooperative Work
-					and Social Computing</strong> is an international and
-				interdisciplinary conference focused on how technology intersects
-				with social practices. The conference offers several types of
-				submission with deadlines and decision notification dates as
-				follows:
-			</p>
+			<p>The ACM conference on Computer-Supported Cooperative Work and
+				Social Computing is an international and interdisciplinary
+				conference focused on how technology intersects with social
+				practices. The conference offers several types of submission with
+				deadlines and decision notification dates as follows:</p>
 			<div class="responsive-table">
 				<table>
 					<thead>
 						<tr>
 							<th>Submission Type</th>
-							<th>Deadline
-							
-							</td>
-							<th>Notification
-							
-							</td>
+							<th>Deadline</th>
+							<th>Notification</th>
 						</tr>
 					</thead>
 					<tbody>
