@@ -6,7 +6,7 @@ include_once ('../_inc/header.php');
 ?>
 <div class="container main">
 	<div class="row">
-		<aside class="five columns offset-by-one omega">
+		<aside class="four columns offset-by-one">
 			<div class="item">
 				<h2>Volunteering & Mentorship</h2>
 				<ul class="subnav" id="nav_volunteer">
@@ -24,10 +24,6 @@ include_once ('../_inc/header.php');
 				as well as the <a href="mentor.php">CSCW Reviewer Mentor Program</a>.
 			</p>
 		</article>
-		
-		Student Volunteers Chairs (cscw2016sv@acm.org)
-Carolina Fuentes, Pontificia Universidad Catolica de Chile
-Elizabeth Murnane, Cornell University
 	</div>
 </div>
 <?php
