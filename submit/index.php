@@ -41,7 +41,7 @@ include_once ('../_inc/header.php');
 						<tr>
 							<td><a href="papers.php" class="text">Papers</a></td>
 							<td><em>Initial:</em> Fri May 22, 2015, 5:00pm&nbsp;PDT <br />
-								<em>2nd Round:</em>July 29, 2015, 5:00pm&nbsp;PDT
+								<em>2nd Round:</em> July 29, 2015, 5:00pm&nbsp;PDT
 							</td>
 							<td>Mon Aug 24, 2015</td>
 						</tr>
@@ -77,7 +77,7 @@ include_once ('../_inc/header.php');
 
 						<tr>
 							<td><a href="demos.php" class="text">Demonstrations</a></td>
-							<td>Nov 6, 2015,<br />5:00pm&nbsp;PDT
+							<td>Nov 6, 2015, 5:00pm&nbsp;PDT
 							</td>
 							<td>Tue Dec 15, 2015</td>
 						</tr>
