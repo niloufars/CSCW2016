@@ -248,8 +248,9 @@ nav ul li a:visited {color: #ffffff;}
 	}
     
     .title-block h1 small {
-		font-size: 2.6vw;
-		line-height: 4vw;
+		font-size: 2.8vw;
+		line-height: 4.7vw;
+		margin-bottom: -0.1vw;
     }
 
 	.menu-link {
