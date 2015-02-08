@@ -225,22 +225,22 @@ nav ul li a:visited {color: #ffffff;}
     .logo a {
         margin-left: -5vw;    /* optical margin on CSCW 2016 logo */ 
         width: 23vw; 
-        height: 19vw; 
+        height: 19.005vw; 
         background-size: 23vw; 
     }
     
 	.title-block {
 	    position: absolute;
 	    left: 21vw;
-	    height: 19vw;
-		float: none; 
+	    height: 19.005vw;
+		float: none;
 		width: 100%;
 	}
 
     .title-block h1 {
         font-size: 4.4vw;
         line-height: 5.5vw;
-        margin-bottom: 1.05vw;
+        margin-bottom: 1.2vw;
     }
 
 	.title-block h1 span {
