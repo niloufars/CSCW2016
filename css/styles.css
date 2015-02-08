@@ -432,7 +432,11 @@ aside .subnav li {
 }
 
 aside .subnav a {
-	display: block; padding: 10px 15px; background: #D8EBFA; color: #222; text-decoration: none;
+	display: block;
+	padding: 10px 15px;
+	background: #D8ECF8;
+	color: #222;
+	text-decoration: none;
 }
 
 aside .subnav a:hover {
@@ -440,19 +444,13 @@ aside .subnav a:hover {
 }
 
 aside .subnav a.active {
-	color: #fff; font-weight: bold; background: rgba(181,207,227,0.9);
+	color: #fff;
+	font-weight: bold;
+	background: #3EA2DA;
 }
-#nav_attend a.active {background: rgba(138, 155, 15, 0.9);}
-#nav_submit a.active {background: rgba(46, 176, 182, 0.9);}
-#nav_program a.active {background: rgba(216, 74, 58, 0.9);}
-#nav_volunteer a.active {background: rgba(242, 207, 25, 0.9);}
-#nav_sponsor a.active {background: rgba(83, 55, 117, 0.9);}
-
-#nav_attend a:hover {background: rgba(138, 155, 15, 0.2);}
-#nav_submit a:hover {background: rgba(46, 176, 182, 0.3);}
-#nav_program a.active {background: rgba(216, 74, 58, 0.9);}
-#nav_volunteer a.active {background: rgba(242, 207, 25, 0.45);}
-#nav_sponsor a:hover {background: rgba(83, 55, 117, 0.2);}
+aside .subnav a:hover {
+    background: #8BC7E9;
+}
 
 #twitter-widget-0 {
 	width:100%;
