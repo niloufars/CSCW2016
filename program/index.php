@@ -6,7 +6,7 @@ include_once ('../_inc/header.php');
 ?>
 <div class="container main">
 	<div class="row">
-		<aside class="four columns offset-by-one">
+<!-- 		<aside class="four columns offset-by-one"> -->
 <!-- 			<div class="item"> -->
 <!-- 				<h2>Program</h2> -->
 <!-- 				<ul class="subnav" id="nav_program"> -->
@@ -20,8 +20,8 @@ include_once ('../_inc/header.php');
 <!-- 					<li><a href="demos.php">Demonstrations</a></li> -->
 <!-- 				</ul> -->
 <!-- 			</div> -->
-		</aside>
-		<article class="ten columns" role="main">
+<!-- 		</aside> -->
+		<article class="ten columns offset-by-five" role="main">
 			<h1>Program</h1>
 			<p>
 				Check back later as updates become available. See the <a
