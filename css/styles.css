@@ -67,7 +67,7 @@ header {
 
 .logo a {
 	display: block;
-	margin-left: -50px;    /* optical margin on CSCW 2016 logo */ 
+	margin-left: -53px;    /* optical margin on CSCW 2016 logo */ 
 	width: 257px; 
 	height: 213px; 
 	text-indent: -999em; 
@@ -238,9 +238,10 @@ nav ul li a:visited {color: #ffffff;}
 	
     .logo a {
         margin-left: -5vw;    /* optical margin on CSCW 2016 logo */ 
-        width: 23vw; 
+        width: 23.2vw; 
         height: 19.005vw; 
         background-size: 23vw; 
+        background-image: url(../images/logo@514px.png); 
     }
     
 	.title-block {
