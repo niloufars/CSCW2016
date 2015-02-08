@@ -10,7 +10,7 @@
 				<h1>404 Page not found
 				<br />
 				<br />
-				If this problem persists please contact <a href="mailto:cscw<?php echo $year; ?>webmasters@acm.org">cscw<?php echo $year; ?>webmasters@acm.org</a>.</h1>
+				If this problem persists, please contact <a href="mailto:cscw<?php echo $year; ?>webmasters@acm.org">cscw<?php echo $year; ?>webmasters@acm.org</a>.</h1>
 				<br />
 				<h2>Graphic Design &amp; Webmastering</h2>
 				<p>Matthew Kay, University of Washington<br />
