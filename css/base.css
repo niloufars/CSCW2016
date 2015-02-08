@@ -274,19 +274,15 @@ table {
 
 table th {
 	font-weight: bold;
-    padding: 11.5px;
+    padding: 11.5px 23px 11.5px 0;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
 	text-align: left;	
 }
 table td {
-    padding: 11.5px;
+    padding: 11.5px 23px 11.5px 0;
 	font-size: 90%;
 }
-table tbody tr:first-child td {
-	padding-top: 23px;
+table tr > :last-child {
+	padding-right: 0;
 }
-table tbody tr:last-child td {
-    padding-bottom: 23px;
-}
-

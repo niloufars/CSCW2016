@@ -32,7 +32,7 @@ include_once ('../_inc/header.php');
 				<table>
 					<thead>
 						<tr>
-							<th>Submission Type</th>
+							<th>Submission</th>
 							<th>Deadline</th>
 							<th>Notification</th>
 						</tr>
