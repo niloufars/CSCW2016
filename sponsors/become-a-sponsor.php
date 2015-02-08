@@ -8,7 +8,7 @@ include_once ('../_inc/header.php');
 	<div class="row">
 		<aside class="four columns offset-by-one">
 			<div class="item">
-				<h2>Submitting</h2>
+				<h2>Sponsorship</h2>
 				<ul class="subnav" id="nav_sponsor">
 					<li><a href="index.php">Overview</a></li>
 					<li><a href="become-a-sponsor.php" class="active">Become a Sponsor</a></li>
