@@ -219,7 +219,7 @@ nav ul li a:visited {color: #ffffff;}
 	}
 	
 	.brand {
-		margin-bottom: 3vw;
+		margin-bottom: 5vw;
 	}
 	
     .logo a {
@@ -239,8 +239,8 @@ nav ul li a:visited {color: #ffffff;}
 
     .title-block h1 {
 		font-size: 4.4vw;
-		line-height: 5.5vw;
-		margin-bottom: -0.95vw;
+		line-height: 5.8vw;
+		margin-bottom: -1vw;
 	}
 
 	.title-block h1 span {
@@ -250,7 +250,7 @@ nav ul li a:visited {color: #ffffff;}
     .title-block h1 small {
 		font-size: 2.8vw;
 		line-height: 4.7vw;
-		margin-bottom: -0.1vw;
+		margin-bottom: -0.3vw;
     }
 
 	.menu-link {
