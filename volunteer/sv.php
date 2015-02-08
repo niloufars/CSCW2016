@@ -17,7 +17,7 @@ include_once ('../_inc/header.php');
 			</div>
 		</aside>
 		<article class="ten columns" role="main">
-			<h1>Call for Participation Student Volunteers</h1>
+			<h1>Call for Student Volunteers</h1>
 			<h2>Important Dates</h2>
 			<ul>
 				<li><strong>August 3, 2015</strong>: Student volunteer lottery
@@ -33,8 +33,11 @@ include_once ('../_inc/header.php');
 
 			<h2>You commit to:</h2>
 			<p>Complete 20 hours of volunteer work at the conference during
-					<?php echo $datesYear; ?>. In return, you get: (please note: SV benefits
-					are still being discussed)</p>
+					<?php echo $datesYear; ?>.</p>
+
+			<h2>In return, you get:</h2>
+
+			<p>(please note: SV benefits are still being discussed)</p>
 			<ul>
 				<li>Free conference registration & reception ticket</li>
 				<li>A fabulous t-shirt sure to be the envy of all conference goers</li>
@@ -62,12 +65,12 @@ include_once ('../_inc/header.php');
 			<p>6 student volunteer spots have been assigned to experienced
 				student volunteers to serve as day captains, and the other spots
 				(about 30) will be randomly assigned by the lottery system to
-				applicants who apply by Oct. 9. Finally, there will be a contest
-				for designing the wonderful t-shirt that our SVs wear. The
-				waitlisted applicant who submits the best t-shirt design will be
-				assigned a SV spot. Further information about the t-shirt design
-				contest will be emailed to waitlisted applicants after the initial
-				notification deadline.</p>
+				applicants who apply by Oct. 9. Finally, there will be a contest for
+				designing the wonderful t-shirt that our SVs wear. The waitlisted
+				applicant who submits the best t-shirt design will be assigned a SV
+				spot. Further information about the t-shirt design contest will be
+				emailed to waitlisted applicants after the initial notification
+				deadline.</p>
 			<p>Those volunteers initially selected will be notified on October
 				12, 2015 so that they can begin making any necessary arrangements
 				and get involved in the online student volunteer community. The
