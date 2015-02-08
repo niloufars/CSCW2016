@@ -498,11 +498,12 @@ aside .item .fb-like-box {
         margin-top: 16px;
     }
     
-    /* res-style sidebar to be visually distinct even laid out inline after body content */
-    aside {
+    /* re-style sidebar to be visually distinct even laid out inline after body content */
+    .container aside.column,  
+    .container aside.columns {
 		border-top: 1px solid #999;
-		margin: 0 -5% -18px;
-		width: 108%;
+		margin: 0 -5% -4.166666666666667%;
+		width: 110%;
 		padding: 10px 5%;
 		background: #eee;
     }
