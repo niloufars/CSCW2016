@@ -343,7 +343,8 @@ nav ul li a:visited {color: #ffffff;}
 
 .container.main {
 	margin-top: 36px; 
-	background: #fff; 
+	background: #fff;
+	min-height: 300px; 
 }
 
 .sponsors-list a {
