@@ -499,8 +499,8 @@ aside .item .fb-like-box {
     
     /* re-style sidebar to be visually distinct even laid out inline after body content */
     aside .item {
-		margin: 0 -4.545454545454%;
-        padding: 11.5px 4.545454545454% 0;
+		margin: 0 -4.1666666666667%;
+        padding: 11.5px 4.1666666666667% 0;
 		background: #eee;
     }
 
