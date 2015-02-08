@@ -445,7 +445,7 @@ aside .subnav a:hover {
 
 aside .subnav a.active {
 	color: #fff;
-	font-weight: bold;
+	font-weight: 500;
 	background: #3EA2DA;
 }
 aside .subnav a:hover {
