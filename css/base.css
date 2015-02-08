@@ -274,13 +274,13 @@ table {
 
 table th {
 	font-weight: bold;
-	padding: 5.75px 23px 5.75px 0;
+	padding: 5.75px 17.25px 5.75px 5.75;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
 	text-align: left;	
 }
 table td {
-    padding: 5.75px 23px 5.75px 0;
+    padding: 5.75px 17.25px 5.75px 5.75;
 	font-size: 90%;
 }
 table tbody tr:first-child td {
