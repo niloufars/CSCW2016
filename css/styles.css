@@ -217,7 +217,7 @@ nav ul li a:visited {color: #ffffff;}
 	}
 	
 	.header-strip {
-	   background-position-x: 50%;     /* center photographic element on mobile */
+	   background-position: 50% 75.2%;     /* center photographic element on mobile */
 	}
 	
 	.brand {
