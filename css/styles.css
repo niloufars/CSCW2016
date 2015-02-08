@@ -110,6 +110,7 @@ header {
 	font-size: 38px;
 	line-height: 47px;
 	margin-bottom: -5px;
+	white-space: nowrap;
 }
 
 .title-block h1 span {
