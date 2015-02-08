@@ -40,49 +40,49 @@ include_once ('../_inc/header.php');
 					<tbody>
 						<tr>
 							<td><a href="papers.php" class="text">Papers</a></td>
-							<td>May 22, 2015,<br />
+							<td>Fri May 22, 2015,<br />
 								5:00pm PDT (initial)<br />
 								July 29, 2015<br />
 								5:00pm PDT (2nd round)
 							</td>
-							<td>Monday, August 24, 2015</td>
+							<td>Mon Aug 24, 2015</td>
 						</tr>
 
 						<tr>
 
 							<td><a href="workshops.php" class="text">Workshops</a></td>
-							<td>October 16, 2015,<br />
+							<td>Fri Oct 16, 2015,<br />
 								5:00pm PDT (proposals)
 							</td>
-							<td>October 30, 2015</td>
+							<td>Fri Oct 30, 2015</td>
 						</tr>
 
 						<tr>
 							<td><a href="posters.php" class="text">Interactive Posters</a></td>
-							<td>November 6, 2015, <br />5:00pm PDT
+							<td>Fri Nov 6, 2015, <br />5:00pm PDT
 							</td>
-							<td>December 15, 2015</td>
+							<td>Tue Dec 15, 2015</td>
 						</tr>
 
 						<tr>
 							<td><a href="panels.php" class="text">Panels</a></td>
-							<td>November 6, 2015, 2015,<br />5:00pm PDT
+							<td>Fri Nov 6, 2015,<br />5:00pm PDT
 							</td>
-							<td>December 15, 2015</td>
+							<td>Tue Dec 15, 2015</td>
 						</tr>
 
 						<tr>
 							<td><a href="dc.php" class="text">Doctoral Colloquium</a></td>
-							<td>November 6, 2015,<br />5:00pm PDT
+							<td>Fri Nov 6, 2015,<br />5:00pm PDT
 							</td>
-							<td>December 15, 2015</td>
+							<td>Tue Dec 15, 2015</td>
 						</tr>
 
 						<tr>
 							<td><a href="demos.php" class="text">Demonstrations</a></td>
-							<td>November 6, 2015,<br />5:00pm PDT
+							<td>Nov 6, 2015,<br />5:00pm PDT
 							</td>
-							<td>December 15, 2015</td>
+							<td>Dec 15, 2015</td>
 						</tr>
 					</tbody>
 
