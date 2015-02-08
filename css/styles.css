@@ -497,32 +497,14 @@ aside .item .fb-like-box {
     .container.main {
         margin-top: 16px;
     }
-        
-    /* collapse sidebar content by default in small version */
-    aside .item .inner, aside .item .subnav {
-        display: none;
-    }
-    aside .item h2 {
-        font-size: 14px;
-        line-height: 14px;
-        text-align: center;
-        padding-bottom: 6px;
-        margin: 0;
-    }    
-    aside .item h2:after {
-        content: '. . .';
-        display: block;
-        border-bottom: 1px solid gray;
-        padding: 0 0 4px;
-    }
-    aside .item.expanded .inner, aside .item.expanded .subnav {
-        display: block;
-        border-bottom: 1px solid gray;
-        padding: 10px 0 14px;
-    }
-    aside .item.expanded h2:after {
-        content: none;
-        border: none;
+    
+    /* res-style sidebar to be visually distinct even laid out inline after body content */
+    aside {
+		border-top: 1px solid #999;
+		margin: 0 -5% -18px;
+		width: 108%;
+		padding: 10px 5%;
+		background: #eee;
     }
 }
 
