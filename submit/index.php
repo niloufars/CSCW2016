@@ -40,8 +40,8 @@ include_once ('../_inc/header.php');
 					<tbody>
 						<tr>
 							<td><a href="papers.php" class="text">Papers</a></td>
-							<td>Fri May 22, 2015, 5:00pm PDT (initial)<br />
-								July 29, 2015, 5:00pm PDT (2nd round)
+							<td><em>Initial:</em> Fri May 22, 2015, 5:00pm PDT <br />
+								<em>2nd Round:</em>July 29, 2015, 5:00pm PDT
 							</td>
 							<td>Mon Aug 24, 2015</td>
 						</tr>
@@ -49,7 +49,7 @@ include_once ('../_inc/header.php');
 						<tr>
 
 							<td><a href="workshops.php" class="text">Workshops</a></td>
-							<td>Fri Oct 16, 2015, 5:00pm PDT (proposals)
+							<td><em>Proposals:</em> Fri Oct 16, 2015, 5:00pm PDT
 							</td>
 							<td>Fri Oct 30, 2015</td>
 						</tr>
