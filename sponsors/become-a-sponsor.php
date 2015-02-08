@@ -59,7 +59,7 @@ include_once ('../_inc/header.php');
 				sponsors. Please contact the Sponsorship co-chairs at <a
 					href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a>
 				about becoming a sponsor for CSCW <?php echo $year; ?>.</p>
-			<h2 class="h3">Sponsorship Co-Chairs</h2>
+			<h2>Sponsorship Co-Chairs</h2>
 			<p>
 				Wendy Ju, Stanford University<br /> 
 				Steve Poltrock, Boeing (retired)<br /> 
