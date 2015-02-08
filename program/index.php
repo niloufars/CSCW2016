@@ -7,19 +7,19 @@ include_once ('../_inc/header.php');
 <div class="container main">
 	<div class="row">
 		<aside class="four columns offset-by-one">
-			<div class="item">
-				<h2>Program</h2>
-				<ul class="subnav" id="nav_program">
-					<li><a href="index.php" class="active">Overview</a></li>
-					<!--<li><a href="keynotes.php">Keynote Speakers</a></li>-->
-					<!--<li><a href="papers.php">Papers</a></li>-->
-					<!--<li><a href="accepted_workshops.php">Workshops</a></li> -->
-					<!--<li><a href="posters.php">Interactive Posters</a></li>-->
-					<!--<li><a href="panels.php">Panels</a></li>-->
-					<!--<li><a href="dc.php">Doctoral Colloquium</a></li>-->
-					<!--<li><a href="demos.php">Demonstrations</a></li>-->
-				</ul>
-			</div>
+<!-- 			<div class="item"> -->
+<!-- 				<h2>Program</h2> -->
+<!-- 				<ul class="subnav" id="nav_program"> -->
+<!-- 					<li><a href="index.php" class="active">Overview</a></li> -->
+<!-- 					<li><a href="keynotes.php">Keynote Speakers</a></li> -->
+<!-- 					<li><a href="papers.php">Papers</a></li> -->
+<!-- 					<li><a href="accepted_workshops.php">Workshops</a></li> -->
+<!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
+<!-- 					<li><a href="panels.php">Panels</a></li> -->
+<!-- 					<li><a href="dc.php">Doctoral Colloquium</a></li> -->
+<!-- 					<li><a href="demos.php">Demonstrations</a></li> -->
+<!-- 				</ul> -->
+<!-- 			</div> -->
 		</aside>
 		<article class="ten columns" role="main">
 			<h1>Program</h1>
