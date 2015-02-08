@@ -6,18 +6,7 @@ include_once ('../_inc/header.php');
 ?>
 <div class="container main">
 	<div class="row">
-		<article class="ten columns" role="main">
-			<h1>Program</h1>
-			<p>
-				Check back later as updates become available. See the <a
-					href="<?php echo $basePath; ?>/submit/">calls for participation</a>
-				for information on how to submit to CSCW 2016.
-			</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
-		</article>
-		<aside class="five columns offset-by-one omega">
+		<aside class="four columns offset-by-one">
 			<div class="item">
 				<h2>Program</h2>
 				<ul class="subnav" id="nav_program">
@@ -32,6 +21,14 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
+		<article class="ten columns" role="main">
+			<h1>Program</h1>
+			<p>
+				Check back later as updates become available. See the <a
+					href="<?php echo $basePath; ?>/submit/">calls for participation</a>
+				for information on how to submit to CSCW 2016.
+			</p>
+		</article>
 	</div>
 </div>
 <?php
