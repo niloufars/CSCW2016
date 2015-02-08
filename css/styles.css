@@ -68,11 +68,11 @@ header {
 .logo a {
 	display: block;
 	margin-left: -50px;    /* optical margin on CSCW 2016 logo */ 
-	width: 250px; 
-	height: 207px; 
+	width: 257px; 
+	height: 213px; 
 	text-indent: -999em; 
-	background: url(../images/logo.png) 0 0 no-repeat;
-    background-size: 250px 207px; 
+	background: url(../images/logo@257px.png) 0 0 no-repeat;
+    background-size: 257px; 
 }
 
 @media only screen and (max-width: 959px) {
@@ -101,15 +101,15 @@ header {
 
 .title-block {
 	position: relative;
-	height: 207px;
+	height: 213px;
 }
 
 .title-block h1 {
-    position: absolute;
-    bottom: 0;
+	position: absolute;
+	bottom: 0;
 	font-size: 38px;
-    line-height: 42px;
-	margin-bottom: -2px;
+	line-height: 47px;
+	margin-bottom: -5px;
 }
 
 .title-block h1 span {
@@ -118,9 +118,10 @@ header {
 
 .title-block h1 small {
 	display: block;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: normal;
-	line-height: 18px;
+	line-height: 29px;
+	margin-bottom: -3px;
 }
 
 .title-block h1 abbr {
