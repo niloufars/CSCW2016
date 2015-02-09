@@ -7,7 +7,7 @@
 	<div class="container main">
 		<div class="row">	
 		<!-- 
-		<aside class="four columns offset-by-one omega"> 
+		<aside class="four columns offset-by-one"> 
 			</aside> -->
 			<article class="ten columns offset-by-five" role="main">
 				<h1>CSCW <?php echo $year; ?> Committee</h1>
