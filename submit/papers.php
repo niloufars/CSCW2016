@@ -6,7 +6,7 @@ include_once('../_inc/header.php');
 ?>
 <div class="container main">
 	<div class="row">
-		<aside class="four columns offset-by-one omega">
+		<aside class="four columns offset-by-one">
 			<div class="item">
 				<h2>Submitting</h2>
 				<ul class="subnav" id="nav_submit">
