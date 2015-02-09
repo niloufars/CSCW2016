@@ -6,6 +6,19 @@
 ?>
 	<div class="container main">
 		<div class="row">
+		<aside class="four columns offset-by-one omega">
+				<div class="item">
+					<h2>Attending</h2>
+					<ul class="subnav" id="nav_attend">
+						<li><a href="index.php">Overview</a></li>
+						<li><a href="reg.php">Conference Registration</a></li>
+						<li><a href="hotel.php">Hotel</a></li>
+						<li><a href="visas.php" class="active">Visas</a></li>
+						<li><a href="travel.php">Travel & Transportation</a></li>
+						<li><a href="local.php">Local Attractions</a></li>
+					</ul>
+				</div>
+			</aside>
 			<article class="ten columns" role="main">
 				<h1>Visa Information</h1>
         
@@ -25,19 +38,7 @@
  			</p>
  			<p><a href="http://www.acm.org/sigs/volunteer_resources/conference_manual/visas?searchterm=visa+support+letters" target="_blank">http://www.acm.org/sigs/volunteer_resources/conference_manual/visas?searchterm=visa+support+letters</a></p>
 			</article>
-			<aside class="five columns offset-by-one omega">
-				<div class="item">
-					<h2>Attending</h2>
-					<ul class="subnav" id="nav_attend">
-						<li><a href="index.php">Overview</a></li>
-						<li><a href="reg.php">Conference Registration</a></li>
-						<li><a href="hotel.php">Hotel</a></li>
-						<li><a href="visas.php" class="active">Visas</a></li>
-						<li><a href="travel.php">Travel & Transportation</a></li>
-						<li><a href="local.php">Local Attractions</a></li>
-					</ul>
-				</div>
-			</aside>
+			
 		</div>	
 	</div>
 <?php 

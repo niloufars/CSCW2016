@@ -5,98 +5,106 @@
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
-		<div class="row">
-			<article class="ten columns" role="main">
+		<div class="row">	
+		<!-- 
+		<aside class="four columns offset-by-one omega"> 
+			</aside> -->
+			<article class="ten columns offset-by-five" role="main">
 				<h1>CSCW <?php echo $year; ?> Committee</h1>
 				
 				<h2 class="h3">General Co-Chairs</h2>
-				<p>Andrea Forte, Drexel University<br />
-				Dan Cosley, Cornell University<br />
-				<a class="email" href="mailto:chairs<?php echo $year; ?>@cscw.acm.org">chairs<?php echo $year; ?>@cscw.acm.org</a>
+				<p>Darren Gergle, Northwestern University<br />
+				Meredith Ringel Morris, Microsoft Research<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>chairs@acm.org">cscw<?php echo $year; ?>chairs@acm.org</a>
 				</p>
 				
-				<h2 class="h3">Papers & Notes Co-Chairs</h2>
-				<p>Luigina Ciolfi, Sheffield Hallam University<br />
-				David McDonald, University of Washington<br />
-				<a class="email" href="mailto:papers<?php echo $year; ?>@cscw.acm.org">papers<?php echo $year; ?>@cscw.acm.org</a>
-				</p>
-				
-				<h2 class="h3">Posters Co-Chairs</h2>
-				<p>Karyn Moffatt, McGill University<br />
-				Aleksandra Sarcevic, Drexel University<br />
-				<a class="email" href="mailto:posters<?php echo $year; ?>@cscw.acm.org">posters<?php echo $year; ?>@cscw.acm.org</a>
-				</p>
-				
-				<h2 class="h3">Panels Co-Chairs</h2>
-				<p>Louise Barkhuus, Stockholm University<br />
-					Anatoliy Gruzd, Ryerson University<br />
-				<a class="email" href="mailto:panels<?php echo $year; ?>@cscw.acm.org">panels<?php echo $year; ?>@cscw.acm.org</a>
-				</p>
-				
-				<h2 class="h3">Workshops Co-Chairs</h2>
-				<p>Laura Dabbish, Carnegie Mellon University<br />
-				Jenn Thom, Amazon<br />
-				<a class="email" href="mailto:workshops<?php echo $year; ?>@cscw.acm.org">workshops<?php echo $year; ?>@cscw.acm.org</a>
-				</p>
-				
-				<h2 class="h3">Demos Co-Chairs</h2>
-				<p>Tomoo Inoue, University of Tsukuba<br />
-				Tony Tang, University of Calgary<br />
-				<a class="email" href="mailto:demos<?php echo $year; ?>@cscw.acm.org">demos<?php echo $year; ?>@cscw.acm.org</a>
-				</p>
-				
-				<h2 class="h3">Publicity Co-Chairs</h2>
-				<p>Moira Burke, Facebook<br />
-				Elizabeth Gerber, Northwestern University<br />
-				Andres Monroy-Hernandez, Microsoft<br />
-				Dario Taraborelli, Wikimedia Foundation<br />
-				<a class="email" href="mailto:publicity<?php echo $year; ?>@cscw.acm.org">publicity<?php echo $year; ?>@cscw.acm.org</a>
-				</p>
-				
-				<h2 class="h3">Doctoral Consortium Co-Chairs</h2>
-				<p>Carl Gutwin, University of Saskatchewan<br />
-				Abigail Sellen, Microsoft Research Cambridge<br />
-				<a class="email" href="mailto:dc<?php echo $year; ?>@cscw.acm.org">dc<?php echo $year; ?>@cscw.acm.org</a>
-				</p>
-				
-				<h2 class="h3">Student Volunteer Co-Chairs</h2>
-				<p>Erin Brady, University of Rochester<br />
-				Syavash Nobarany, University of British Columbia<br />
-				<a class="email" href="mailto:sv<?php echo $year; ?>@cscw.acm.org">sv<?php echo $year; ?>@cscw.acm.org</a>
+				<h2 class="h3">Papers Co-Chairs</h2>
+				<p>Pernille Bjørn, IT University of Copenhagen<br />
+				Joseph Konstan, University of Minnesota<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>papers@acm.org">cscw<?php echo $year; ?>papers@acm.org</a>
 				</p>
 				
 				<h2 class="h3">Treasurer</h2>
 				<p>Jeremy Birnholtz, Northwestern University<br />
-				<a class="email" href="mailto:treasurer<?php echo $year; ?>@cscw.acm.org">treasurer<?php echo $year; ?>@cscw.acm.org</a>
+				<a class="email" href="mailto:cscw<?php echo $year; ?>treasurer@acm.org">cscw<?php echo $year; ?>treasurer@acm.org</a>
+				</p>
+
+				<h2 class="h3">Posters Co-Chairs</h2>
+				<p>Matthew Bietz, UC Irvine<br />
+				Vanessa Evers, University of Twente<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>posters@acm.org">cscw<?php echo $year; ?>posters@acm.org</a>
+				</p>
+				
+				<h2 class="h3">Demos Co-Chairs</h2>
+				<p>Bjoern Hartmann, UC Berkeley<br />
+				Anne Marie Piper, Northwestern University<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>demos@acm.org">cscw<?php echo $year; ?>demos@acm.org</a>
+				</p>
+
+				<h2 class="h3">Workshops Co-Chairs</h2>
+				<p>Marcos R. S. Borges, Universidade Federal do Rio de Janeiro<br />
+				Madhu Reddy, Penn State University<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>workshops@acm.org">cscw<?php echo $year; ?>workshops@acm.org</a>
+				</p>
+				
+
+				<h2 class="h3">Panels Co-Chairs</h2>
+				<p>Jacki O’Neill, Microsoft Research India<br />
+					Dan Russell, Google<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>panels@acm.org">cscw<?php echo $year; ?>panels@acm.org</a>
+				</p>
+				
+				<h2 class="h3">Doctoral Symposium Co-Chairs</h2>
+				<p>Louise Barkhuus, Stockholm University<br />
+				Loren Terveen, University of Minnesota<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>doctoral@acm.org">cscw<?php echo $year; ?>doctoral@acm.org</a>
 				</p>
 				
 				<h2 class="h3">Proceedings Co-Chairs</h2>
-				<p>Jacqueline Pike, Duquesne University<br />
-				Andrea Wiggins, DataONE<br />
-				<a class="email" href="mailto:proceedings<?php echo $year; ?>@cscw.acm.org">proceedings<?php echo $year; ?>@cscw.acm.org</a>
+				<p>Gary Hsieh, University of Washington<br />
+				Naomi Yamashita, NTT<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>proceedings@acm.org">cscw<?php echo $year; ?>proceedings@acm.org</a>
 				</p>
 				
-				<h2 class="h3">Local Arrangements and Accessibility Co-Chairs</h2>
-				<p>Serena Hillman, Simon Fraser University<br />
-				Carman Neustaedter, Simon Fraser University<br />
-				<a class="email" href="mailto:local<?php echo $year; ?>@cscw.acm.org">local<?php echo $year; ?>@cscw.acm.org</a>
+
+				<h2 class="h3">Publicity Co-Chairs</h2>
+				<p>Brian Keegan, Northeastern University<br />
+				Jessica Vitak, University of Maryland<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>publicity@acm.org">cscw<?php echo $year; ?>publicity@acm.org</a>
 				</p>
 				
 				<h2 class="h3">Sponsorship Co-Chairs</h2>
-				<p>Sean Goggins, University of Missouri<br />
-				Steve Poltrock<br />
-				<a class="email" href="mailto:sponsorship<?php echo $year; ?>@cscw.acm.org">sponsorship<?php echo $year; ?>@cscw.acm.org</a>
+				<p>Wendy Ju, Stanford University<br />
+				Steve Poltrock, Boeing (retired)<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a>
+				</p>
+				
+				<h2 class="h3">Local Arrangements and Accessibility Co-Chairs</h2>
+				<p>Judd Antin, Facebook<br />
+				Sharoda Paul, GE Global Research<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>local@acm.org">cscw<?php echo $year; ?>local@acm.org</a>
 				</p>
 				
 				<h2 class="h3">Graphic Design &amp; Webmastering</h2>
 				<p>Matthew Kay, University of Washington<br />
 				Niloufar Salehi, Stanford University<br />
-				<a class="email" href="mailto:webmaster<?php echo $year; ?>@cscw.acm.org">webmaster<?php echo $year; ?>@cscw.acm.org</a>
+				<a class="email" href="mailto:cscw<?php echo $year; ?>webmasters@acm.org">cscw<?php echo $year; ?>webmasters@acm.org</a>
 				</p>
 
+				<h2 class="h3">Student Volunteer Co-Chairs</h2>
+				<p>Carolina Fuentes, Pontificia Universidad Catolica de Chile<br />
+				Elizabeth Murnane, Cornell University<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>sv@acm.org">cscw<?php echo $year; ?>sv@acm.org</a>
+				</p>
+
+				<h2 class="h3">Student Assistant to the General Chairs</h2>
+				<p>Joy Kim, Stanford University<br />
+				<a class="email" href="mailto:jojo0808@stanford.edu">jojo0808@stanford.edu</a>
+				</p>
+				
+
 			</article>
-			<aside class="five columns offset-by-one omega">
-			</aside>
+			
 		</div>	
 	</div>
 <?php 
