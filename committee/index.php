@@ -5,8 +5,11 @@
 	include_once('../_inc/header.php');
 ?>
 	<div class="container main">
-		<div class="row">
-			<article class="ten columns" role="main">
+		<div class="row">	
+		<!-- 
+		<aside class="four columns offset-by-one omega"> 
+			</aside> -->
+			<article class="ten columns offset-by-five" role="main">
 				<h1>CSCW <?php echo $year; ?> Committee</h1>
 				
 				<h2 class="h3">General Co-Chairs</h2>
@@ -101,8 +104,7 @@
 				
 
 			</article>
-			<aside class="five columns offset-by-one omega">
-			</aside>
+			
 		</div>	
 	</div>
 <?php 
