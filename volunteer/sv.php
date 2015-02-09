@@ -8,7 +8,7 @@ include_once ('../_inc/header.php');
 	<div class="row">
 		<aside class="four columns offset-by-one">
 			<div class="item">
-				<h2>Volunteering & Mentorship</h2>
+				<h2>Volunteering &amp; Mentorship</h2>
 				<ul class="subnav" id="nav_volunteer">
 					<li><a href="index.php">Overview</a></li>
 					<li><a href="sv.php" class="active">Student Volunteers</a></li>
@@ -39,7 +39,7 @@ include_once ('../_inc/header.php');
 
 			<p>(please note: SV benefits are still being discussed)</p>
 			<ul>
-				<li>Free conference registration & reception ticket</li>
+				<li>Free conference registration &amp; reception ticket</li>
 				<li>A fabulous t-shirt sure to be the envy of all conference goers</li>
 				<li>Daily lunches with faculty mentors</li>
 			</ul>

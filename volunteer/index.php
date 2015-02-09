@@ -8,7 +8,7 @@ include_once ('../_inc/header.php');
 	<div class="row">
 		<aside class="four columns offset-by-one">
 			<div class="item">
-				<h2>Volunteering & Mentorship</h2>
+				<h2>Volunteering &amp; Mentorship</h2>
 				<ul class="subnav" id="nav_volunteer">
 					<li><a href="index.php" class="active">Overview</a></li>
 					<li><a href="sv.php">Student Volunteers</a></li>
@@ -17,7 +17,7 @@ include_once ('../_inc/header.php');
 			</div>
 		</aside>
 		<article class="ten columns" role="main">
-			<h1>Volunteering & Mentorship</h1>
+			<h1>Volunteering &amp; Mentorship</h1>
 			<p>
 				Students are a vital component of the CSCW conference. Here you can
 				find more information about <a href="sv.php">student volunteering</a>

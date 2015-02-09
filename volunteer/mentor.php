@@ -8,7 +8,7 @@ include_once ('../_inc/header.php');
 	<div class="row">
 		<aside class="four columns offset-by-one">
 			<div class="item">
-				<h2>Volunteering & Mentorship</h2>
+				<h2>Volunteering &amp; Mentorship</h2>
 				<ul class="subnav" id="nav_volunteer">
 					<li><a href="index.php">Overview</a></li>
 					<li><a href="sv.php">Student Volunteers</a></li>
@@ -129,7 +129,7 @@ include_once ('../_inc/header.php');
 
 			<h3>Why a mentoring review program?</h3>
 			<p>The increasing numbers of submission for CSCW as well as the
-				revise & resubmit process entails that we are dependent on a large
+				revise &amp; resubmit process entails that we are dependent on a large
 				number of good reviewers who are willing to provide expert feedback
 				and engage with authors on their work.</p>
 			<p>In former CSCW surveys students have stated that despite

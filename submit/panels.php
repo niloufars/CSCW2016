@@ -20,7 +20,7 @@
 					</ul>
 				</div>
 			</aside>
-			<article class="ten columns alpha" role="main">
+			<article class="ten columns" role="main">
 			<h1>Panels</h1>
 			<h2>Important Dates</h2>
 			<ul>
