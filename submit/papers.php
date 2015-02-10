@@ -20,7 +20,7 @@ include_once('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns alpha" role="main">
+		<article class="ten columns" role="main">
 			<H1>Papers</H1>
 			<h3>Important Dates</h3>
 
