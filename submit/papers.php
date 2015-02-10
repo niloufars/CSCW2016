@@ -123,7 +123,7 @@ include_once ('../_inc/header.php');
 					href="https://precisionconference.com/~sigchi/" target="_blank">Precision
 					Conference System (PCS)</a> by 16:59 Pacific Daylight Time (PDT) /
 				23:59 UTC on May 22nd 2015. The site will open for submissions
-				beginning Monday April 20th. Papers in the "Revise & Resubmit"
+				beginning Monday April 20th. Papers in the "Revise &amp; Resubmit"
 				category must be re-submitted via the PCS system by 16:59 PDT on
 				July 29th 2015
 			</p>
@@ -233,8 +233,17 @@ include_once ('../_inc/header.php');
 
 			<h2>Revision Cycle</h2>
 
-			<p>Papers will undergo two review cycles. After the first round of review, a submission will receive either a "Revise & Resubmit" or a "Reject" notification (along with the reviews themselves). Submissions rejected in the first round cannot be revised for CSCW <?php echo $year; ?>, but authors can begin reworking them for submission to other venues. Authors of papers designated "Revise & Resubmit" will have two weeks to revise their paper in response to the reviewers' comments. Authors will need to allocate time for possible revisions during the period between  July 3rd and July 29, 2015. Revised papers must be re-submitted via the PCS system by 16:59 PDT on July 29, 2015. <strong>Note
-					that an invitation to "Revise & Resubmit" is not a guarantee of
+			<p>Papers will undergo two review cycles. After the first round of review, a 
+				submission will receive either a "Revise &amp; Resubmit" or a "Reject" 
+				notification (along with the reviews themselves). Submissions rejected 
+				in the first round cannot be revised for CSCW <?php echo $year; ?>, but 
+				authors can begin reworking them for submission to other venues. Authors 
+				of papers designated "Revise &amp; Resubmit" will have two weeks to 
+				revise their paper in response to the reviewers' comments. Authors will 
+				need to allocate time for possible revisions during the period between  
+				July 3rd and July 29, 2015. Revised papers must be re-submitted via the 
+				PCS system by 16:59 PDT on July 29, 2015. <strong>Note
+					that an invitation to "Revise &amp; Resubmit" is not a guarantee of
 					acceptance--the revision will be re-reviewed as the basis for the
 					final decision.</strong> This is similar to a journal process,
 				except that it is limited to a single revision with a strict
@@ -254,9 +263,9 @@ include_once ('../_inc/header.php');
 				allowing more interaction between authors and reviewers.</p>
 
 			<p>
-				With the resubmission of R&R papers, authors are asked to provide a
-				letter explaining how they approached the comments by the reviewers
-				and incorporated the changes in the revision. See <a
+				With the resubmission of R&amp;R papers, authors are asked to
+				provide a letter explaining how they approached the comments by the
+				reviewers and incorporated the changes in the revision. See <a
 					href="http://research.microsoft.com/en-us/um/people/merrie/temp/change_log_samples.html"
 					target="_blank"> examples of "change summary" documents</a>
 				submitted with papers in past CSCWs
@@ -296,7 +305,7 @@ include_once ('../_inc/header.php');
 				committee member who is experienced with work of that character.
 				CSCW values work from a variety of interdisciplinary and
 				methodological perspectives - specific evaluation types are not a
-				prerequisite for acceptance (Greenberg & Buxton, 2008).</p>
+				prerequisite for acceptance (Greenberg &amp; Buxton, 2008).</p>
 
 			<p>Greenberg, S., and Buxton, B. "Usability evaluation considered
 				harmful (Some of the time)" in: CHI, ACM, Florence, Italy, 2008, pp.
