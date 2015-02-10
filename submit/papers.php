@@ -322,7 +322,7 @@ include_once ('../_inc/header.php');
 				submissions awarded Best Paper.</p>
 
 			<h2 id="lastingimpact">
-				CSCW Lasting Impact Award
+				"CSCW Lasting Impact" Award
 			</h2>
 
 			<p>The CSCW Lasting Impact award will recognize a paper published at
