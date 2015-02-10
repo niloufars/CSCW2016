@@ -158,11 +158,11 @@ include_once ('../_inc/header.php');
 					editor or program chair only.)</li>
 			</ul>
 			<p>In cases where an author feels a particular representation cannot
-				be made,but that submission is appropriate, the author should
+				be made, but that submission is appropriate, the author should
 				contact the editor or program chair prior to submission to discuss
 				the situation and determine whether submission will be permitted.</p>
 			<p>All submissions must be new work that has not been published in a
-				peerreviewed conference or journal. Work previously published in
+				peer reviewed conference or journal. Work previously published in
 				workshops that do not have published proceedings may be submitted
 				(as-is or extended) to CSCW. Work previously published in workshops
 				that do have published proceedings may only be submitted if the work
@@ -173,7 +173,7 @@ include_once ('../_inc/header.php');
 				changes incorporated into the CSCW-submitted version.</p>
 			<p>
 				Regarding the re-publication in English of work previously published
-				in another language, please refer to the statement by ACM SigCHI
+				in another language, please refer to the statement by ACM SIGCHI
 				regarding specialized conferences: <a
 					href="http://www.sigchi.org/conferences/organizing-a-sigchi-sponsored-conference"
 					target="_blank">http://www.sigchi.org/conferences/organizing-a-sigchi-sponsored-conference</a>
@@ -187,7 +187,7 @@ include_once ('../_inc/header.php');
 				proprietary or confidential at that time. Final versions of accepted
 				papers must be formatted according to detailed instructions provided
 				by the publisher. Copyright release forms must be signed for
-				inclusion in the proceedings and the ACMDigital Library.</p>
+				inclusion in the proceedings and the ACM Digital Library.</p>
 
 			<h2>Formatting and Length</h2>
 
@@ -268,7 +268,7 @@ include_once ('../_inc/header.php');
 				reviewers and incorporated the changes in the revision. See <a
 					href="http://research.microsoft.com/en-us/um/people/merrie/temp/change_log_samples.html"
 					target="_blank"> examples of "change summary" documents</a>
-				submitted with papers in past CSCWs
+				submitted with papers in past CSCWs.
 			</p>
 			<p>
 				This is not an invitation to submit extended abstracts or incomplete
@@ -294,7 +294,7 @@ include_once ('../_inc/header.php');
 				<li>Empirical-Quantitative, e.g. "big data," quantitative user
 					studies, statistical methods, etc.</li>
 				<li>Design, e.g. design implications, guidelines, methods,
-					techniques, etc</li>
+					techniques, etc.</li>
 				<li>Mixed Methods, e.g., combined qualitative and quantitative
 					empirical research, design explorations combined with technical
 					feature development.</li>
@@ -321,9 +321,8 @@ include_once ('../_inc/header.php');
 				Approximately 5% of submissions may be nominated and 1% of total
 				submissions awarded Best Paper.</p>
 
-			<h2>
-				<a class='anchortag' name='lastingimpact'
-					style='text-decoration: none;'>"CSCW Lasting Impact" Award</a>
+			<h2 id="lastingimpact">
+				CSCW Lasting Impact Award
 			</h2>
 
 			<p>The CSCW Lasting Impact award will recognize a paper published at
@@ -335,7 +334,7 @@ include_once ('../_inc/header.php');
 				consideration, please email the papers chairs by Monday October 19,
 				2015, including the paper's title, author list, and year of
 				publication, as well as a brief paragraph explaining why the paper
-				deserves recognition for "lasting impact"</p>
+				deserves recognition for "lasting impact".</p>
 
 			<h2>Accepted Papers</h2>
 
