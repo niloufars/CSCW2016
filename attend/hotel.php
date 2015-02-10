@@ -14,7 +14,7 @@ include_once('../_inc/header.php');
                                 <li><a href="reg.php">Conference Registration</a></li>
                                 <li><a href="hotel.php" class="active">Hotel</a></li>
                                 <li><a href="visas.php">Visas</a></li>
-                                <li><a href="travel.php">Travel & Transportation</a></li>
+                                <li><a href="travel.php">Travel &amp; Transportation</a></li>
                                 <li><a href="local.php">Local Attractions</a></li>
                         </ul>
                 </div>

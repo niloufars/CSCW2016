@@ -14,13 +14,13 @@ include_once('../_inc/header.php');
 					<li><a href="reg.php">Conference Registration</a></li>
 					<li><a href="hotel.php">Hotel</a></li>
 					<li><a href="visas.php">Visas</a></li>
-					<li><a href="travel.php" class="active">Travel & Transportation</a></li>
+					<li><a href="travel.php" class="active">Travel &amp; Transportation</a></li>
 					<li><a href="local.php">Local Attractions</a></li>
 				</ul>
 			</div>
 		</aside>
 		<article class="ten columns" role="main">
-			<h1>Travel & Transportation Information</h1>
+			<h1>Travel &amp; Transportation Information</h1>
 			<p>
 				The major gateway to San Francisco is <a href="http://www.flysfo.com/" class="text" target="_blank">San Francisco International airport (SFO)</a>, 15
 				miles south of the city. Transportation from the airport to downtown San Francisco

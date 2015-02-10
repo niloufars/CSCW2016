@@ -30,7 +30,7 @@
 				<li><strong>Sunday, February 28, 2016</strong>: Doctoral Colloquium</li>
 			</ul>
 			
-			<h2>Guidelines & Submission Requirements</h2>
+			<h2>Guidelines &amp; Submission Requirements</h2>
 			
 			<p>The Doctoral Colloquium is a forum in which Ph.D. students meet and discuss their work with each other and a panel of experienced CSCW researchers and practitioners. The colloquium itself will begin with dinner Saturday night February 27, 2016 and continue all day Sunday February 28, 2016.
 			</p>

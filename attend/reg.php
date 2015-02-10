@@ -14,7 +14,7 @@
 						<li><a href="reg.php"  class="active">Conference Registration</a></li>
 						<li><a href="hotel.php">Hotel</a></li>
 						<li><a href="visas.php">Visas</a></li>
-						<li><a href="travel.php">Travel & Transportation</a></li>
+						<li><a href="travel.php">Travel &amp; Transportation</a></li>
 						<li><a href="local.php">Local Attractions</a></li>
 					</ul>
 				</div>
