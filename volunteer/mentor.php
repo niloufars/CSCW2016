@@ -19,6 +19,9 @@ include_once ('../_inc/header.php');
 		<article class="ten columns" role="main">
 
 			<H1>CSCW Reviewer Mentor Program</H1>
+			<p>More information coming soon.
+			</p>
+			<!--
 			<p>The CSCW Reviewer Mentor Program is intended to create an
 				opportunity for students to participate in the CSCW review process
 				while getting guidance from senior reviewers. The idea is that a
@@ -146,7 +149,7 @@ include_once ('../_inc/header.php');
 			<p>
 				Pernille Bjorn, IT University of Copenhagen<br /> <a
 					href="mailto:studentreviewmentor<?php echo $year; ?>@cscw.acm.org">studentreviewmentor<?php echo $year; ?>@cscw.acm.org</a>
-			</p>
+			</p> -->
 
 		</article>
 	</div>

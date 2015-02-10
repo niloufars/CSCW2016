@@ -58,7 +58,7 @@ include_once ('_inc/header.php');
 				work is an important area of focus for the conference, CSCW also
 				embraces research and technologies supporting a wide variety of
 				recreational and social activities using a diverse range of devices.</p>
-			<p>CSCW <?php echo $year; ?> will offer multiple venues for contribution, including Papers, Workshops, Panels, Interactive Posters, Videos, Demonstrations, and a Doctoral Colloquium. Please see the <a
+			<p>CSCW <?php echo $year; ?> will offer multiple venues for contribution, including Papers, Workshops, Panels, Interactive Posters, Demonstrations, and a Doctoral Colloquium. Please see the <a
 					href="submit/index.php">Call for Participation</a> for deadlines
 				and additional information.
 			</p>

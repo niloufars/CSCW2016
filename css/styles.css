@@ -127,7 +127,7 @@ header {
 
 .title-block h1 abbr {
 	/* all small caps (by transforming to lowercase and using small caps) */
-	text-transform: lowercase;
+	/*text-transform: lowercase;*/
 	-moz-font-feature-settings: "smcp";
 	-moz-font-feature-settings: "smcp=1";
 	-ms-font-feature-settings: "smcp";

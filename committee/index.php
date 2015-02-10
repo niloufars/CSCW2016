@@ -98,8 +98,10 @@
 				</p>
 
 				<h2 class="h3">Student Assistant to the General Chairs</h2>
-				<p>Joy Kim, Stanford University<br />
-				<a class="email" href="mailto:jojo0808@stanford.edu">jojo0808@stanford.edu</a>
+				<p>Joy Kim, Stanford University
+				</p>
+				<h2 class="h3">PC Meeting Local Arrangements Chair</h2>
+				<p>Irina Shklovski, IT University of Copenhagen
 				</p>
 				
 

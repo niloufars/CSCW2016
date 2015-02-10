@@ -183,7 +183,9 @@ include_once('../_inc/header.php');
 									At least one author of each accepted paper must register for, attend, and present the paper at the CSCW 2016 conference. Failure to meet this requirement may result in withdrawal of the work from the proceedings published in the ACM Digital Library. 
 									</p>
 									<p>Authors of accepted papers will have to choose whether to pay for open-access publication (this decision is made after acceptance and will not affect the review decision). Authors also will have to choose among three options for rights management: copyright transfer (or government copyright), a limited exclusive right to publish, or author-retained rights (only for author-paid open access articles). All authors of ACM-published articles retain substantial rights, see <a href="http://authors.acm.org" target="_blank">http://authors.acm.org</a> for more details. </p>
-
+									<h2>Program Committee Members</h2>
+									<p>Coming soon.
+									</p>
 									</article>
 
 								</div>	
