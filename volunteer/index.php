@@ -21,7 +21,7 @@ include_once ('../_inc/header.php');
 			<p>
 				Students are a vital component of the CSCW conference. Here you can
 				find more information about <a href="sv.php">student volunteering</a>
-				as well as the <a href="mentor.php">CSCW Reviewer Mentor Program</a>.
+				as well as the <a href="mentor.php">Reviewer Mentor Program</a>.
 			</p>
 		</article>
 	</div>

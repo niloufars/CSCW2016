@@ -18,7 +18,7 @@ include_once ('../_inc/header.php');
 		</aside>
 		<article class="ten columns" role="main">
 
-			<H1>CSCW Reviewer Mentor Program</H1>
+			<H1>Reviewer Mentor Program</H1>
 			<p>More information coming soon.
 			</p>
 			<!--
