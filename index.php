@@ -70,6 +70,7 @@ include_once ('_inc/header.php');
 					href="http://www.sigchi.org/communities/cscw" target="_blank">join</a>
 				the CSCW Community!
 			</p>
+			<p><strong>Are you looking for the CSCW 2015 homepage? You can find it <a href="http://cscw.acm.org/2015">here</a>!</strong></p>
 			<h2>Conference Co-chairs</h2>
 			<p>
 				Darren Gergle, Northwestern University<br />
