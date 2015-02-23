@@ -64,7 +64,7 @@ include_once(dirname(__FILE__) . '/config.php');
 		<div class="container">
 			<div class="brand clearfix">
 				<div class="logo four columns offset-by-one">
-					<a href="http://sfgov.org/">CSCW <?php echo $year; ?></a>
+					<a href="http://cscw.acm.org/2016/">CSCW <?php echo $year; ?></a>
 				</div>
 				<div class="title-block eleven columns">
 					<h1><small>The <?php echo $nth; ?> <abbr title="Association for Computing Machinery">ACM</abbr> conference on</small> 
