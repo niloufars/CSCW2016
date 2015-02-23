@@ -46,7 +46,7 @@
 			</p>
 			
 		  	<h2>Submitting a Proposal</h2>
-		  	<p>Panel proposals should be no longer than 4 pages in the <a href="http://www.sigchi.org/publications/chipubform" target="_blank">SIGCHI Extended Abstracts format</a>. They should include:
+		  	<p>Panel proposals should be no longer than 4 pages in the <a href="http://sigchi.github.io/Document-Formats/" target="_blank">SIGCHI Extended Abstracts format</a>. They should include:
 		  		<ul>
 		  			<li>The panel topic</li>
 		  			<li> One-paragraph biographical sketches of the panelists describing their expertise </li>

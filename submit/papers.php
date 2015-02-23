@@ -193,8 +193,8 @@ include_once ('../_inc/header.php');
 
 			<p>
 				Please use the SIGCHI papers template to format your submission
-				(there is a <a href="CSCWUSpaperformat.doc" target="_blank">Word
-					version</a> and a <a href="cscw2013archivalformatLaTeX.zip"
+				(there is a <a href="https://github.com/sigchi/Document-Formats/blob/master/Builds/sigchi-latex-proceedings.tar.gz?raw=true" target="_blank">Word
+					version</a> and a <a href="https://github.com/sigchi/Document-Formats/blob/master/Builds/sigchi-word-proceedings.zip?raw=true"
 					target="_blank">Latex version</a>). Papers should be converted to
 				PDF before submission.
 			</p>

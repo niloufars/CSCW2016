@@ -46,7 +46,7 @@
 			
 			<p>Applicants should submit the following items by email to cscw<?php echo $year; ?>doctoral@acm.org with the subject line "CSCW<?php echo $year; ?> Colloquium Submission." All items below should be collated into one PDF file named YOURNAME_CSCWDC<?php echo $year; ?>.pdf (substitute your full name where it reads YOURNAME):
 				<ul>
-					<li>A FOUR-page overview of your doctoral research that describes your research question, work in progress, and expected contributions. This overview should also include (1) a paragraph that articulates what you hope to gain from attending the CSCW Doctoral Colloquium, and (2) an abstract of no more than 100 words. Your overview will be published in the ACM Digital Library and distributed to all attendees as part of the Conference Extended Abstracts. Please submit your overview in the <a href="http://www.sigchi.org/publications/chipubform" target="_blank">Extended Abstract Format</a>.
+					<li>A FOUR-page overview of your doctoral research that describes your research question, work in progress, and expected contributions. This overview should also include (1) a paragraph that articulates what you hope to gain from attending the CSCW Doctoral Colloquium, and (2) an abstract of no more than 100 words. Your overview will be published in the ACM Digital Library and distributed to all attendees as part of the Conference Extended Abstracts. Please submit your overview in the <a href="http://sigchi.github.io/Document-Formats/" target="_blank">Extended Abstract Format</a>.
 					</li>
 					<li>A short (2-3 paragraph) biographical sketch on another page.</li>
 					<li>An up-to-date curriculum vitae.</li>
