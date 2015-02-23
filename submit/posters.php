@@ -52,8 +52,8 @@ include_once ('../_inc/header.php');
 			<p>
 				Interactive Poster submissions should include an extended abstract
 				no longer than 4 pages, including all figures and references, in the
-				<a href="http://sigchi.github.io/Document-Formats/">SIGCHI
-					Extended Abstract Format</a>. This extended abstract will be
+				<strong>SIGCHI
+					Extended Abstract Format</strong> (<a href="sigchi-word-extended-abstracts.zip">Word</a>, <a href="sigchi-latex-extended-abstracts.tar.gz">Latex</a>). This extended abstract will be
 				published in the ACM Digital Library as part of the Conference
 				Extended Abstracts. In addition, submissions should also include a
 				separate Tabloid sized draft of the poster for review purposes. A
