@@ -16,7 +16,7 @@ include_once ('../_inc/header.php');
 			</div>
 		</aside>
 		<article class="ten columns" role="main">
-			<h1>CSCW Sponsors</h1>
+			<h1>Sponsors</h1>
 			<p>
 				Several levels of sponsorship are available. For details, please
 				check the page about <a href="become-a-sponsor.php">becoming a
