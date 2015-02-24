@@ -31,3 +31,11 @@ Basic process is something like:
     directory trees and only copy new versions of files, such as 
     FileZilla.
     
+3.  Remember to push the updated release branch back to github, and switch back 
+    to master (or another branch) before continuing work; e.g.
+    
+    ```
+    git push
+    git checkout master 
+    ```
+    
