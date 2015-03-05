@@ -47,8 +47,8 @@ include_once ('../_inc/header.php');
 				How do I sign up as a Student Reviewer?<br /> (Deadline May 8, 2015)
 			</h2>
 			<p><strong>Already have a mentor?</strong> Make an agreement with a senior reviewer
-				(could be your supervisor or other local people in your department),
-				and then send an email to <a href="mailto:studentreviewmentor<?php echo $year;?>@cscw.acm.org">studentreviewmentor<?php echo $year;?>@cscw.acm.org</a> with
+				(could be your supervisor or other local people in your department), 
+				and then send an email to <a href="mailto:cscw<?php echo $year;?>reviewingmentor@acm.org">cscw<?php echo $year;?>reviewingmentor@acm.org</a> with
 				the following information:</p>
 			<ul>
 				<li>Basic information: Student review mentee name, affiliation,
@@ -58,7 +58,7 @@ include_once ('../_inc/header.php');
 			</ul>
 			<p><strong>Do not have a mentor?</strong> If you do not have a formal agreement with a
 				senior reviewer, you can sign-up for one by emailing the following
-				information to <a href="mailto:studentreviewmentor<?php echo $year;?>@cscw.acm.org">studentreviewmentor<?php echo $year;?>@cscw.acm.org</a>:</p>
+				information to <a href="mailto:cscw<?php echo $year;?>reviewingmentor@acm.org">cscw<?php echo $year;?>reviewingmentor@acm.org</a>:</p>
 			<ul>
 				<li>Basic information: Student review mentee name, affiliation,
 					email, 5 topic keywords – a short bio (5 sentences), including why
@@ -70,7 +70,7 @@ include_once ('../_inc/header.php');
 			</h2>
 			<p>For this to be a success we really need mentors! To sign-up as
 				volunteer to be a review mentor, please email
-				<a href="mailto:studentreviewmentor<?php echo $year;?>@cscw.acm.org">studentreviewmentor<?php echo $year;?>@cscw.acm.org</a> the following:</p>
+				<a href="mailto:cscw<?php echo $year;?>reviewingmentor@acm.org">cscw<?php echo $year;?>reviewingmentor@acm.org</a> the following:</p>
 			<ul>
 				<li>Name, affiliation, email, how many students you volunteer to
 					mentor (probably no more than five) and up to 5 areas of expertise
@@ -98,12 +98,12 @@ include_once ('../_inc/header.php');
 				authors to write better papers by seeing the review process and the
 				related discussions from the “other side."</p>
 			<p>Questions can be directed to John Thomas, Chair for the Student
-				Review Mentoring at <a href="mailto:studentreviewmentor<?php echo $year;?>@cscw.acm.org">studentreviewmentor<?php echo $year;?>@cscw.acm.org</a></p>
+				Review Mentoring at <a href="mailto:cscw<?php echo $year;?>reviewingmentor@acm.org">cscw<?php echo $year;?>reviewingmentor@acm.org</a></p>
 
 			<h2>Student Review Mentoring Chair</h2>
 			<p>
 				John Thomas, !Problem Solving International<br />
-				<a href="mailto:studentreviewmentor<?php echo $year;?>@cscw.acm.org">studentreviewmentor<?php echo $year;?>@cscw.acm.org</a>
+				<a href="mailto:cscw<?php echo $year;?>reviewingmentor@acm.org">cscw<?php echo $year;?>reviewingmentor@acm.org</a>
 			</p>
 
 
