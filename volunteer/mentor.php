@@ -19,9 +19,7 @@ include_once ('../_inc/header.php');
 		<article class="ten columns" role="main">
 
 			<H1>Reviewer Mentor Program</H1>
-			<p>More information coming soon.
-			</p>
-			<!--
+			
 			<p>The CSCW Reviewer Mentor Program is intended to create an
 				opportunity for students to participate in the CSCW review process
 				while getting guidance from senior reviewers. The idea is that a
@@ -80,7 +78,7 @@ include_once ('../_inc/header.php');
 				<strong>Have a mentor?</strong> Make an agreement with a senior
 				reviewer (could be your supervisor or other local people in your
 				department), and then send an email to <a
-					href="mailto:studentreviewmentor<?php echo $year; ?>@cscw.acm.org">studentreviewmentor<?php echo $year; ?>@cscw.acm.org</a>
+					href="mailto:cscw<?php echo $year; ?>reviewingmentor@acm.org">cscw<?php echo $year; ?>reviewingmentor@acm.org</a>
 				with the following information:
 			</p>
 			<ul>
@@ -94,7 +92,7 @@ include_once ('../_inc/header.php');
 				<strong>Do not have a mentor?</strong> If you do not have a formal
 				agreement with a senior reviewer, you can sign-up for one by
 				emailing the following information to <a
-					href="mailto:studentreviewmentor<?php echo $year; ?>@cscw.acm.org">studentreviewmentor<?php echo $year; ?>@cscw.acm.org</a>:
+					href="mailto:cscw<?php echo $year; ?>reviewingmentor@acm.org">cscw<?php echo $year; ?>reviewingmentor@acm.org</a>:
 			</p>
 			<ul>
 				<li>Basic information: Student review mentee name, affiliation,
@@ -110,7 +108,7 @@ include_once ('../_inc/header.php');
 			<p>
 				For this to be a success we really need mentors! To sign-up as
 				volunteer to be a review mentor, please email <a
-					href="mailto:studentreviewmentor<?php echo $year; ?>@cscw.acm.org">studentreviewmentor<?php echo $year; ?>@cscw.acm.org</a>
+					href="mailto:cscw<?php echo $year; ?>reviewingmentor@acm.org">cscw<?php echo $year; ?>reviewingmentor@acm.org</a>
 				the following:
 			</p>
 			<ul>
@@ -141,15 +139,15 @@ include_once ('../_inc/header.php');
 			<p>
 				Questions can be directed to Pernille Bjorn, Chair for the Student
 				Review Mentoring pilot at <a
-					href="mailto:studentreviewmentor<?php echo $year; ?>@cscw.acm.org">studentreviewmentor<?php echo $year; ?>@cscw.acm.org</a>
+					href="mailto:cscw<?php echo $year; ?>reviewingmentor@acm.org">cscw<?php echo $year; ?>reviewingmentor@acm.org</a>
 			</p>
 			<br />
 
 			<h3>Student Review Mentoring Chair</h3>
 			<p>
 				Pernille Bjorn, IT University of Copenhagen<br /> <a
-					href="mailto:studentreviewmentor<?php echo $year; ?>@cscw.acm.org">studentreviewmentor<?php echo $year; ?>@cscw.acm.org</a>
-			</p> -->
+					href="mailto:cscw<?php echo $year; ?>reviewingmentor@acm.org">cscw<?php echo $year; ?>reviewingmentor@acm.org</a>
+			</p> 
 
 		</article>
 	</div>
