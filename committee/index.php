@@ -106,9 +106,7 @@
 				<p>Joy Kim, Stanford University
 				</p>
 
-				<h2 class="h3">PC Meeting Local Arrangements Chair</h2>
-				<p>Irina Shklovski, IT University of Copenhagen
-				</p>
+				
 				
 
 			</article>

@@ -367,6 +367,10 @@ include_once ('../_inc/header.php');
 				<a href="http://authors.acm.org" target="_blank">http://authors.acm.org</a>
 				for more details.
 			</p>
+			<h2>PC Meeting Local Arrangements Chair</h2>
+			<p>
+				Irina Shklovski, IT University of Copenhagen
+			</p>
 			<h2>Program Committee Members</h2>
 			<p>
 				Mark Ackerman, Michigan University<br />
@@ -453,7 +457,7 @@ include_once ('../_inc/header.php');
 				Volker Wulf, University of Siegen<br />
 				Svetlana Yarosh, University of Minnesota<br />
 				Xiaomu Zhou, Rutgers University<br />
-					
+
 			</p>
 
 		</article>

@@ -32,7 +32,7 @@ include_once ('../_inc/header.php');
 				discuss the reviewing process with the mentor and therefore become a
 				better reviewer. Third, the students will become expert reviewers
 				for future CSCW conferences!</p>
-
+				<!--
 			<h6 class="update">Update! (June 5, 2014)</h6>
 			<h3>CSCW <?php echo $year; ?> Reviewing Mentor Program Participants</h3>
 			<p>
@@ -50,6 +50,7 @@ include_once ('../_inc/header.php');
 				excellent supervision in doing so. Thus, you can choose to assign
 				the reviewer to your paper.
 			</p>
+			-->
 			<h3>Instructions, Tricks and Trade in making CSCW reviews</h3>
 			<p>
 				<a href="InstructionsCSCWStudentMentorProgram.pdf" target="_blank">This
@@ -70,8 +71,8 @@ include_once ('../_inc/header.php');
 				if applicable it will be included in the instructions.</p>
 
 			<h3>
-				How do I sign up as a Student Reviewer? <br />(Deadline June 1,
-				2014)
+				How do I sign up as a Student Reviewer? <br />(Deadline May 8,
+				2015)
 			</h3>
 
 			<p>
