@@ -367,8 +367,99 @@ include_once ('../_inc/header.php');
 				<a href="http://authors.acm.org" target="_blank">http://authors.acm.org</a>
 				for more details.
 			</p>
+			<h2>PC Meeting Local Arrangements Chair</h2>
+			<p>
+				Irina Shklovski, IT University of Copenhagen
+			</p>
 			<h2>Program Committee Members</h2>
-			<p>Coming soon.</p>
+			<p>
+				Mark Ackerman, Michigan University<br />
+				Morgan Ames, University of California, Irvine<br />
+				Tariq Andersen, University of Copenhagen<br />
+				Daniel Avrahami, FXPAL<br />
+				Gabriela Avram, University of Limerick<br />
+				Brian Bailey, University of Illinois<br />
+				Mary Beth Rosson, The Pennsylvania State University<br />
+				Jacob Biehl, FX Palo Alto Lab<br />
+				Matt Bietz, University of California, Irvine<br />
+				Pernille Bjørn (chair), IT University in Copenhagen<br />
+				Jeanette Blomberg, IBM<br />
+				Alexander Boden, Fraunhofer Institute for Applied Information Technology FIT<br />
+				Susanne Bødker, Århus University<br />
+				Moira Burke, Facebook<br />
+				John (Jack) Carroll, The Pennsylvania State University<br />
+				Yunan Chen, University of California Irvine<br />
+				Coye Cheshire, University of California, Berkeley<br />
+				Lars Rune Christensen, IT University of Copenhagen<br />
+				Luigina Ciolfi, Sheffield Hallam University<br />
+				Marisa Cohn, IT University of Copenhagen<br />
+				Dan Cosley, Cornell University<br />
+				Andy Crabtree, University of Nottingham<br />
+				Ed Cutrell, Microsoft Research India<br />
+				Antonella De Angeli, University of Trento<br />
+				Cleidson de Souza, Vale Institute of Technology & Federal University of Pará<br />
+				Ingrid Erickson, Rutgers University<br />
+				Rosta Farzan, University of Pittsburgh<br />
+				Morten Fjeld, Chalmers University of Technology<br />
+				Benjamim Fonseca, UTAD / INESC TEC<br />
+				Krzystof Gajos, Harvard University<br />
+				Marco Aurelio Gerosa, University of Sao Paulo<br />
+				Eric Gilbert, Georgia Tech<br />
+				Sean Goggins, University of Missouri<br />
+				Antonietta Grasso, Xerox Research Centre Europe<br />
+				Carl Gutwin, University of Saskatchewan<br />
+				Ido Guy, Yahoo! Labs<br />
+				Aaron Halfaker, Wikimedia Foundation<br />
+				Mark Handel, The Boeing Company<br />
+				Richard Harper, Microsoft, UK & (Mobile LIfe Centre)<br />
+				Brent Hecht, University of Minnesota<br />
+				Thomas Herrmann, Ruhr-Universitat Bochum<br />
+				Naja Holten-Moller, Computer Science, University of Copenhagen<br />
+				Marleen Huysman, University Amsterdam<br />
+				Claudia-Lavinia Ignat, INRIA<br />
+				Josh Introne, Michigan State University<br />
+				Wendy Ju, Stanford / CCA<br />
+				Joseph Konstan (chair), University of Minnesota<br />
+				Myriam Lewkowicz, Troyes University of Technology<br />
+				Kurt Luther, Carnegie Mellon University<br />
+				Wayne Lutters, University of Maryland<br />
+				Jennifer Marlow, FX Palo Alto labs<br />
+				Afra Mashadi, Bell Labs, Ireland<br />
+				Michael Massimi, Microsoft<br />
+				Giorgio De Michelis, University of Milano Bicocca<br />
+				Michael Muller, IBM<br />
+				Mirco Musolesi, University of Birmingham<br />
+				Mor Naaman, Cornell University, Tech Campus<br />
+				Jacki O'Neill, Microsoft Research India<br />
+				Carsten Østerlund, Syracuse University<br />
+				Andrea Parker, Northeastern University<br />
+				Sameer Patil, Helsinki Institute for Information Technology<br />
+				Raquel Oliveira Prates, Universidade Federal de Minas Gerais, Instituto de Ciências Exatas, Departamento de Ciência da Computação<br />
+				Michael Prilla, Ruhr University of Bochum<br />
+				Wolfgang Prinz, Fraunhofer Institute for Applied Information Technology<br />
+				Daniele Quercia, Yahoo! Labs<br />
+				Kori Inkpen Quinn, Microsoft<br />
+				Dave Randall, University of Siegen<br />
+				Scott Robertson, University of Hawaii<br />
+				Daniela K. Rosner, Uni of Washington<br />
+				Aleksandra Sarcevic, Drexel University<br />
+				Kjeld Schmidt, Copenhagen Business School<br />
+				Lauren Scissors, Facebook<br />
+				Bryan Semaan, University of Hawaii<br />
+				Sadat Shami, IBM<br />
+				Irina Shklovski, IT University of Copenhagen<br />
+				Carla Simone, University di Milano-Bicocca<br />
+				John Tang, Microsoft Research<br />
+				Deborah Tatar, Virginia Tech<br />
+				Yla Tausczik, Carnegie Mellon University<br />
+				Hilda Tellioglu, Vienna University of Technology<br />
+				Gina Venolia, Microsoft Research<br />
+				Volker Wulf, University of Siegen<br />
+				Svetlana Yarosh, University of Minnesota<br />
+				Xiaomu Zhou, Rutgers University<br />
+
+			</p>
+
 		</article>
 
 	</div>

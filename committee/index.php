@@ -98,16 +98,15 @@
 				</p>
 
 				<h2 class="h3">Telepresence Chair</h2>
-				<p>John Tang, Microsoft Research
+				<p>John Tang, Microsoft Research<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>telepresence@acm.org">cscw<?php echo $year; ?>telepresence@acm.org</a>
 				</p>
 
 				<h2 class="h3">Student Assistant to the General Chairs</h2>
 				<p>Joy Kim, Stanford University
 				</p>
 
-				<h2 class="h3">PC Meeting Local Arrangements Chair</h2>
-				<p>Irina Shklovski, IT University of Copenhagen
-				</p>
+				
 				
 
 			</article>
