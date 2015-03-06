@@ -33,7 +33,8 @@ include_once ('../_inc/header.php');
 				reviewers for future CSCW conferences!</p>
 
 			<h2>Instructions, Tricks and Trade in making CSCW reviews</h2>
-			<p><a href="InstructionsCSCWStudentMentorProgram.pdf">This document</a> contains tricks of the trade in making CSCW reviews,
+<!-- 			<p><a href="InstructionsCSCWStudentMentorProgram.pdf">This document</a> contains tricks of the trade in making CSCW reviews, -->
+ 			<p>This document contains tricks of the trade in making CSCW reviews,
 				including overall structure, possible relevant links, and so on. The
 				document is created with the aim of assisting and supporting new
 				CSCW reviewers to the field but can also be used by others.</p>
