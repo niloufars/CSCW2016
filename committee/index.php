@@ -68,7 +68,7 @@
 				
 
 				<h2 class="h3">Publicity Co-Chairs</h2>
-				<p>Brian Keegan, Northeastern University<br />
+				<p>Brian Keegan, Harvard Business School<br />
 				Jessica Vitak, University of Maryland<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>publicity@acm.org">cscw<?php echo $year; ?>publicity@acm.org</a>
 				</p>
