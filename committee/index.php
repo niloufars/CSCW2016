@@ -79,12 +79,17 @@
 				<a class="email" href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a>
 				</p>
 				
-				<h2 class="h3">Local Arrangements and Accessibility Co-Chairs</h2>
+				<h2 class="h3">Local Arrangements Co-Chairs</h2>
 				<p>Judd Antin, Facebook<br />
 				Sharoda Paul, GE Global Research<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>local@acm.org">cscw<?php echo $year; ?>local@acm.org</a>
 				</p>
 				
+				<h2 class="h3">Accessibility Chairs</h2>
+				<p>Joshua Hailpern, HP Labs<br />
+				<a class="email" href="mailto:cscw<?php echo $year; ?>accessibility@acm.org">cscw<?php echo $year; ?>accessibility@acm.org</a>
+				</p>
+
 				<h2 class="h3">Graphic Design &amp; Webmastering</h2>
 				<p>Matthew Kay, University of Washington<br />
 				Niloufar Salehi, Stanford University<br />
