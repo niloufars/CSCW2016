@@ -53,7 +53,7 @@ include_once('../_inc/header.php');
 				</p>
 
 				<p>Please find information here about <a href="reg.php" class="text">registering</a> for CSCW <?php echo $year; ?>, booking your stay at the conference <a href="hotel.php" class="text">hotel</a>, and obtaining a <a href="visas.php" class="text">visa</a>. You can also find information here about <?php echo $city; ?> <a href="travel.php" class="text">travel, transportation, and accessibility</a> as well as details about local <a href="local.php">tourist attractions</a>.</p>    
-				<h3>Local Arrangements and Accessibility Co-Chairs</h3>
+				<h3>Local Arrangements Co-Chairs</h3>
 				<p>Judd Antin, Facebook<br />
 					Sharoda Paul, GE Global Research<br />
 					<a class="email" href="mailto:cscw<?php echo $year; ?>local@acm.org">cscw<?php echo $year; ?>local@acm.org</a></p>
