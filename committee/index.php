@@ -102,8 +102,9 @@
 				<a class="email" href="mailto:cscw<?php echo $year; ?>sv@acm.org">cscw<?php echo $year; ?>sv@acm.org</a>
 				</p>
 
-				<h2 class="h3">Telepresence Chair</h2>
+				<h2 class="h3">Telepresence Co-Chairs</h2>
 				<p>John Tang, Microsoft Research<br />
+				Carman Neustaedter, Simon Fraser University<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>telepresence@acm.org">cscw<?php echo $year; ?>telepresence@acm.org</a>
 				</p>
 
