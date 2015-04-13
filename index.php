@@ -11,6 +11,9 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>April 8, 2015:</strong> PCS is open for submissions! <a href="submit/index.php">Papers may be submitted</a> between now and May 22, 2015 (11:59 pm PDT).<br /><br />
+					</p>
+					<p>
 						<strong>Feb 16, 2015:</strong> CSCW 2016 Website launched!
 					</p>
 				</div>
