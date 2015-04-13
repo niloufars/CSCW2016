@@ -40,7 +40,7 @@ include_once ('../_inc/header.php');
 					<tbody>
 						<tr>
 							<td><a href="papers.php" class="text">Papers</a></td>
-							<td><em>Initial:</em> Fri May 22, 2015, 5:00pm&nbsp;PDT <br />
+							<td><em>Initial:</em> Fri May 22, 2015, 11:59pm&nbsp;PDT <br />
 								<em>Revised Submissions:</em> Wed Jul 29, 2015, 5:00pm&nbsp;PDT
 							</td>
 							<td><em>Initial:</em> Fri Jul 3, 2015<br />

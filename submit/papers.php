@@ -25,8 +25,7 @@ include_once ('../_inc/header.php');
 			<h3>Important Dates</h3>
 
 			<ul>
-				<li><strong>Friday May 22, 2015</strong>: Submissions DUE, 16:59 PDT
-					(23:59 UTC)</li>
+				<li><strong>Friday May 22, 2015</strong>: Submissions DUE, 11:59 pm PDT</li>
 				<li><strong>Friday July 3, 2015</strong>: Review Round 1 Results
 					Announced</li>
 				<li><strong>Wednesday July 29, 2015</strong>: Revised Submissions
@@ -121,9 +120,8 @@ include_once ('../_inc/header.php');
 			<p>
 				Papers must be submitted via the <a
 					href="https://precisionconference.com/~sigchi/" target="_blank">Precision
-					Conference System (PCS)</a> by 16:59 Pacific Daylight Time (PDT) /
-				23:59 UTC on May 22nd 2015. The site will open for submissions
-				beginning Monday April 20th. Papers in the "Revise &amp; Resubmit"
+					Conference System (PCS)</a> by 11:59 pm Pacific Daylight Time (PDT) on May 22nd 2015. The site is open for submissions
+				beginning April 8th. Papers in the "Revise &amp; Resubmit"
 				category must be re-submitted via the PCS system by 16:59 PDT on
 				July 29th 2015
 			</p>
@@ -369,7 +367,7 @@ include_once ('../_inc/header.php');
 			</p>
 			<h2>PC Meeting Local Arrangements Chair</h2>
 			<p>
-				Irina Shklovski, IT University of Copenhagen
+				Irina Shklovski, IT University of Copenhagen, Denmark
 			</p>
 			<h2>Program Committee Members</h2>
 			<p>
@@ -419,8 +417,10 @@ include_once ('../_inc/header.php');
 				Claudia-Lavinia Ignat, INRIA<br />
 				Josh Introne, Michigan State University<br />
 				Wendy Ju, Stanford / CCA<br />
+				Wendy A. Kellogg, IBM Research (Emeritus)<br />
 				Joseph Konstan (chair), University of Minnesota<br />
 				Myriam Lewkowicz, Troyes University of Technology<br />
+				Silvia Lindtner, University of Michigan<br />
 				Kurt Luther, Carnegie Mellon University<br />
 				Wayne Lutters, University of Maryland<br />
 				Jennifer Marlow, FX Palo Alto labs<br />
@@ -431,7 +431,6 @@ include_once ('../_inc/header.php');
 				Mirco Musolesi, University of Birmingham<br />
 				Mor Naaman, Cornell University, Tech Campus<br />
 				Jacki O'Neill, Microsoft Research India<br />
-				Carsten Østerlund, Syracuse University<br />
 				Andrea Parker, Northeastern University<br />
 				Sameer Patil, Helsinki Institute for Information Technology<br />
 				Raquel Oliveira Prates, Universidade Federal de Minas Gerais, Instituto de Ciências Exatas, Departamento de Ciência da Computação<br />
@@ -447,7 +446,6 @@ include_once ('../_inc/header.php');
 				Lauren Scissors, Facebook<br />
 				Bryan Semaan, University of Hawaii<br />
 				Sadat Shami, IBM<br />
-				Irina Shklovski, IT University of Copenhagen<br />
 				Carla Simone, University di Milano-Bicocca<br />
 				John Tang, Microsoft Research<br />
 				Deborah Tatar, Virginia Tech<br />
@@ -457,7 +455,7 @@ include_once ('../_inc/header.php');
 				Volker Wulf, University of Siegen<br />
 				Svetlana Yarosh, University of Minnesota<br />
 				Xiaomu Zhou, Rutgers University<br />
-
+				Carsten Østerlund, Syracuse University<br />
 			</p>
 
 		</article>
