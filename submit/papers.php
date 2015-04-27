@@ -421,7 +421,7 @@ include_once ('../_inc/header.php');
 				Joseph Konstan (chair), University of Minnesota<br />
 				Myriam Lewkowicz, Troyes University of Technology<br />
 				Silvia Lindtner, University of Michigan<br />
-				Kurt Luther, Carnegie Mellon University<br />
+				Kurt Luther, Virginia Tech<br />
 				Wayne Lutters, University of Maryland<br />
 				Jennifer Marlow, FX Palo Alto labs<br />
 				Afra Mashadi, Bell Labs, Ireland<br />
