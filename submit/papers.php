@@ -369,7 +369,7 @@ include_once ('../_inc/header.php');
 			<p>
 				Irina Shklovski, IT University of Copenhagen, Denmark
 			</p>
-			<h2>Program Committee Members</h2>
+			<h2 id="program_committee">Program Committee Members</h2>
 			<p>
 				Mark Ackerman, Michigan University<br />
 				Morgan Ames, University of California, Irvine<br />
@@ -378,7 +378,7 @@ include_once ('../_inc/header.php');
 				Gabriela Avram, University of Limerick<br />
 				Brian Bailey, University of Illinois<br />
 				Mary Beth Rosson, The Pennsylvania State University<br />
-				Jacob Biehl, FX Palo Alto Lab<br />
+				Jacob Biehl, FXPAL<br />
 				Matt Bietz, University of California, Irvine<br />
 				Pernille Bjørn (chair), IT University in Copenhagen<br />
 				Jeanette Blomberg, IBM<br />
@@ -393,14 +393,14 @@ include_once ('../_inc/header.php');
 				Marisa Cohn, IT University of Copenhagen<br />
 				Dan Cosley, Cornell University<br />
 				Andy Crabtree, University of Nottingham<br />
-				Ed Cutrell, Microsoft Research India<br />
+				Edward Cutrell, Microsoft Research India<br />
 				Antonella De Angeli, University of Trento<br />
 				Cleidson de Souza, Vale Institute of Technology & Federal University of Pará<br />
 				Ingrid Erickson, Rutgers University<br />
 				Rosta Farzan, University of Pittsburgh<br />
 				Morten Fjeld, Chalmers University of Technology<br />
 				Benjamim Fonseca, UTAD / INESC TEC<br />
-				Krzystof Gajos, Harvard University<br />
+				Krzysztof Gajos, Harvard University<br />
 				Marco Aurelio Gerosa, University of Sao Paulo<br />
 				Eric Gilbert, Georgia Tech<br />
 				Sean Goggins, University of Missouri<br />
@@ -423,16 +423,16 @@ include_once ('../_inc/header.php');
 				Silvia Lindtner, University of Michigan<br />
 				Kurt Luther, Virginia Tech<br />
 				Wayne Lutters, University of Maryland<br />
-				Jennifer Marlow, FX Palo Alto labs<br />
+				Jennifer Marlow, FXPAL<br />
 				Afra Mashadi, Bell Labs, Ireland<br />
-				Michael Massimi, Microsoft<br />
+				Michael Massimi, Facebook<br />
 				Giorgio De Michelis, University of Milano Bicocca<br />
 				Michael Muller, IBM<br />
 				Mirco Musolesi, University of Birmingham<br />
 				Mor Naaman, Cornell University, Tech Campus<br />
 				Jacki O'Neill, Microsoft Research India<br />
 				Andrea Parker, Northeastern University<br />
-				Sameer Patil, Helsinki Institute for Information Technology<br />
+				Sameer Patil, New York University<br />
 				Raquel Oliveira Prates, Universidade Federal de Minas Gerais, Instituto de Ciências Exatas, Departamento de Ciência da Computação<br />
 				Michael Prilla, Ruhr University of Bochum<br />
 				Wolfgang Prinz, Fraunhofer Institute for Applied Information Technology<br />
@@ -440,7 +440,7 @@ include_once ('../_inc/header.php');
 				Kori Inkpen Quinn, Microsoft<br />
 				Dave Randall, University of Siegen<br />
 				Scott Robertson, University of Hawaii<br />
-				Daniela K. Rosner, Uni of Washington<br />
+				Daniela K. Rosner, University of Washington<br />
 				Aleksandra Sarcevic, Drexel University<br />
 				Kjeld Schmidt, Copenhagen Business School<br />
 				Lauren Scissors, Facebook<br />

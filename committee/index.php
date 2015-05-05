@@ -112,7 +112,7 @@
 				<p>Joy Kim, Stanford University
 				</p>
 
-				
+				<h2 class="h3"><a href="<?php echo $basePath; ?>/submit/papers.php#program_committee">Papers Committee</a></h2>
 				
 
 			</article>
