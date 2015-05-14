@@ -19,7 +19,7 @@
 				</p>
 				
 				<h2 class="h3">Papers Co-Chairs</h2>
-				<p>Pernille Bjørn, IT University of Copenhagen<br />
+				<p>Pernille Bjørn, University of Copenhagen<br />
 				Joseph Konstan, University of Minnesota<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>papers@acm.org">cscw<?php echo $year; ?>papers@acm.org</a>
 				</p>

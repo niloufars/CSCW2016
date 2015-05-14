@@ -107,8 +107,8 @@ include_once ('../_inc/header.php');
 			</p>
 			<h2>Papers Co-Chairs</h2>
 			<p>
-				Joe Konstan, University of Minnesota <br /> Pernille Bjørn, IT
-				University in Copenhagen <br /> <a
+				Joe Konstan, University of Minnesota <br /> Pernille Bjørn,
+				University of Copenhagen <br /> <a
 					href="mailto:cscw<?php echo $year; ?>papers@acm.org">cscw<?php echo $year; ?>papers@acm.org</a>
 			</p>
 
@@ -380,7 +380,7 @@ include_once ('../_inc/header.php');
 				Mary Beth Rosson, The Pennsylvania State University<br />
 				Jacob Biehl, FXPAL<br />
 				Matt Bietz, University of California, Irvine<br />
-				Pernille Bjørn (chair), IT University in Copenhagen<br />
+				Pernille Bjørn (chair), University of Copenhagen<br />
 				Jeanette Blomberg, IBM<br />
 				Alexander Boden, Fraunhofer Institute for Applied Information Technology FIT<br />
 				Susanne Bødker, Århus University<br />
