@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Become a Sponsor';
+$pageTitle = 'Sponsor Benefits';
 $section = 'sponsors';
 $basePath = '..';
 include_once ('../_inc/header.php');
@@ -11,60 +11,81 @@ include_once ('../_inc/header.php');
 				<h2>Sponsorship</h2>
 				<ul class="subnav" id="nav_sponsor">
 					<li><a href="index.php">Overview</a></li>
-					<li><a href="become-a-sponsor.php" class="active">Become a Sponsor</a></li>
+					<li><a href="become-a-sponsor.php" class="active">Sponsor Benefits</a></li>
 				</ul>
 			</div>
 		</aside>
 		<article class="ten columns" role="main">
-			<h1>Become a Sponsor</h1>
-			<p>The expense of holding the CSCW conference is paid from two
-				sources of income: registration fees paid by the attendees and
-				sponsorships from corporations, universities, and other
-				institutions. Sponsorships are very important to the financial
-				health of CSCW conferences, and the assistance provided by our
-				sponsors is greatly appreciated. Sponsors’ funds allow CSCW
-				conferences to hold down the cost of registration, especially for
-				students.</p>
-			<p>CSCW <?php echo $year; ?> will provide benefits to sponsors in 
-				exchange for their financial support. The principal benefit is 
-				public acknowledgment of sponsors in the opening and closing 
-				plenary sessions, on the conference website, in the proceedings 
-				and final program, and on tote bags. The conference will also 
-				acknowledge our more generous sponsors for their contribution to 
-				well attended social events including receptions, the conference 
-				banquet/party, coffee breaks, and student lunches. Their 
-				contribution to these events is noted in the conference program 
-				and on signs at the events.</p>
-			<p>Sponsors are given the opportunity to provide information (e.g., 
-				brochures) directly to CSCW attendees. Higher level sponsors are 
-				invited to present demonstrations of their relevant technology. 
-				CSCW <?php echo $year; ?> will also accommodate sponsors 
-				interested in recruiting conference attendees. Sponsors may also 
-				receive complimentary CSCW <?php echo $year; ?> registrations.</p>
-			<p>Sponsors contribute to the CSCW conference community in myriad
-				ways, including funding. We recognize the valuable contributions of
-				our sponsors, and some CSCW participants in one year become
-				sponsoring firm researchers the next. We are ready to discuss how
-				you would like to contribute or benefit from the conference.</p>
-			<p>CSCW <?php echo $year; ?> offers four levels of sponsorship: 
-				Champion, Benefactor, Contributor, and Friend. All champion-level 
-				sponsors will be recognized with signs at the conference banquet.</p>
+
+			<h1>Sponsor Benefits</h1>
+
+			<p>Please contact the Sponsorship co-chairs at
+				<a href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a> about becoming a sponsor of CSCW 2016.</p>
+
+			<p>CSCW 2016 offers four levels of sponsorship: Friend, Contributor,
+				Benefactor, and Champion. The standard benefits for each level are
+				listed below. While these serve as a guideline, we understand that
+				sponsors have different goals for their conference experience and
+				consequently benefits can be tailored to meet the needs of sponsors.</p>
+
+			<h2 id="friends">Friends (contribution of less than $5,000)</h2>
 			<ul>
-				<li>Champions ($15,000 or greater contribution)</li>
-				<li>Benefactors ($10,000 or greater contribution)</li>
-				<li>Contributors ($5,000 or greater contribution)</li>
-				<li>Friends (contribution of less than $5,000)</li>
+				<li>You will be acknowledged as a Friend during the opening and
+					closing plenary sessions of the conference.</li>
+				<li>Your logo will appear on the CSCW 2016 conference tote bag and
+					the conference sponsors web page, with a link to your home page, if
+					desired.</li>
+				<li>Your conference name or logo will be listed in the conference
+					proceedings and the conference program as a Friend.</li>
 			</ul>
-			<p>Benefits of sponsorship levels can be tailored to meet the needs of
-				sponsors. Please contact the Sponsorship co-chairs at <a
-					href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a>
-				about becoming a sponsor for CSCW <?php echo $year; ?>.</p>
-			<h2>Sponsorship Co-Chairs</h2>
-			<p>
-				Wendy Ju, Stanford University<br /> 
-				Steve Poltrock, Boeing (retired)<br /> 
-				<a href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a>
-			</p>
+
+			<h2 id="contributors">Contributors ($5,000 or greater contribution)</h2>
+			<p>Contributors receive the same benefits offered to Friends, plus:</p>
+			<ul>
+				<li>You will be acknowledged as a Contributor during the opening and
+					closing plenary sessions of the conference.</li>
+				<li>Your conference name or logo will be listed in the conference
+					proceedings and the conference program as a Contributor.</li>
+				<li>You will receive one complimentary conference registration.</li>
+			</ul>
+
+			<h2 id="benefactors">Benefactors ($10,000 or greater contribution)</h2>
+			<p>Benefactors receive the same benefits offered to Contributors,
+				plus:</p>
+			<ul>
+				<li>You will be acknowledged as a Benefactor during the opening and
+					closing plenary sessions of the conference.</li>
+				<li>Your conference name or logo will be listed in the conference
+					proceedings and the conference program as a Benefactor.</li>
+				<li>You may provide promotional material that will be given to all
+					conference attendees.</li>
+				<li>You will be invited to participate in the Conference
+					Demonstration event, and space will be set aside for you to set up
+					a booth showcasing your company's products, services, or innovative
+					research.</li>
+				<li>You will be invited to be recognized as the exclusive sponsor of
+					a conference social event. The events available for Benefactors
+					are: the welcome reception, the Demo/Poster reception, Student
+					Volunteer lunches, Student Volunteer reception, the Doctoral
+					Colloquium dinner, and coffee breaks.</li>
+				<li>You will receive two complimentary conference registrations.</li>
+			</ul>
+
+			<h2 id="champions">Champions ($15,000 or greater contribution)</h2>
+			<p>Champion sponsors receive the same benefits offered to
+				Benefactors, plus:</p>
+			<ul>
+				<li>You will be acknowledged as a Champion during the opening and
+					closing plenary sessions of the conference.</li>
+				<li>Your conference name or logo will be listed in the conference
+					proceedings and the conference program as a Champions</li>
+				<li>In addition to being recognized as the exclusive sponsors of a
+					conference social event, all Champions will be recognized as
+					sponsors of the conference banquet. Champions may also sponsor
+					events at the banquet site.</li>
+				<li>You will receive three complimentary conference registrations.</li>
+			</ul>
+
 		</article>
 	</div>
 </div>

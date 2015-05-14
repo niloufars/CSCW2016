@@ -84,7 +84,7 @@ include_once ('_inc/header.php');
 			<p>
 				If you work for a company or other institution with a strong
 				interest in CSCW, please consider encouraging your employer to 
-				<a href="sponsors/become-a-sponsor.php">become a sponsor</a>. The
+				<a href="sponsors/">become a sponsor</a>. The
 				conference will gratefully acknowledge your employer’s contribution,
 				and it will help prevent increases in registration fees.
 			</p>
