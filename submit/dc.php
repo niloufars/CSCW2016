@@ -24,7 +24,7 @@
 			<h1>Doctoral Colloquium</h1>
 <h2>Important Dates</h2>
 			<ul>
-				<li><strong>Fiday, November 6, 2015, 5:00pm PDT</strong>: Submissions due</li>
+				<li><strong>Fiday, November 6, 2015, 11:59pm&nbsp;PDT</strong>: Submissions due</li>
 				<li><strong>Tuesday, December 15, 2015</strong>: Notification of acceptance</li>
 				<li><strong>Saturday, February 27, 2016</strong>: Colloquium Dinner</li>
 				<li><strong>Sunday, February 28, 2016</strong>: Doctoral Colloquium</li>
@@ -55,7 +55,7 @@
 					<li>An email letter from your supervisor sent to cscw<?php echo $year; ?>doctoral@acm.org indicating that they support your application to the colloquium and that they agree that your research is at an appropriate stage for participation. These letters should also make reference to how you might benefit from the Doctoral Colloquium and how they expect that you might benefit the other students in this group experience. The email should have "CSCW Doctoral Colloquium: " + YOUR NAME in the subject header.</li>
 				</ul>
 			</p>
-			<p>All submissions must be received by the chairs by 5:00pm (17:00) Pacific Time on November  6, 2015. Submissions received after this date will not be considered. All submissions will be acknowledged by email.
+			<p>All submissions must be received by the chairs by 11:59pm&nbsp;PDT on November  6, 2015. Submissions received after this date will not be considered. All submissions will be acknowledged by email.
 			</p>
 			
 			<h2>Funding</h2>

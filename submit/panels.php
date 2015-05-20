@@ -56,7 +56,7 @@
 		  		</ul>
 		  	</p>
 		  	<p>Panel submissions should be e-mailed to the Panels Co-Chairs at <a href="mailto:cscw<?php echo $year; ?>panels@acm.org">cscw<?php echo $year; ?>panels@acm.org.</a></p>
-		  	<p>All panel submissions are due by 5:00pm (17:00) Pacific Daylight Time on November 6, 2015.
+		  	<p>All panel submissions are due by 11:59pm&nbsp;PDT on November 6, 2015.
 		  	</p>
 		  	
 		  	<h2>Accepted Proposals</h2>

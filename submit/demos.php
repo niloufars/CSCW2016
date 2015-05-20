@@ -24,7 +24,7 @@
  			<h1>Demos</h1>
  			<h2>Important Dates</h2>
  			<ul>
- 				<li><strong>Friday, November 6, 2015, 5:00pm PDT</strong>: Submissions due</li>
+ 				<li><strong>Friday, November 6, 2015, 11:59pm&nbsp;PDT</strong>: Submissions due</li>
  				<li><strong>Tuesday, December 15, 2015</strong>: Notification of acceptance</li>
  			</ul>
 

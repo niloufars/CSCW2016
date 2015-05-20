@@ -24,7 +24,7 @@ include_once ('../_inc/header.php');
 			<h1>Workshops</h1>
 			<h2>Important Dates for Workshop Organizers</h2>
 			<ul>
-				<li><strong>October 16, 2015 5:00 p.m. PDT:</strong> Workshop
+				<li><strong>October 16, 2015 11:59pm&nbsp;PDT:</strong> Workshop
 					proposal deadline</li>
 				<li><strong>October 30, 2015:</strong> Notification of acceptance</li>
 				<li><strong>November 6, 2015:</strong> 150 word Web abstract and
@@ -83,7 +83,7 @@ include_once ('../_inc/header.php');
 			<p>
 				Workshop proposals should be e-mailed to the Workshop Co-Chairs at <a
 					href="mailto:cscw<?php echo $year; ?>workshops@acm.org">cscw<?php echo $year; ?>workshops@acm.org</a>
-				by 5:00 p.m. PDT on Friday October 16, 2015. Submissions will be
+				by 11:59pm&nbsp;PDT on Friday October 16, 2015. Submissions will be
 				acknowledged via email.
 			</p>
 			<p>Accepted workshops will need to provide a short description of the

@@ -26,7 +26,7 @@ include_once ('../_inc/header.php');
 			<h2>Important Dates</h2>
 
 			<ul>
-				<li><strong>November 6, 5:00pm PDT, 2015:</strong> Submission due</li>
+				<li><strong>November 6, 11:59pm&nbsp;PDT, 2015:</strong> Submission due</li>
 				<li><strong>December 15:</strong> Final notifications</li>
 				<li><strong>Evening of February 29, 2016:</strong> Posters reception
 					at CSCW</li>
@@ -68,7 +68,7 @@ include_once ('../_inc/header.php');
 			<p>
 				Interactive poster abstract submissions (extended abstract and
 				poster draft) must be uploaded online at the PCS submission system
-				by 5:00pm (17:00) PDT on November 6, 2015 to be considered. All
+				by 11:59pm&nbsp;PDT on November 6, 2015 to be considered. All
 				attachments must be less than 5MB. Any questions regarding this
 				process or from complications due to large files can be directed to
 				<a href="mailto:cscw<?php echo $year; ?>posters@acm.org">cscw<?php echo $year; ?>posters@acm.org</a>.
