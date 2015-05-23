@@ -86,7 +86,7 @@
 				</p>
 				
 				<h2 class="h3">Accessibility Chair</h2>
-				<p>Joshua Hailpern, HP Labs<br />
+				<p>Joshua Hailpern, HP ArcSight<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>accessibility@acm.org">cscw<?php echo $year; ?>accessibility@acm.org</a>
 				</p>
 
