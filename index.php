@@ -11,7 +11,16 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
-						<strong>April 8, 2015:</strong> PCS is open for submissions! <a href="submit/index.php">Papers may be submitted</a> between now and May 22, 2015 (11:59 pm PDT).<br /><br />
+						<strong>June 4, 2015:</strong> ACM members should <a href="http://plone4.sigchi.org/communities/cscw">register
+						for the CSCW Community</a> (it’s free and allows you
+						to vote for community leaders and get key announcements). Also,
+						the <a href="https://stanforduniversity.qualtrics.com/jfe/form/SV_bDv685h34oscLMp">CSCW
+						Community Survey</a> is available through June 12.
+					</p>
+					<p>
+						<strong>April 8, 2015:</strong> PCS is open for submissions! <a
+							href="submit/index.php">Papers may be submitted</a> between now
+						and May 22, 2015 (11:59 pm PDT).
 					</p>
 					<p>
 						<strong>Feb 16, 2015:</strong> CSCW 2016 Website launched!
@@ -73,7 +82,6 @@ include_once ('_inc/header.php');
 					href="http://www.sigchi.org/communities/cscw" target="_blank">join</a>
 				the CSCW Community!
 			</p>
-			<p><strong>Are you looking for the CSCW 2015 homepage? You can find it <a href="http://cscw.acm.org/2015">here</a>!</strong></p>
 			<h2>Conference Co-chairs</h2>
 			<p>
 				Darren Gergle, Northwestern University<br />

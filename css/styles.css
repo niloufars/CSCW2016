@@ -431,7 +431,7 @@ aside .item #updates {
 }
 
 aside .item #updates p {
-	margin: 0;
+	margin: 5px 0 10px;
 }
 
 aside .subnav {
