@@ -108,6 +108,11 @@
 				<a class="email" href="mailto:cscw<?php echo $year; ?>telepresence@acm.org">cscw<?php echo $year; ?>telepresence@acm.org</a>
 				</p>
 
+				<h2 class="h3">Best of CSCW Co-Chairs</h2>
+				<p>Myriam Lewkowicz, Troyes University of Technology<br />
+				Krzysztof Gajos, Harvard University
+				</p>
+
 				<h2 class="h3">Student Assistant to the General Chairs</h2>
 				<p>Joy Kim, Stanford University
 				</p>
