@@ -82,6 +82,9 @@ include_once ('../_inc/header.php');
 				<a href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a>
 			</p>
 		
+			<h2>Contributor Sponsors</h2>
+			<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.gif" alt="IBM Research"></a>
+			
 		</article>
 	</div>
 </div>

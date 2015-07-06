@@ -96,6 +96,8 @@ include_once ('_inc/header.php');
 				conference will gratefully acknowledge your employer’s contribution,
 				and it will help prevent increases in registration fees.
 			</p>
+			<h2>Contributor Sponsors</h2>
+			<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.gif" alt="IBM Research"></a>
 		</article>
 
 	</div>
