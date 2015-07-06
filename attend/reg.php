@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Attending CSCW';
+$pageTitle = 'Registration';
 $section = 'attend';
 $basePath = '..';
 include_once ('../_inc/header.php');
@@ -21,10 +21,97 @@ include_once ('../_inc/header.php');
 		</aside>
 		<article class="ten columns" role="main">
 			<h1>Registration</h1>
-			<p>Please check back for rates, deadlines, and further information about registering for CSCW <?php echo $year; ?>.</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
-			<p>&nbsp;</p>
+			<p>An online registration link will be available in early autumn.</p>
+
+			<h2>Registration Fees</h2>
+			<div class="responsive-table">
+				<table>
+					<thead>
+						<tr>
+							<th></th>
+							<th>Early Registration<br>(Jan 8)
+							</th>
+							<th>Advance Registration<br>(Feb 5)
+							</th>
+							<th>On-site Registration</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Student</td>
+							<td>$275</td>
+							<td>$345</td>
+							<td>$395</td>
+						</tr>
+						<tr>
+							<td>One-Day</td>
+							<td>$375</td>
+							<td>$400</td>
+							<td>$425</td>
+						</tr>
+						<tr>
+							<td>ACM/SIG Members</td>
+							<td>$695</td>
+							<td>$795</td>
+							<td>$895</td>
+						</tr>
+						<tr>
+							<td>Non-ACM/SIG Members</td>
+							<td>$795</td>
+							<td>$895</td>
+							<td>$995</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<h2>Workshop Registration</h2>
+			<div class="responsive-table">
+				<table>
+					<thead>
+						<tr>
+							<th></th>
+							<th>Early Registration<br>(Jan 8)
+							</th>
+							<th>Advance Registration<br>(Feb 5)
+							</th>
+							<th>On-site Registration</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>ACM/SIG Member <br> Workshop w/Registration
+							</td>
+							<td>$175</td>
+							<td>$175</td>
+							<td>$175</td>
+						</tr>
+
+						<tr>
+							<td>Non-ACM/SIG Member <br> Workshop w/Registration
+							</td>
+							<td>$195</td>
+							<td>$195</td>
+							<td>$195</td>
+						</tr>
+
+						<tr>
+							<td>Student <br> Workshop Registration
+							</td>
+							<td>$175</td>
+							<td>$175</td>
+							<td>$175</td>
+						</tr>
+
+						<tr>
+							<td>Workshop Only, <br> No Conference
+							</td>
+							<td colspan="3">($100 will be added to above fee schedule)</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</div>
 		</article>
 	</div>
 </div>
