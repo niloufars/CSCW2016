@@ -82,8 +82,16 @@ include_once ('../_inc/header.php');
 				<a href="mailto:cscw<?php echo $year; ?>sponsorship@acm.org">cscw<?php echo $year; ?>sponsorship@acm.org</a>
 			</p>
 		
+			<h1>CSCW 2016 Sponsors</h1>
+			<div class="sponsors-list">
+				<a href="http://www.acm.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/acm_logo_home.png" alt="ACM"></a>
+				<a href="http://www.sigchi.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/sigchi_logo_home.png" alt="SIGCHI"></a>
+			</div>
+			
 			<h2>Contributor Sponsors</h2>
-			<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.gif" alt="IBM Research"></a>
+			<div class="sponsors-list">
+				<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research"></a>
+			</div>
 			
 		</article>
 	</div>
