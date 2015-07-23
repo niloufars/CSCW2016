@@ -355,10 +355,40 @@ nav ul li a:visited {color: #ffffff;}
 	min-height: 300px; 
 }
 
+article {
+    /* make position relative so that we can absolutely position children relative to the article */ 
+    position: relative;
+}
+
+/* sponsors */
 .sponsors-list a {
 	display: inline-block; 
 	padding: 0;
 	margin: 0 23px 23px 0;  
+}
+
+/* sponsors on the main page: move to the right column at very large sizes */
+@media only screen and (min-width: 1310px) {
+    .sponsors-aside .sponsors-list a {
+        margin: 0 0 10px 0;
+        display: block;
+        width: 170px;
+    }
+    .sponsors-aside {
+        position: absolute;
+        top: 0;
+        right: -190px;
+        width: 170px;
+    }
+    .sponsors-aside h1, .sponsors-aside h2 {
+        font-size: 16px; 
+        line-height: 23px; 
+        margin-bottom: 10px; 
+        font-weight: 600;
+        padding: 11.5px 0 5.75px;
+    }
+}
+    
 }
 
 
