@@ -412,11 +412,10 @@ include_once ('../_inc/header.php');
 				Richard Harper, Microsoft, UK & (Mobile LIfe Centre)<br />
 				Brent Hecht, University of Minnesota<br />
 				Thomas Herrmann, Ruhr-Universitat Bochum<br />
+				Pam Hinds, Stanford University<br />
 				Naja Holten-Moller, Computer Science, University of Copenhagen<br />
-				Marleen Huysman, University Amsterdam<br />
 				Claudia-Lavinia Ignat, INRIA<br />
 				Josh Introne, Michigan State University<br />
-				Wendy Ju, Stanford / CCA<br />
 				Wendy A. Kellogg, IBM Research (Emeritus)<br />
 				Joseph Konstan (chair), University of Minnesota<br />
 				Myriam Lewkowicz, Troyes University of Technology<br />
