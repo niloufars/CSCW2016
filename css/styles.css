@@ -361,16 +361,31 @@ article {
 }
 
 /* sponsors */
+.sponsors-list {
+    margin: -12px 0 34.5px 3px;
+    padding: 0 0 0 23px;
+    border-left: 2px solid #ccc;    
+}
 .sponsors-list a {
 	display: inline-block; 
 	padding: 0;
-	margin: 0 23px 23px 0;  
+    margin: 12px 23px 12px 0;
+    line-height: 0;
+}
+.sponsors-list a img {
+    max-width: 200px;
 }
 
 /* sponsors on the main page: move to the right column at very large sizes */
 @media only screen and (min-width: 1310px) {
+    .sponsors-aside .sponsors-list {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
     .sponsors-aside .sponsors-list a {
         margin: 0 0 10px 0;
+        padding: 0;
         display: block;
         width: 170px;
     }

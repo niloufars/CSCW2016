@@ -98,12 +98,12 @@ include_once ('_inc/header.php');
 			</p>
 			
 			<div class="sponsors-aside">
-				<h1>CSCW 2016 Sponsors</h1>
+				<h1>2016 Sponsors</h1>
 				<div class="sponsors-list">
 					<a href="http://www.acm.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/acm_logo_home.png" alt="ACM"></a>
 					<a href="http://www.sigchi.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/sigchi_logo_home.png" alt="SIGCHI"></a>
 				</div>
-				<h2>Contributor Sponsors</h2>
+				<h2>Contributors</h2>
 				<div class="sponsors-list">
 					<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research"></a>
 				</div>
