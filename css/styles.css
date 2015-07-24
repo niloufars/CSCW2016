@@ -377,7 +377,10 @@ article {
 }
 
 /* sponsors on the main page: move to the right column at very large sizes */
-@media only screen and (min-width: 1310px) {
+@media only screen and (min-width: 1220px) {
+    body {
+        margin-left: -190px;
+    }
     .sponsors-aside .sponsors-list {
         margin: 0;
         padding: 0;
@@ -389,10 +392,13 @@ article {
         display: block;
         width: 170px;
     }
+    .sponsors-aside .sponsors-list a img {
+        max-width: 170px;
+    }
     .sponsors-aside {
         position: absolute;
         top: 0;
-        right: -190px;
+        right: -200px;
         width: 170px;
     }
     .sponsors-aside h1, .sponsors-aside h2 {
