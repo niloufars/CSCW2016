@@ -436,7 +436,6 @@ include_once ('../_inc/header.php');
 				Michael Prilla, Ruhr University of Bochum<br />
 				Wolfgang Prinz, Fraunhofer Institute for Applied Information Technology<br />
 				Daniele Quercia, Yahoo! Labs<br />
-				Kori Inkpen Quinn, Microsoft<br />
 				Dave Randall, University of Siegen<br />
 				Scott Robertson, University of Hawaii<br />
 				Daniela K. Rosner, University of Washington<br />
