@@ -11,6 +11,13 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>August 3, 2015:</strong> Enrollment for CSCW 2016 student
+						volunteers is now open! Go <a href="http://www.chisv.org/cscw2016">here</a> to
+						submit your application. The deadline for registering is <em>October
+						9, 2015</em>. More information about student volunteering
+						<a href="http://cscw.acm.org/2016/volunteer/sv.php">here</a>.
+					</p>
+					<p>
 						<strong>June 4, 2015:</strong> ACM members should <a href="http://plone4.sigchi.org/communities/cscw">register
 						for the CSCW Community</a> (it’s free and allows you
 						to vote for community leaders and get key announcements). Also,

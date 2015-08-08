@@ -21,7 +21,7 @@ include_once ('../_inc/header.php');
 			<h2>Important Dates</h2>
 			<ul>
 				<li><strong>August 3, 2015</strong>: Student volunteer lottery
-					registration system will open</li>
+					registration system will open <a href="http://www.chisv.org/cscw2016">here</a>.
 				<li><strong>October 9, 2015</strong>: Deadline to register for
 					volunteer lottery</li>
 				<li><strong>October 12, 2015</strong>: Applicants will be informed
