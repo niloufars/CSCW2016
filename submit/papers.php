@@ -428,7 +428,7 @@ include_once ('../_inc/header.php');
 				Giorgio De Michelis, University of Milano Bicocca<br />
 				Michael Muller, IBM<br />
 				Mirco Musolesi, University of Birmingham<br />
-				Mor Naaman, Cornell University, Tech Campus<br />
+				Mor Naaman, Cornell Tech<br />
 				Jacki O'Neill, Microsoft Research India<br />
 				Andrea Parker, Northeastern University<br />
 				Sameer Patil, New York University<br />
