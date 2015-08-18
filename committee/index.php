@@ -43,7 +43,7 @@
 
 				<h2 class="h3">Workshops Co-Chairs</h2>
 				<p>Marcos R. S. Borges, Universidade Federal do Rio de Janeiro<br />
-				Madhu Reddy, Penn State University<br />
+				Madhu Reddy, Northwestern University<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>workshops@acm.org">cscw<?php echo $year; ?>workshops@acm.org</a>
 				</p>
 				

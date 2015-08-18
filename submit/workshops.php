@@ -103,7 +103,7 @@ include_once ('../_inc/header.php');
 			<h2>Workshops Co-Chairs</h2>
 			<p>
 				Marcos R. S. Borges, Universidade Federal do Rio de Janeiro<br />
-				Madhu Reddy, Penn State University<br /> <a
+				Madhu Reddy, Northwestern University<br /> <a
 					href="mailto:cscw<?php echo $year; ?>workshops@acm.org">cscw<?php echo $year; ?>workshops@acm.org</a>
 			</p>
 		</article>
