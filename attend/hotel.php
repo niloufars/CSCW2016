@@ -22,10 +22,10 @@ include_once('../_inc/header.php');
         <article class="ten columns" role="main">
               <H1>Conference Hotel</H1>
               <p>
-                The conference will be held at the <a href="http://sanfranciscoregency.hyatt.com/en/hotel/home.html" class="text" target="_blank">Hyatt Regency San Francisco</a>. Boasting the
+                The conference will be held at the <a href="http://sanfranciscoregency.hyatt.com/en/hotel/home.html" class="text" target="_blank">Hyatt Regency San Francisco</a>. <a href="https://resweb.passkey.com/go/ACMCSCW" class="text" target="_blank">Follow this link</a> to register for the CSCW group discounted rate at the hotel. Boasting the
                 Guinness Book of World Records’ largest atrium lobby of over 42,000 square feet,
                 the Hyatt Regency San Francisco hotel is situated on the Embarcadero waterfront
-                across from the historic Ferry Building. Information on how to register for the CSCW group discounted rate at the hotel will be available here soon.
+                across from the historic Ferry Building. 
         </p>
         <p>
                 There are many dining options and famous eateries around the hotel, including the
