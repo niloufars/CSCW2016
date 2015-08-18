@@ -11,6 +11,11 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>August 18, 2015:</strong> Hotel registration is now
+						available <a href="https://resweb.passkey.com/go/ACMCSCW">here</a>, and
+						the <a href="http://cscw.acm.org/2016/program/">preliminary program</a> is up.
+					</p>
+					<p>
 						<strong>August 3, 2015:</strong> Enrollment for CSCW 2016 student
 						volunteers is now open! Go <a href="http://www.chisv.org/cscw2016">here</a> to
 						submit your application. The deadline for registering is <em>October
