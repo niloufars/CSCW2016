@@ -30,7 +30,7 @@ include_once ('../_inc/header.php');
 				once camera-ready papers have been submitted). Details on workshops,
 				panels, and plenary sessions will be available later this fall, as
 				well.</p>
-			<h2>Saturday</h2>
+			<h2>Saturday, February 27</h2>
 			<div class="responsive-table">
 				<table>
 					<thead>
@@ -49,7 +49,7 @@ include_once ('../_inc/header.php');
 					</tbody>
 				</table>
 			</div>
-			<h2>Sunday</h2>
+			<h2>Sunday, February 28</h2>
 			<div class="responsive-table">
 				<table>
 					<thead>
@@ -73,7 +73,7 @@ include_once ('../_inc/header.php');
 					</tbody>
 				</table>
 			</div>
-			<h2>Monday</h2>
+			<h2>Monday, February 29</h2>
 			<div class="responsive-table">
 				<table>
 					<thead>
@@ -222,7 +222,7 @@ include_once ('../_inc/header.php');
 					</tbody>
 				</table>
 			</div>
-			<h2>Tuesday</h2>
+			<h2>Tuesday, March 1</h2>
 			<div class="responsive-table">
 				<table>
 					<thead>
@@ -371,7 +371,7 @@ include_once ('../_inc/header.php');
 					</tbody>
 				</table>
 			</div>
-			<h2>Wednesday</h2>
+			<h2>Wednesday, March 2</h2>
 			<div class="responsive-table">
 				<table>
 					<thead>
