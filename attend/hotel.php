@@ -22,7 +22,19 @@ include_once('../_inc/header.php');
         <article class="ten columns" role="main">
               <H1>Conference Hotel</H1>
               <p>
-                The conference will be held at the <a href="http://sanfranciscoregency.hyatt.com/en/hotel/home.html" class="text" target="_blank">Hyatt Regency San Francisco</a>. <a href="https://resweb.passkey.com/go/ACMCSCW" class="text" target="_blank">Follow this link</a> to register for the CSCW group discounted rate at the hotel. Boasting the
+                The conference will be held at: 
+                </p>
+                <p>
+                  <a href="http://sanfranciscoregency.hyatt.com/en/hotel/home.html" class="text" target="_blank">Hyatt Regency San Francisco</a><br>
+                  5 Embarcadero Center<br>
+                  San Francisco, CA 94111, US<br><br>
+                  We encourage everyone to book early for the CSCW group discounted rate (January 29, 2016 is the cutoff for the $269 conference rate):<br>
+                  <strong>Online reservation:</strong>  <a href="https://resweb.passkey.com/go/ACMCSCW" class="text" target="_blank">Follow this link</a> <br>
+                  <strong>Phone reservation:</strong> +1 888 591 1234 (mention ACM / CSCW Conference)<br>
+                  
+                </p>
+
+                <p>Boasting the
                 Guinness Book of World Records’ largest atrium lobby of over 42,000 square feet,
                 the Hyatt Regency San Francisco hotel is situated on the Embarcadero waterfront
                 across from the historic Ferry Building. 
