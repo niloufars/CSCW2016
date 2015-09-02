@@ -119,6 +119,10 @@ include_once ('_inc/header.php');
 				<div class="sponsors-list">
 					<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research"></a>
 				</div>
+				<h2>Benefactors</h2>
+				<div class="sponsors-list">
+					<a href="http://research.microsoft.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/microsoft-research.gif" alt="Microsoft Research"></a>
+				</div>
 			</div>
 			
 		</article>
