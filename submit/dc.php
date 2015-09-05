@@ -67,7 +67,7 @@
      		<a href="mailto:cscw<?php echo $year; ?>doctoral@acm.org">cscw<?php echo $year; ?>doctoral@acm.org</a></p>
 
      		<h2>Doctoral Colloquim Faculty Panelists</h2>
-     		<p>To be announced by August 2015
+     		<p>To be announced by September 15, 2015
      		</p>
 			</article>
 			
