@@ -66,7 +66,7 @@
      		Loren Terveen, The University of Minnesota<br />
      		<a href="mailto:cscw<?php echo $year; ?>doctoral@acm.org">cscw<?php echo $year; ?>doctoral@acm.org</a></p>
 
-     		<h2>Doctoral Colloquim Faculty Panelists</h2>
+     		<h2>Doctoral Colloquium Faculty Panelists</h2>
      		<p>Luigina Ciolfi, Sheffield Hallam University, UK<br />
 			Judd Antin, Airbnb, USA<br />
 			Jeff Hancock, Stanford University, USA<br />
