@@ -24,7 +24,7 @@
 			<h1>Doctoral Colloquium</h1>
 <h2>Important Dates</h2>
 			<ul>
-				<li><strong>Fiday, November 6, 2015, 11:59pm&nbsp;PDT</strong>: Submissions due</li>
+				<li><strong>Friday, November 6, 2015, 11:59pm&nbsp;PDT</strong>: Submissions due</li>
 				<li><strong>Tuesday, December 15, 2015</strong>: Notification of acceptance</li>
 				<li><strong>Saturday, February 27, 2016</strong>: Colloquium Dinner</li>
 				<li><strong>Sunday, February 28, 2016</strong>: Doctoral Colloquium</li>
