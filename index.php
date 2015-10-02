@@ -11,6 +11,11 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>October 1, 2015:</strong> We are pleased to
+						announce our opening keynote speaker will be
+						<a href="program/keynotes.php#opening">Simon Rogers</a> from Google!
+					</p>
+					<p>
 						<strong>August 18, 2015:</strong> Hotel registration is now
 						available <a href="https://resweb.passkey.com/go/ACMCSCW">here</a>, and
 						the <a href="http://cscw.acm.org/2016/program/">preliminary program</a> is up.

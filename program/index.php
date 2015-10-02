@@ -1,27 +1,27 @@
 <?php
-$pageTitle = "CSCW $year Program";
+$pageTitle = "CSCW $year | Preliminary Program";
 $section = 'program';
 $basePath = '..';
 include_once ('../_inc/header.php');
 ?>
 <div class="container main">
 	<div class="row">
-		<!-- 		<aside class="four columns offset-by-one"> -->
-		<!-- 			<div class="item"> -->
-		<!-- 				<h2>Program</h2> -->
-		<!-- 				<ul class="subnav" id="nav_program"> -->
-		<!-- 					<li><a href="index.php" class="active">Overview</a></li> -->
-		<!-- 					<li><a href="keynotes.php">Keynote Speakers</a></li> -->
-		<!-- 					<li><a href="papers.php">Papers</a></li> -->
-		<!-- 					<li><a href="accepted_workshops.php">Workshops</a></li> -->
-		<!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
-		<!-- 					<li><a href="panels.php">Panels</a></li> -->
-		<!-- 					<li><a href="dc.php">Doctoral Colloquium</a></li> -->
-		<!-- 					<li><a href="demos.php">Demonstrations</a></li> -->
-		<!-- 				</ul> -->
-		<!-- 			</div> -->
-		<!-- 		</aside> -->
-		<article class="ten columns offset-by-five" role="main">
+		<aside class="four columns offset-by-one">
+			<div class="item">
+				<h2>Program</h2>
+				<ul class="subnav" id="nav_program">
+					<li><a href="index.php" class="active">Preliminary Program</a></li>
+					<li><a href="keynotes.php">Keynote Speakers</a></li>
+<!-- 					<li><a href="papers.php">Papers</a></li> -->
+<!-- 					<li><a href="accepted_workshops.php">Workshops</a></li> -->
+<!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
+<!-- 					<li><a href="panels.php">Panels</a></li> -->
+<!-- 					<li><a href="dc.php">Doctoral Colloquium</a></li> -->
+<!-- 					<li><a href="demos.php">Demonstrations</a></li> -->
+				</ul>
+			</div>
+		</aside>
+		<article class="ten columns" role="main">
 			<h1>Preliminary Program</h1>
 			<p>This preliminary program contains information about the timing of
 				CSCW sessions, and the titles (themes) of the paper sessions. 142
@@ -87,7 +87,7 @@ include_once ('../_inc/header.php');
 						<tr>
 							<td>9:00</td>
 							<td>10:30</td>
-							<td colspan="2">Opening & Keynote</td>
+							<td colspan="2">Opening & Keynote: <a href="keynotes.php#opening">Simon Rogers, Google</a></td>
 						</tr>
 						<tr>
 							<td>10:30</td>
