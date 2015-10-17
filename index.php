@@ -11,6 +11,12 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>October 17, 2015:</strong> Announcing the <a href="attend/telepresence.php">CSCW 2016 telepresence initiative.</a> 
+						The deadline to apply is <em>December 1st, 2015</em>.
+						
+					</p>
+	
+					<p>
 						<strong>October 1, 2015:</strong> We are pleased to
 						announce our opening keynote speaker will be
 						<a href="program/keynotes.php#opening">Simon Rogers</a> from Google!
