@@ -36,6 +36,13 @@ include_once ('../_inc/header.php');
 				raw datasets and encourages users to visualize and analyze them.
 				Simon recently authored <em>Facts are Sacred: the Power of Data</em>.
 			</p>
+
+			<h2 id="closing">Closing Keynote: Mike Krieger, Instagram</h2>
+			<img src="<?php echo $basePath; ?>/images/keynote-krieger.jpg" alt="Mike Krieger" />
+			<p>Mike Krieger is a software engineer and entrepreneur who
+				co-founded the social media service Instagram, and still serves as
+				the product's CTO. Instagram is an online mobile photo- and
+				video-sharing social network, with over 400 million active users.</p>
 		</article>
 	</div>
 </div>
