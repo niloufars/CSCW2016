@@ -30,9 +30,9 @@
         
           <p>If you are interested and selected, you will be able to attend CSCW remotely using BeamPros from Suitable Technologies.  BeamPros are remotely-controlled telepresence robots that are equipped with video conferencing software.  They will allow you to move throughout the conference venue, go to talk sessions, and mingle in the common areas between talks.  Full details about the technology are available on the Suitable Technologies web page (<a href="https://www.suitabletech.com/beam/">https://www.suitabletech.com/beam/</a>).</p>
           <div class="row">
-            <div class="col-md-6"><img src="/images/2016-img/telepresence1.png" class="img-responsive" style="width:60%" alt="Telepresence image">
+            <div class="col-md-6"><img src="<?php echo $basePath; ?>/images/2016-img/telepresence1.png" class="img-responsive" style="width:60%" alt="Telepresence image">
             </div>
-            <div class="col-md-6"><img src="/images/2016-img/telepresence2.png" class="img-responsive" style="width:60%" alt="Telepresence image">
+            <div class="col-md-6"><img src="<?php echo $basePath; ?>/images/2016-img/telepresence2.png" class="img-responsive" style="width:60%" alt="Telepresence image">
             </div>
           </div>
 
