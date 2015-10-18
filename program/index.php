@@ -87,7 +87,7 @@ include_once ('../_inc/header.php');
 						<tr>
 							<td>9:00</td>
 							<td>10:30</td>
-							<td colspan="2">Opening & Keynote: <a href="keynotes.php#opening">Simon Rogers, Google</a></td>
+							<td colspan="2">Opening &amp; Keynote: <a href="keynotes.php#opening">Simon Rogers, Google</a></td>
 						</tr>
 						<tr>
 							<td>10:30</td>
@@ -505,7 +505,7 @@ include_once ('../_inc/header.php');
 						<tr>
 							<td>4:30</td>
 							<td>6:00</td>
-							<td colspan="2">Closing Plenary</td>
+							<td colspan="2">Closing &amp; Keynote: <a href="keynotes.php#closing">Mike Krieger, Instagram</a></td>
 						</tr>
 					</tbody>
 				</table>
