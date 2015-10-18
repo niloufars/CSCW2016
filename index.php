@@ -80,7 +80,7 @@ include_once ('_inc/header.php');
 			</div>
 
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Welcome to CSCW <?php echo $year; ?>!</h1>
 			<p>The <?php echo $nth; ?> ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW <?php echo $year; ?>) will be held <?php echo $datesYear; ?> in <a
 					href="<?php echo $cityUrl; ?>" target="_blank"><?php echo $cityCountry; ?>.</a>

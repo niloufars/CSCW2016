@@ -16,7 +16,7 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Volunteering &amp; Mentorship</h1>
 			<p>
 				Students are a vital component of the CSCW conference. Here you can

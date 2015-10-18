@@ -21,7 +21,7 @@
           </ul>
         </div>
       </aside>
-      <article class="ten columns" role="main">
+      <article class="ten columns" role="main" id="content">
         <h1>Accessibility</h1>
         
           <p>CSCW aims to be an accessible and inclusive conference. If you have any questions or concerns about accessibility, or any special requests (such as ASL translation, captioning, etc.), please contact the conference accessibility chair at <a class="email" href="mailto:cscw<?php echo $year; ?>accessibility@acm.org">cscw<?php echo $year; ?>accessibility@acm.org</a>, and he will do his best to work with you to address your concerns. Note that some requests may require advance notice, so please be mindful to submit accessibility requests as far in advance of the conference date as possible in order to maximize the chance that we can address them to your satisfaction.</p>

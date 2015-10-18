@@ -20,7 +20,7 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 
 			<h1>Call for Participation</h1>
 			<p>The ACM conference on Computer-Supported Cooperative Work and

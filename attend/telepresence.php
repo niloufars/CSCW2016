@@ -21,7 +21,7 @@
           </ul>
         </div>
       </aside>
-      <article class="ten columns" role="main">
+      <article class="ten columns" role="main" id="content">
         <h1>CSCW 2016 telepresence</h1>
         
           <p>This year at CSCW we will be allowing a small number of people to attend remotely using telepresence technology.  The goal is to provide people who cannot attend CSCW in person with an alternative means for conference attendance.  For example, we are hoping to provide those with mobility impairments, chronic health issues, or temporary travel limitations with opportunities to attend the conference from remote locations.  Currently remote attendance is still at an exploratory stage, so we can only accommodate a small number of remote attendees.  We are planning to study the experience as part of our research so remote attendees should expect to participate in user studies.</p>

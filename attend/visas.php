@@ -21,7 +21,7 @@
 					</ul>
 				</div>
 			</aside>
-			<article class="ten columns" role="main">
+			<article class="ten columns" role="main" id="content">
 				<h1>Visa Information</h1>
         
         	<p>The sites <a href="http://www.unitedstatesvisas.us/" target="_blank" class="text">http://www.unitedstatesvisas.us/</a> and <a href="http://travel.state.gov" target="_blank" class="text">http://travel.state.gov</a> have information about obtaining a visa for those traveling to the United States. These sites have links to websites for U.S. embassies and consulates worldwide. The embassy and consulate websites have very helpful information about procedures, timelines, communities served, required documentation, and fees.</p>

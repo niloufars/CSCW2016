@@ -21,7 +21,7 @@ include_once('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Attending CSCW <?php echo $year; ?></h1>
 			<p><img src="../images/2016-img/Ggb_by_night.jpg" alt="False Creek" class="img-right"  style="width: 400px"/>CSCW <?php echo $year; ?> will take place at the Hyatt Regency San Francisco in San Francisco, CA.</p>
 			<p>

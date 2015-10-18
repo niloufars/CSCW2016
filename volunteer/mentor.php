@@ -16,7 +16,7 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 
 			<h1>Reviewer Mentor Program</h1>
 			<p>The CSCW Reviewer Mentor Program is intended to create an

@@ -21,7 +21,7 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Preliminary Program</h1>
 			<p>This preliminary program contains information about the timing of
 				CSCW sessions, and the titles (themes) of the paper sessions. 142

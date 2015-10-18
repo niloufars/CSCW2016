@@ -21,7 +21,7 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Keynote Speakers</h1>
 			<h2 id="opening">Opening Keynote: Simon Rogers, Google</h2>
 			<img src="<?php echo $basePath; ?>/images/keynote-simon-rogers.jpg" alt="Simon Rogers" />

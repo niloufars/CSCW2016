@@ -60,6 +60,9 @@ include_once(dirname(__FILE__) . '/config.php');
 </head>
 <body class="<?php echo $section; ?>">
 
+	<ul class="skiplist">
+		<li class="skip"><a href="#content" id="menu">Skip to content</a></li>
+	</ul>
 	<header role="banner" class="clearfix">
 		<div class="container">
 			<div class="brand clearfix">
@@ -77,7 +80,7 @@ include_once(dirname(__FILE__) . '/config.php');
 		<div class="header-strip">
 			
 		</div>
-		<a href="#" class="menu-link"></a>			
+		<a href="#" class="menu-link" title="menu"></a>			
 	</header>
 	<nav role="navigation">
 		<ul

@@ -21,7 +21,7 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Registration</h1>
 			<p>An online registration link will be available in early autumn.</p>
 

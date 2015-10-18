@@ -6,7 +6,7 @@
 ?>
 	<div class="container main">
 		<div class="row">
-			<article class="ten columns offset-by-five" role="main">
+			<article class="ten columns offset-by-five" role="main" id="content">
 				<h1>404 Page not found</h1>
 				<p>If this problem persists, please contact <a href="mailto:cscw<?php echo $year; ?>webmasters@acm.org">cscw<?php echo $year; ?>webmasters@acm.org</a>.</p>
 				<h2>Graphic Design &amp; Webmastering</h2>

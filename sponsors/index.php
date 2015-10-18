@@ -15,7 +15,7 @@ include_once ('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Sponsors</h1>
 
 			<p>Sponsorships are very important to the financial health of CSCW

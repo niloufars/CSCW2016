@@ -20,7 +20,7 @@
 					</ul>
 				</div>
 			</aside>
-			<article class="ten columns" role="main">
+			<article class="ten columns" role="main" id="content">
 			<h1>Doctoral Colloquium</h1>
 <h2>Important Dates</h2>
 			<ul>

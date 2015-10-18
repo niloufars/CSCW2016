@@ -21,7 +21,7 @@ include_once('../_inc/header.php');
 				</ul>
 			</div>
 		</aside>
-		<article class="ten columns" role="main">
+		<article class="ten columns" role="main" id="content">
 			<h1>Local Attractions</h1>
 
 			<h2>Tourist Attractions</h2>

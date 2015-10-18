@@ -9,7 +9,7 @@
 		<!-- 
 		<aside class="four columns offset-by-one"> 
 			</aside> -->
-			<article class="ten columns offset-by-five" role="main">
+			<article class="ten columns offset-by-five" role="main" id="content">
 				<h1>CSCW <?php echo $year; ?> Committee</h1>
 				
 				<h2 class="h3">General Co-Chairs</h2>
