@@ -11,6 +11,12 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>October 17, 2015:</strong> Reminder: 
+						<a href="submit/demos.php">Demos</a>, <a href="submit/panels.php">Panels</a>, 
+						<a href="submit/posters.php">Posters</a>, and <a href="submit/dc.php">Doctoral Colloquium</a>
+						submissions are all due <strong>Nov&nbsp;6</strong>!
+					</p>
+					<p>
 						<strong>October 17, 2015:</strong> We are pleased to
 						announce our closing keynote speaker will be
 						<a href="program/keynotes.php#closing">Mike Krieger</a> from Instagram!
