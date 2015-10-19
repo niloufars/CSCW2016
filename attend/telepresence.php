@@ -46,7 +46,7 @@
           </ol>
           </p>   
           <p>For both options, we are seeking people who can commit to attending a large portion of the conference. We will not be accepting applications for those who want to connect into a single session.</p>
-          <p>Prior to the conference, you will provide you with <strong>technical training</strong> on how to use the Beam, and <strong>social training</strong> on how to use it a public conference setting with other attendees.</p>
+          <p>Prior to the conference, we will provide you with <strong>technical training</strong> on how to use the Beam, and <strong>social training</strong> on how to use it in a public conference setting with other attendees.</p>
       
 
           <h1>How Can I Participate Remotely</h1>
