@@ -67,7 +67,7 @@ include_once ('../_inc/header.php');
 
 			<p>
 				Interactive poster abstract submissions (extended abstract and
-				poster draft) must be uploaded online at the PCS submission system
+				poster draft) must be <a href="https://precisionconference.com/~sigchi/">uploaded online at the PCS submission system</a>
 				by 11:59pm&nbsp;PDT on November 6, 2015 to be considered. All
 				attachments must be less than 5MB. Any questions regarding this
 				process or from complications due to large files can be directed to
