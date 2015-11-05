@@ -25,9 +25,9 @@ include_once ('../_inc/header.php');
 			<h1>Advance Program</h1>
 			<p>The CSCW 2016 advance program is available through Confer, a tool
 				to help conference-goers discover and remember papers and people.
-				You can <a href="http://confer.csail.mit.edu/login?redirect_url=/cscw2016/papers">create an account</a>
+				You can <a href="http://confer.csail.mit.edu/login?redirect_url=/cscw2016/schedule">create an account</a>
 				that you can use to access the program across devices; you can 
-				also <a href="http://confer.csail.mit.edu/cscw2016/papers">browse the program as a guest</a>.</p>
+				also <a href="http://confer.csail.mit.edu/cscw2016/schedule">browse the program as a guest</a>.</p>
 			<h1>Preliminary Program</h1>
 			<p>This preliminary program contains information about the timing of
 				CSCW sessions, and the titles (themes) of the paper sessions. 142
