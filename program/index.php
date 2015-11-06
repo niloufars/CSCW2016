@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "CSCW $year | Preliminary Program";
+$pageTitle = "CSCW $year | Program Overview";
 $section = 'program';
 $basePath = '..';
 include_once ('../_inc/header.php');
@@ -10,8 +10,9 @@ include_once ('../_inc/header.php');
 			<div class="item">
 				<h2>Program</h2>
 				<ul class="subnav" id="nav_program">
-					<li><a href="index.php" class="active">Preliminary Program</a></li>
+					<li><a href="index.php" class="active">Program Overview</a></li>
 					<li><a href="keynotes.php">Keynote Speakers</a></li>
+					<li><a href="detailedprogram.php">Detailed Program</a></li> 
 <!-- 					<li><a href="papers.php">Papers</a></li> -->
 <!-- 					<li><a href="accepted_workshops.php">Workshops</a></li> -->
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
@@ -22,18 +23,12 @@ include_once ('../_inc/header.php');
 			</div>
 		</aside>
 		<article class="ten columns" role="main" id="content">
-			<h1>Advance Program</h1>
-			<p>The CSCW 2016 advance program is available through Confer, a tool
-				to help conference-goers discover and remember papers and people.
-				You can <a href="http://confer.csail.mit.edu/login?redirect_url=/cscw2016/schedule">create an account</a>
-				that you can use to access the program across devices; you can 
-				also <a href="http://confer.csail.mit.edu/cscw2016/schedule">browse the program as a guest</a>.</p>
-			<h1>Preliminary Program</h1>
-			<p>This preliminary program contains information about the timing of
+			<h1>Program Overview</h1>
+			<p>This program contains information about the timing of
 				CSCW sessions, and the titles (themes) of the paper sessions. 142
-				papers have been accepted for this year’s core program (individual
-				paper titles will be added to this online program in late October,
-				once camera-ready papers have been submitted). Details on workshops,
+				papers have been accepted for this year’s core program. View the 
+				<a href="detailedprogram.php">Detailed Program</a> in Confer to see details of individual papers 
+				within sessions. Details on workshops,
 				panels, and plenary sessions will be available later this fall, as
 				well.</p>
 			<h2>Saturday, February 27</h2>

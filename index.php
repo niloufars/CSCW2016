@@ -11,6 +11,9 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>November 5, 2015:</strong> The <a href="program/detailedprogram.php">full schedule of papers</a> is now available.
+					</p>
+					<p>
 						<strong>October 17, 2015:</strong> Reminder: 
 						<a href="submit/demos.php">Demos</a>, <a href="submit/panels.php">Panels</a>, 
 						<a href="submit/posters.php">Posters</a>, and <a href="submit/dc.php">Doctoral Colloquium</a>

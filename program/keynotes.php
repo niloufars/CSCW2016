@@ -10,8 +10,9 @@ include_once ('../_inc/header.php');
 			<div class="item">
 				<h2>Program</h2>
 				<ul class="subnav" id="nav_program">
-					<li><a href="index.php">Preliminary Program</a></li>
+					<li><a href="index.php">Program Overview</a></li>
 					<li><a href="keynotes.php" class="active">Keynote Speakers</a></li>
+					<li><a href="detailedprogram.php">Detailed Program</a></li> 
 <!-- 					<li><a href="papers.php">Papers</a></li> -->
 <!-- 					<li><a href="accepted_workshops.php">Workshops</a></li> -->
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
