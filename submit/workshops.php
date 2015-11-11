@@ -22,6 +22,7 @@ include_once ('../_inc/header.php');
 		</aside>
 		<article class="ten columns" role="main" id="content">
 			<h1>Workshops</h1>
+			<p>Workshop proposals are no longer being accepted. However, you can still be involved as a workshop attendee! Looking for the details of the 16 accepted workshops? You can find them <a href="../program/workshops.php">here</a></p>
 			<h2>Important Dates for Workshop Organizers</h2>
 			<ul>
 				<li><strong>October 16, 2015 11:59pm&nbsp;PDT:</strong> Workshop

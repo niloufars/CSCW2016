@@ -11,6 +11,9 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>November 11, 2015:</strong> You can now submit position papers to the 16 workshops at CSCW: <a href="/program/workshops.php">Accepted workshops</a>
+					</p>
+					<p>
 						<strong>November 10, 2015:</strong> <a href="https://www.regonline.com/cscw16">Conference registration</a> is now open!
 					</p>
 					<p>
