@@ -23,7 +23,12 @@ include_once ('../_inc/header.php');
 		</aside>
 		<article class="ten columns" role="main" id="content">
 			<h1>Registration</h1>
-			<p>An online registration link will be available in early autumn.</p>
+			<p>
+				To register, visit the <a href="https://www.regonline.com/cscw16">CSCW
+					2016 conference registration page</a>. Rates can be found below.
+				Please note that Early registration rates are available through
+				January 8 and Advance registration rates through February 5.
+			</p>
 
 			<h2>Registration Fees</h2>
 			<div class="responsive-table">
