@@ -12,7 +12,7 @@ include_once ('../_inc/header.php');
 				<ul class="subnav" id="nav_program">
 					<li><a href="index.php">Program Overview</a></li>
 					<li><a href="keynotes.php" class="active">Keynote Speakers</a></li>
-					<li><a href="detailedprogram.php">Detailed Program</a></li> 
+					<li><a href="detailedprogram.php">Detailed Program</a></li>
 <!-- 					<li><a href="papers.php">Papers</a></li> -->
 <!-- 					<li><a href="accepted_workshops.php">Workshops</a></li> -->
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
@@ -26,7 +26,7 @@ include_once ('../_inc/header.php');
 			<h1>Keynote Speakers</h1>
 			<h2 id="opening">Opening Keynote: Simon Rogers, Google</h2>
 			<img src="<?php echo $basePath; ?>/images/keynote-simon-rogers.jpg" alt="Simon Rogers" />
-			<p>
+			<p><strong>Bio:</strong>
 				Simon Rogers is a data journalist. He is currently the data editor
 				on the Trends team at Google, and previously worked as Twitter’s
 				first data editor, telling stories based on millions of tweets. He
@@ -40,7 +40,25 @@ include_once ('../_inc/header.php');
 
 			<h2 id="closing">Closing Keynote: Mike Krieger, Instagram</h2>
 			<img src="<?php echo $basePath; ?>/images/keynote-krieger.jpg" alt="Mike Krieger" />
-			<p>Mike Krieger is a software engineer and entrepreneur who
+			<p>
+				<strong>Title:</strong> How design decisions have shaped Instagram's
+				community, and vice-versa
+			</p>
+			<p>
+				<strong>Abstract:</strong> CSCW research is rich with examples of
+				how the design, defaults, and social norms of digital systems affect
+				behavior, be it in shared calendars or on social sites. How does
+				this play out at a scale of 400 million users? In this talk,
+				Instagram co-founder Mike Krieger will walk through how design
+				decisions at Instagram -- large and small -- have influenced user
+				behavior in the first five years of the product. For example, how
+				has Instagram's asymmetric “follow” model shaped the connections its
+				users have formed? Mike will also discuss examples of emergent norms
+				that have arisen unexpectedly on Instagram, but can be traced to
+				specific design decisions in the product.
+			</p>
+			<p><strong>Bio:</strong>
+				Mike Krieger is a software engineer and entrepreneur who
 				co-founded the social media service Instagram, and still serves as
 				the product's CTO. Instagram is an online mobile photo- and
 				video-sharing social network, with over 400 million active users.</p>
