@@ -30,7 +30,7 @@ include_once ('../_inc/header.php');
 					</li>
 					<li><a href="#WP-04">WP-04. Collocated Interaction: New Challenges in ‘Same Time, Same Place’ Research</a>
 					</li>
-					<li><a href="#WP-05">WP-06. Collaborative Appropriation: How Couples, Teams, Groups and Communities Adapt and Adopt Technologies</a>
+					<li><a href="#WP-06">WP-06. Collaborative Appropriation: How Couples, Teams, Groups and Communities Adapt and Adopt Technologies</a>
 					</li>
 					<li><a href="#WP-07">WP-07. Deceptive/Honest/Unreliable/Reliable? Unpacking Social Signaling Theory for Social Computing Systems Analysis and Design</a>
 					</li>
@@ -71,7 +71,10 @@ include_once ('../_inc/header.php');
 			<strong>Sunday February 28</strong><br>
 			<strong>Organizers:</strong><br>
 			<strong>Contact:</strong> Claus Bossen, Aarhus University, Denmark <br>
-			Joke Kort, TNO, Human Behavior and Organizational Innovation, Groningen, The Netherlands<br><br>
+			Katie Pine, University of California, Irvine<br>
+			Gunnar Ellingsen, Artic University of Norway<br>
+			Federico Cabitza, University of Milano-Bicocca<br>
+			<br><br>
 
 			<strong>Abstract:</strong>
 			The workshop focuses on the new work ecologies emerging from implementation and use of information infrastructures in healthcare (IIH).  As IIH “grows” through organizational and regulatory mechanisms, CSCW researchers grapple with the shifting nature of healthcare data. CSCW has long been concerned with coordination, cooperation, and communication among interdisciplinary occupations in healthcare. Yet, while medical record keeping is still a primary function of IIH, second order data usages are increasingly large foci of IIH design and use. Facilitating development of health data practice and infrastructure is an area ripe for CSCW research. Critical topics include but are not limited to: re-use of clinical data for second order usages; design of artifacts and infrastructures; politics of creating and using data; algorithmic authority of IIH and effects on the exercise of expertise and discretion of healthcare professions; new forms of healthcare data work, including new occupations; data-driven accountability and management in healthcare”<br><br>
@@ -238,6 +241,42 @@ include_once ('../_inc/header.php');
 			<strong>Abstract:</strong> Networked platforms for peer-to-peer exchange and on-demand labor, along with the practices that they foster, are attracting increasing attention from CSCW scholars. This workshop seeks to bring the emerging community together to explore how the new domain of “sharing economy” research could help shift forward broader conceptual and theoretical efforts within CSCW, and how, on the other hand, we might utilize prior work more effectively to inform our research agenda and efforts in this emerging sub-area of the field. In particular, the workshop focuses on the future of platforms as sites of work, collaboration and trust. The workshop approaches sharing and the “sharing economy” phenomenon inclusively, adopting a “big tent” approach to invite broad participation. The one-day event will consist of diverse activities, with an emphasis on in-depth conversations, community building, and support for establishing new collaborations.
 			<br><br>
 			Website: <a href="https://futureofplatforms.wordpress.com">https://futureofplatforms.wordpress.com</a>
+			</p>
+			<hr>
+
+			<p><a href="#WP-15"><h2 id="WP-15">WP-15: Let’s talk about the Quantified Workplace</h2></a>
+			<strong>Sunday February 28</strong><br>
+			<strong>Organizers:</strong><br>
+			<strong>Contact:</strong>  Afra Mashhadi, Bell Laboratories, Dublin, Ireland <br>
+			Fahim Kawsar, Bell Laboratories, Antwerp, Belgium<br>
+			Akhil Mathur, Bell Laboratories, Dublin, Ireland<br>
+			Casey Dugan, IBM Research, Cambridge, MA, USA<br>
+			N. Sadat Shami, IBM Research, Armonk, NY, USA<br>
+
+			<br><br>
+
+			<strong>Abstract:</strong> Over the past decades the advances in pervasive technology have enabled new ways of understanding human behaviour in the workplace. This trend merged with the new rise in the Quantified-Self movement has engendered a new paradigm of Quantified Workplace, where sensing solutions as well as participatory inputs could be used to model, quantify and visualise dynamics of the workplace.<br><br>
+ 
+			In this workshop we want to start a new dialogue to discuss challenges, insights and reflections on this topic. To this aim we are looking for original submissions which offer new insights or propose new techniques for Quantified Workplace. We welcome technical research papers, qualitative research studies, case studies as well as work-in-progress papers which could trigger discussions around the workshop topics.
+			<br><br>
+			Website: <a href="https://app.quantified-workplace.com:9004/Web/workshop.html">https://app.quantified-workplace.com:9004/Web/workshop.html</a>
+			</p>
+			<hr>
+
+			<p><a href="#WP-18"><h2 id="WP-18">WP-18: Large-scale Collaborative Projects to Affect Societal Change</h2></a>
+			<strong>Sunday February 28</strong><br>
+			<strong>Organizers:</strong><br>
+			<strong>Contact:</strong>  Mark Ackerman, University of Michigan, Ann Arbor, USA <br>
+			Ning Gu, Fudan University, China<br>
+			Xianghua (Sharon) Ding, Fudan University, China<br>
+			Jiang Yang, Alibaba Research, China<br>
+			Volker Wulf, Siegen University, Germany
+			<br><br>
+
+			<strong>Abstract:</strong> Major projects to support citizens in healthcare, government, energy-savings, disability, and the like are in the research phases or are underway, often on a large-scale. These efforts - in China, the U.S., Europe, and elsewhere – aim to affect societal changes through technical means. Yet, these projects are seldom only computational, but often a combination of technical and social, interwoven to provide a suitable infrastructure for these efforts to change society. These projects are seldom only collaborative either, but collaboration and coordination play central roles in many of these efforts. CSCW cannot only learn from these efforts in the field but CSCW’s research interests and findings can also help in return. This workshop aims to bring together people from numerous countries and societies who are carrying out these projects or are interested in these efforts to share architectures, designs, findings, and theories so as to promote these projects.
+
+			<br><br>
+			Website: <a href="http://cscw.fudan.edu.cn/workshop/home.html">http://cscw.fudan.edu.cn/workshop/home.html</a>
 			</p>
 			<hr>
 
