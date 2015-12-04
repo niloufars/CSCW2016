@@ -13,8 +13,8 @@ include_once ('../_inc/header.php');
 					<li><a href="index.php">Program Overview</a></li>
 					<li><a href="keynotes.php" >Keynote Speakers</a></li>
 					<li><a href="detailedprogram.php">Detailed Program</a></li>
-<!-- 					<li><a href="papers.php">Papers</a></li> -->
  					<li><a href="workshops.php" class="active">Workshops</a></li> 
+					<li><a href="lastingimpact.php">Lasting Impact Award</a></li> 
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
 <!-- 					<li><a href="panels.php">Panels</a></li> -->
 <!-- 					<li><a href="dc.php">Doctoral Colloquium</a></li> -->

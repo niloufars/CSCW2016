@@ -13,8 +13,8 @@ include_once ('../_inc/header.php');
 					<li><a href="index.php" class="active">Program Overview</a></li>
 					<li><a href="keynotes.php">Keynote Speakers</a></li>
 					<li><a href="detailedprogram.php">Detailed Program</a></li> 
-<!-- 					<li><a href="papers.php">Papers</a></li> -->
 					<li><a href="workshops.php">Workshops</a></li> 
+					<li><a href="lastingimpact.php">Lasting Impact Award</a></li> 
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
 <!-- 					<li><a href="panels.php">Panels</a></li> -->
 <!-- 					<li><a href="dc.php">Doctoral Colloquium</a></li> -->
@@ -357,7 +357,12 @@ include_once ('../_inc/header.php');
 						<tr>
 							<td>4:30</td>
 							<td>5:30</td>
-							<td colspan="2">Lasting Impact Plenary Session</td>
+							<td colspan="2"><a href="lastingimpact.php">Lasting Impact Plenary Session</a><br />
+							This year’s CSCW Lasting Impact Award will be presented to Paul Dourish 
+							and Victoria Bellotti for their CSCW 1992 paper, “Awareness and Coordination 
+							in Shared Workspaces.” At this plenary session, discussants will reflect 
+							on the importance of this piece of work to our field.
+							</td>
 						</tr>
 						<tr>
 							<td>5:30</td>

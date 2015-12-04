@@ -11,6 +11,9 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>December 3, 2015:</strong> <a href="program/lastingimpact.php">Lasting Impact Award announced!</a>
+					</p>
+					<p>
 						<strong>December 2, 2015:</strong> The Telepresence Application deadline has been extended to 
 						<em>Dec 18</em>. See <a href="attend/telepresence.php#participation">here</a> to apply.
 					</p>
