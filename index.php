@@ -162,6 +162,10 @@ include_once ('_inc/header.php');
 					<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research" style="padding-bottom:30px"></a>
 					<a href="http://www.research.google.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/google_logo_home.png" alt="Google" style="padding-bottom:11px"></a>
 				</div>
+				<h2>Friends</h2>
+				<div class="sponsors-list">
+					<a href="http://www.sap.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/sap.png" alt="SAP"></a>
+				</div>
 			</div>
 			
 		</article>

@@ -105,6 +105,11 @@ include_once ('../_inc/header.php');
 				<a href="http://www.research.google.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/google_logo_home.png" alt="Google" style="padding-bottom:11px"></a>
 			</div>
 			
+			<h2>Friends</h2>
+			<div class="sponsors-list">
+				<a href="http://www.sap.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/sap.png" alt="SAP"></a>
+			</div>
+			
 		</article>
 	</div>
 </div>
