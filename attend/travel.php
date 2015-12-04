@@ -83,6 +83,12 @@ include_once('../_inc/header.php');
 				Uber to take you anywhere in the city in just a few minutes. Make
 				sure to load up the apps before you arrive.</p>
 
+			<h2>Accessible Travel Options</h2>
+			<p>
+				BART’s page on Accessible services: <a href="http://www.bart.gov/guide/accessibility">http://www.bart.gov/guide/accessibility</a> <br>
+				Accessible taxi services: <a href="http://www.wheelchairtraveling.com/sf-wheelchair-accessible-taxis">http://www.wheelchairtraveling.com/sf-wheelchair-accessible-taxis</a> <br>SF Paratransit: <a href="">http://www.sfparatransit.com</a>
+
+			</p>
 		</article>
 
 	</div>
