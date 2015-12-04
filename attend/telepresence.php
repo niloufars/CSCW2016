@@ -49,9 +49,9 @@
           <p>Prior to the conference, we will provide you with <strong>technical training</strong> on how to use the Beam, and <strong>social training</strong> on how to use it in a public conference setting with other attendees.</p>
       
 
-          <h1>How Can I Participate Remotely</h1>
+          <h1 id="participation">How Can I Participate Remotely</h1>
 
-          <p>If you are interested in attending CSCW remotely, please fill out <a href="https://docs.google.com/forms/d/1wzBZ6OGBVyot0a9QOwiZJYgAdfEIoYYwy3IYLpKByVU/viewform">this application form</a> by December 1, 2015: </p>
+          <p>If you are interested in attending CSCW remotely, please fill out <a href="https://docs.google.com/forms/d/1wzBZ6OGBVyot0a9QOwiZJYgAdfEIoYYwy3IYLpKByVU/viewform">this application form</a> by <strong>December 18, 2015</strong>.</p>
 
           <p>We will be selective about who we allow to participate remotely.  We aim to have remote attendees from varying backgrounds so we can explore the experience from different perspectives, while also providing a valuable option of attending from afar.  We will also be selective about who receives a dedicated Beam and who time-shares a Beam.</p>
 

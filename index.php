@@ -11,6 +11,13 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>December 3, 2015:</strong> <a href="program/lastingimpact.php">Lasting Impact Award announced!</a>
+					</p>
+					<p>
+						<strong>December 2, 2015:</strong> The Telepresence Application deadline has been extended to 
+						<em>Dec 18</em>. See <a href="attend/telepresence.php#participation">here</a> to apply.
+					</p>
+					<p>
 						<strong>November 11, 2015:</strong> You can now submit position papers to the 16 workshops at CSCW: <a href="program/workshops.php">Accepted workshops</a>
 					</p>
 					<p>
@@ -144,6 +151,10 @@ include_once ('_inc/header.php');
 					<a href="http://www.acm.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/acm_logo_home.png" alt="ACM"></a>
 					<a href="http://www.sigchi.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/sigchi_logo_home.png" alt="SIGCHI"></a>
 				</div>
+				<h2>Champions</h2>
+				<div class="sponsors-list">
+					<a href="http://intel.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/intel.png" alt="Intel"></a>
+				</div>
 				<h2>Benefactors</h2>
 				<div class="sponsors-list">
 					<a href="http://research.microsoft.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/microsoft-research.gif" alt="Microsoft Research"></a>
@@ -153,6 +164,10 @@ include_once ('_inc/header.php');
 					<a href="http://www.fxpal.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/fxpal_logo.png" alt="FXPAL"></a>
 					<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research" style="padding-bottom:30px"></a>
 					<a href="http://www.research.google.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/google_logo_home.png" alt="Google" style="padding-bottom:11px"></a>
+				</div>
+				<h2>Friends</h2>
+				<div class="sponsors-list">
+					<a href="http://www.sap.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/sap.png" alt="SAP"></a>
 				</div>
 			</div>
 			

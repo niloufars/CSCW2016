@@ -88,6 +88,11 @@ include_once ('../_inc/header.php');
 				<a href="http://www.sigchi.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/sigchi_logo_home.png" alt="SIGCHI"></a>
 			</div>
 			
+			<h2>Champions</h2>
+			<div class="sponsors-list">
+				<a href="http://intel.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/intel.png" alt="Intel"></a>
+			</div>
+			
 			<h2>Benefactors</h2>
 			<div class="sponsors-list">
 				<a href="http://research.microsoft.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/microsoft-research.gif" alt="Microsoft Research"></a>
@@ -98,6 +103,11 @@ include_once ('../_inc/header.php');
 				<a href="http://www.fxpal.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/fxpal_logo.png" alt="FXPAL"></a>
 				<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research" style="padding-bottom:30px"></a>
 				<a href="http://www.research.google.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/google_logo_home.png" alt="Google" style="padding-bottom:11px"></a>
+			</div>
+			
+			<h2>Friends</h2>
+			<div class="sponsors-list">
+				<a href="http://www.sap.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/sap.png" alt="SAP"></a>
 			</div>
 			
 		</article>

@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "CSCW $year | Program Overview";
+$pageTitle = "CSCW $year | Program | Lasting Impact Award";
 $section = 'program';
 $basePath = '..';
 include_once ('../_inc/header.php');
@@ -12,9 +12,9 @@ include_once ('../_inc/header.php');
 				<ul class="subnav" id="nav_program">
 					<li><a href="index.php">Program Overview</a></li>
 					<li><a href="keynotes.php">Keynote Speakers</a></li>
-					<li><a href="detailedprogram.php" class="active">Detailed Program</a></li> 
-					<li><a href="workshops.php">Workshops</a></li> 
-					<li><a href="lastingimpact.php">Lasting Impact Award</a></li> 
+					<li><a href="detailedprogram.php">Detailed Program</a></li>
+					<li><a href="workshops.php">Workshops</a></li>
+					<li><a href="lastingimpact.php" class="active">Lasting Impact Award</a></li>
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
 <!-- 					<li><a href="panels.php">Panels</a></li> -->
 <!-- 					<li><a href="dc.php">Doctoral Colloquium</a></li> -->
@@ -23,13 +23,11 @@ include_once ('../_inc/header.php');
 			</div>
 		</aside>
 		<article class="ten columns" role="main" id="content">
-			<h1>Advance Program</h1>
-			<p>The CSCW 2016 advance program is available through Confer, a tool
-				to help conference-goers discover and remember papers and people.
-				You can <a href="http://confer.csail.mit.edu/login?redirect_url=/cscw2016/schedule">create an account</a>
-				that you can use to access the program across devices; you can 
-				also <a href="http://confer.csail.mit.edu/cscw2016/schedule">browse the program as a guest</a>.</p>
-					</article>
+			<h1>Lasting Impact Award</h1>
+			<p>This year’s CSCW Lasting Impact Award will be presented to <strong>Paul
+				Dourish</strong> and <strong>Victoria Bellotti</strong> for their CSCW 1992 paper, 
+				“Awareness and Coordination in Shared Workspaces.”</p>
+		</article>
 	</div>
 </div>
 <?php
