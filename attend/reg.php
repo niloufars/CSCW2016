@@ -119,6 +119,7 @@ include_once ('../_inc/header.php');
 				</table>
 
 			</div>
+			<p>Remote attendance via Telepresence Robots is a new option available to a limited number of CSCW attendees this year. The application deadline for this option is December 18th. <a href="telepresence.php">Learn more here.</a></p>
 		</article>
 	</div>
 </div>
