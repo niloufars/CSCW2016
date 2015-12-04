@@ -148,6 +148,10 @@ include_once ('_inc/header.php');
 					<a href="http://www.acm.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/acm_logo_home.png" alt="ACM"></a>
 					<a href="http://www.sigchi.org/" target="_blank"><img src="<?php echo $basePath; ?>/images/sigchi_logo_home.png" alt="SIGCHI"></a>
 				</div>
+				<h2>Champions</h2>
+				<div class="sponsors-list">
+					<a href="http://intel.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/intel.png" alt="Intel"></a>
+				</div>
 				<h2>Benefactors</h2>
 				<div class="sponsors-list">
 					<a href="http://research.microsoft.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/microsoft-research.gif" alt="Microsoft Research"></a>
