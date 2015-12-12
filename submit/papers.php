@@ -455,6 +455,23 @@ include_once ('../_inc/header.php');
 				Xiaomu Zhou, Rutgers University<br />
 				Carsten Østerlund, Syracuse University<br />
 			</p>
+			<h2>Best Papers Committee Members</h2>
+			<p>
+				Brian Bailey, University of Illinois<br />
+				Alexander Boden, Fraunhofer Institute for Applied Information Technology FIT<br />
+				Edward Cutrell, Microsoft Research India<br />
+				Antonella De Angeli, University of Trento<br />
+				Krzysztof Gajos (co-chair), Harvard University<br />
+				Sean Goggins, University of Missouri<br />
+				Carl Gutwin, University of Saskatchewan<br />
+				Claudia-Lavinia Ignat, INRIA<br />
+				Myriam Lewkowicz (co-chair), Troyes University of Technology<br />
+				Silvia Lindtner, University of Michigan<br />
+				Michael Muller, IBM Research, USA<br />
+				Mor Naaman, Cornell Tech<br />
+				Wolfgang Prinz, Fraunhofer Institute for Applied Information Technology<br />
+				David Randall, University of Siegen
+			</p>
 
 		</article>
 
