@@ -167,7 +167,9 @@ include_once ('_inc/header.php');
 				</div>
 				<h2>Friends</h2>
 				<div class="sponsors-list">
+					<a href="http://www.diku.dk/english" target="_blank"><img src="<?php echo $basePath; ?>/images/ucopenhagen-cs.png" alt="University of Copenhagen, Computer Science Department (DIKU)" style="max-height:250px"></a>
 					<a href="http://www.sap.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/sap.png" alt="SAP"></a>
+					<a href="http://en.itu.dk/" target="_blank"><img src="<?php echo $basePath; ?>/images/itu-copenhagen.png" alt="IT University of Copenhagen"></a>
 				</div>
 			</div>
 			
