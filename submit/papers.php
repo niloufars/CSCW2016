@@ -372,7 +372,7 @@ include_once ('../_inc/header.php');
 			<h2 id="program_committee">Program Committee Members</h2>
 			<p>
 				Mark Ackerman, Michigan University<br />
-				Morgan Ames, University of California, Irvine<br />
+				Morgan G. Ames, University of California, Berkeley<br />
 				Tariq Andersen, University of Copenhagen<br />
 				Daniel Avrahami, FXPAL<br />
 				Gabriela Avram, University of Limerick<br />
@@ -412,7 +412,7 @@ include_once ('../_inc/header.php');
 				Richard Harper, Microsoft, UK & (Mobile LIfe Centre)<br />
 				Brent Hecht, University of Minnesota<br />
 				Thomas Herrmann, Ruhr-Universitat Bochum<br />
-				Pam Hinds, Stanford University<br />
+				Pamela Hinds, Stanford University<br />
 				Naja Holten-Moller, Computer Science, University of Copenhagen<br />
 				Claudia-Lavinia Ignat, INRIA<br />
 				Josh Introne, Michigan State University<br />
@@ -423,7 +423,7 @@ include_once ('../_inc/header.php');
 				Kurt Luther, Virginia Tech<br />
 				Wayne Lutters, University of Maryland<br />
 				Jennifer Marlow, FXPAL<br />
-				Afra Mashadi, Bell Labs, Ireland<br />
+				Afra J. Mashhadi, Bell Labs, Ireland<br />
 				Michael Massimi, Facebook<br />
 				Giorgio De Michelis, University of Milano Bicocca<br />
 				Michael Muller, IBM<br />
@@ -432,7 +432,7 @@ include_once ('../_inc/header.php');
 				Jacki O'Neill, Microsoft Research India<br />
 				Andrea Parker, Northeastern University<br />
 				Sameer Patil, New York University<br />
-				Raquel Oliveira Prates, Universidade Federal de Minas Gerais, Instituto de Ciências Exatas, Departamento de Ciência da Computação<br />
+				Raquel Oliveira Prates, Universidade Federal de Minas Gerais<br />
 				Michael Prilla, Ruhr University of Bochum<br />
 				Wolfgang Prinz, Fraunhofer Institute for Applied Information Technology<br />
 				Daniele Quercia, Yahoo! Labs<br />
@@ -447,7 +447,7 @@ include_once ('../_inc/header.php');
 				Carla Simone, University di Milano-Bicocca<br />
 				John Tang, Microsoft Research<br />
 				Deborah Tatar, Virginia Tech<br />
-				Yla Tausczik, Carnegie Mellon University<br />
+				Yla Tausczik, University of Maryland<br />
 				Hilda Tellioglu, Vienna University of Technology<br />
 				Gina Venolia, Microsoft Research<br />
 				Volker Wulf, University of Siegen<br />

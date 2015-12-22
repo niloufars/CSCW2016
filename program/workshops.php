@@ -247,7 +247,7 @@ include_once ('../_inc/header.php');
 			<p><a href="#WP-15"><h2 id="WP-15">WP-15: Let’s talk about the Quantified Workplace</h2></a>
 			<strong>Sunday February 28</strong><br>
 			<strong>Organizers:</strong><br>
-			<strong>Contact:</strong>  Afra Mashhadi, Bell Laboratories, Dublin, Ireland <br>
+			<strong>Contact:</strong>  Afra J. Mashhadi, Bell Laboratories, Dublin, Ireland <br>
 			Fahim Kawsar, Bell Laboratories, Antwerp, Belgium<br>
 			Akhil Mathur, Bell Laboratories, Dublin, Ireland<br>
 			Casey Dugan, IBM Research, Cambridge, MA, USA<br>

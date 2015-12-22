@@ -80,8 +80,8 @@
 				</p>
 				
 				<h2 class="h3">Local Arrangements Co-Chairs</h2>
-				<p>Judd Antin, Facebook<br />
-				Sharoda Paul, GE Global Research<br />
+				<p>Judd Antin, Airbnb<br />
+				Sharoda Paul, Facebook<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>local@acm.org">cscw<?php echo $year; ?>local@acm.org</a>
 				</p>
 				
