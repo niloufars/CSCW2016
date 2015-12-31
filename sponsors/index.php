@@ -91,6 +91,7 @@ include_once ('../_inc/header.php');
 			<h2>Champions</h2>
 			<div class="sponsors-list">
 				<a href="http://intel.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/intel.png" alt="Intel"></a>
+				<a href="https://research.facebook.com/" target="_blank"><img class="sponsor-facebook" src="<?php echo $basePath; ?>/images/facebook_logo.png" alt="Facebook"></a>
 			</div>
 			
 			<h2>Benefactors</h2>
@@ -101,8 +102,8 @@ include_once ('../_inc/header.php');
 			<h2>Contributors</h2>
 			<div class="sponsors-list">
 				<a href="http://www.fxpal.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/fxpal_logo.png" alt="FXPAL"></a>
-				<a href="http://www.research.ibm.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research" style="padding-bottom:30px"></a>
-				<a href="http://www.research.google.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/google_logo_home.png" alt="Google" style="padding-bottom:11px"></a>
+				<a href="http://www.research.ibm.com/" target="_blank"><img class="sponsor-ibm" src="<?php echo $basePath; ?>/images/IBM-Research-Logo.png" alt="IBM Research"></a>
+				<a href="http://www.research.google.com/" target="_blank"><img class="sponsor-google" src="<?php echo $basePath; ?>/images/google_logo_home.png" alt="Google"></a>
 			</div>
 			
 			<h2>Friends</h2>
