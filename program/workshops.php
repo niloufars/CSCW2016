@@ -51,7 +51,7 @@ include_once ('../_inc/header.php');
 					</li>
 					<li><a href="#WP-08">WP-08. Toward a Typology of Participation in Crowdwork</a>
 					</li>
-					<li><a href="#WP-09">WP-09. Beyond implications: Moving from Research to Practice in Cyberinfrastructure Studies</a>
+					<li><a href="#WP-09"><strike>WP-09. Beyond implications: Moving from Research to Practice in Cyberinfrastructure Studies</strike> </a><span style = "color: red">Canceled</span>
 					</li>
 					<li><a href="#WP-15">WP-15. Let’s talk about the Quantified Workplace</a>
 					</li>
@@ -187,23 +187,7 @@ include_once ('../_inc/header.php');
 			<br><br>
 			Website: <a href="http://ttpcw.blogs.dsv.su.se/">http://ttpcw.blogs.dsv.su.se/</a>
 			</p>
-			<hr>
-
-			<p><a href="#WP-09"><h2 id="WP-09">WP-09: Beyond implications: Moving from Research to Practice in Cyberinfrastructure Studies</h2></a>
-			<strong>Sunday February 28</strong><br>
-			<strong>Organizers:</strong><br>
-			<strong>Contact:</strong> Betsy Rolland, National Cancer Institute, Bethesda, MD, USA <br>
-			Nicholas Berente, University of Georgia, GA USA<br>
-			Matthew Bietz, UC Irvine, USA<br>
-			James Howison, University of Texas at Austin, TX USA<br>
-			Drew Paine, University of Washington, WA USA<br>
-			Andrea Wiggins, University of Maryland, MD USA<br>
-			<br><br>
-
-			<strong>Abstract:</strong> This one-day workshop aims to stimulate discussion in Cyberinfrastructure (CI) Studies on closing the feedback loop between research, practice and policy. As scientific work becomes increasingly collaborative, interdisciplinary and distributed, practitioners of science are seeking ways to make working across boundaries less burdensome. CI studies, with their focus on topics such as data sharing and reuse, collaboration and coordination, management of virtual organizations, citizen science, and development of scientific software, have the potential to provide evidence to support practitioners. Yet little research has focused on how to do so. Here, we will explore the public health concept of dissemination and implementation (D&I) and how to apply its core tenets to implementing evidence-based interventions for the practice of science. We will take a “hackathon” approach, involving CI researchers and practitioners in developing a rapid prototype of an evidence-based intervention such as a practice guideline, policy proposal, or app design.
-			<br><br>
-			Website: <a href="https://beyondimplications.wordpress.com/">https://beyondimplications.wordpress.com/</a>
-			</p>
+			
 			<hr>
 
 			<p><a href="#WP-10"><h2 id="WP-10">WP-10: Breaking into new Data-Spaces: Infrastructure for Open Community Science</h2></a>
