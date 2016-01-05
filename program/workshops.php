@@ -55,7 +55,7 @@ include_once ('../_inc/header.php');
 					</li>
 					<li><a href="#WP-15">WP-15. Let’s talk about the Quantified Workplace</a>
 					</li>
-					<li><a href="#WP-18">WP-18. Large-scale Collaborative Projects to Affect Societal Change W28. Algorithms at Work: Empirical Diversity, Analytic Vocabularies, Design Implications</a>
+					<li><a href="#WP-18">WP-18. Large-scale Collaborative Projects to Affect Societal Change</a>
 					</li>
 					<li><a href="#WP-21">WP-21. Gamification as a Collaboration Motivator for Virtual Teams: Theory, Practices, and Tools</a>
 					</li>
