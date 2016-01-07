@@ -111,6 +111,7 @@ include_once ('../_inc/header.php');
 				<a href="http://www.diku.dk/english" target="_blank"><img src="<?php echo $basePath; ?>/images/ucopenhagen-cs.png" alt="University of Copenhagen, Computer Science Department (DIKU)" style="max-height:250px"></a>
 				<a href="http://www.sap.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/sap.png" alt="SAP"></a>
 				<a href="http://en.itu.dk/" target="_blank"><img src="<?php echo $basePath; ?>/images/itu-copenhagen.png" alt="IT University of Copenhagen"></a>
+				<a href="http://www.kitchencabinetkings.com/" target="_blank"><img src="<?php echo $basePath; ?>/images/kitchen_cabinet_kings_logo.png" alt="Kitchen Cabinet Kings"></a>
 			</div>
 			
 		</article>
