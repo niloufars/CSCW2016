@@ -12,7 +12,6 @@ include_once ('../_inc/header.php');
 				<ul class="subnav" id="nav_program">
 					<li><a href="index.php">Program Overview</a></li>
 					<li><a href="keynotes.php">Keynote Speakers</a></li>
-					<li><a href="detailedprogram.php" class="active">Detailed Program</a></li> 
 					<li><a href="workshops.php">Workshops</a></li> 
 					<li><a href="lastingimpact.php">Lasting Impact Award</a></li> 
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->

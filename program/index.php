@@ -12,7 +12,6 @@ include_once ('../_inc/header.php');
 				<ul class="subnav" id="nav_program">
 					<li><a href="index.php" class="active">Program Overview</a></li>
 					<li><a href="keynotes.php">Keynote Speakers</a></li>
-					<li><a href="detailedprogram.php">Detailed Program</a></li> 
 					<li><a href="workshops.php">Workshops</a></li> 
 					<li><a href="lastingimpact.php">Lasting Impact Award</a></li> 
 <!-- 					<li><a href="posters.php">Interactive Posters</a></li> -->
@@ -27,7 +26,7 @@ include_once ('../_inc/header.php');
 			<p>This program contains information about the timing of
 				CSCW sessions. 142
 				papers have been accepted for this year’s core program. View the 
-				<a href="detailedprogram.php">Detailed Program</a> in Confer to see details of individual papers 
+				<a href="http://confer.csail.mit.edu/cscw2016/schedule">Detailed Program in Confer</a> to see details of individual papers 
 				within sessions. Details on workshops,
 				panels, and plenary sessions will be available later this fall, as
 				well.</p>
@@ -247,7 +246,7 @@ include_once ('../_inc/header.php');
 				</table>
 			</div>
 			<p>View the 
-				<a href="detailedprogram.php">Detailed Program</a> in Confer to see details of individual papers 
+				<a href="http://confer.csail.mit.edu/cscw2016/schedule">Detailed Program in Confer</a> to see details of individual papers 
 				within sessions.</p>
 		</article>
 	</div>
