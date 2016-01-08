@@ -27,7 +27,7 @@ include_once ('../_inc/header.php');
 				To register, visit the <a href="https://www.regonline.com/cscw16">CSCW
 					2016 conference registration page</a>. Rates can be found below.
 				Please note that Early registration rates are available through
-				January 8 and Advance registration rates through February 5.
+				January 15 and Advance registration rates through February 5.
 			</p>
 
 			<h2>Registration Fees</h2>
@@ -36,7 +36,7 @@ include_once ('../_inc/header.php');
 					<thead>
 						<tr>
 							<th></th>
-							<th>Early Registration<br>(Jan 8)
+							<th>Early Registration<br>(Jan 15)
 							</th>
 							<th>Advance Registration<br>(Feb 5)
 							</th>
@@ -78,7 +78,7 @@ include_once ('../_inc/header.php');
 					<thead>
 						<tr>
 							<th></th>
-							<th>Early Registration<br>(Jan 8)
+							<th>Early Registration<br>(Jan 15)
 							</th>
 							<th>Advance Registration<br>(Feb 5)
 							</th>
