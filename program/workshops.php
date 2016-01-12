@@ -56,7 +56,7 @@ include_once ('../_inc/header.php');
 					</li>
 					<li><a href="#WP-18">WP-18. Large-scale Collaborative Projects to Affect Societal Change</a>
 					</li>
-					<li><a href="#WP-21">WP-21. Gamification as a Collaboration Motivator for Virtual Teams: Theory, Practices, and Tools</a>
+					<li><a href="#WP-21"><strike>WP-21. Gamification as a Collaboration Motivator for Virtual Teams: Theory, Practices, and Tools</strike></a><span style = "color: red">Canceled</span>
 					</li>
 					<li><a href="#WP-26">WP-26. Developing a Research Agenda for Human-Centered Data Science</a>
 					</li>
@@ -285,23 +285,6 @@ include_once ('../_inc/header.php');
 
 			<br><br>
 			Website: <a href="http://volunteerscience.com/workshop/">http://volunteerscience.com/workshop/</a>
-			</p>
-			<hr>
-
-			<p><a href="#WP-21"><h2 id="WP-21">WP-21: Gamification as a Collaboration Motivator for Virtual Teams: Theory, Practices, and Tools</h2></a>
-			<strong>Sunday February 28</strong><br>
-			<strong>Organizers:</strong><br>
-			<strong>Contact:</strong> Sabrina Marczak, Faculdade de Informática, Pontifícia Universidade Católica do Rio Grande do Sul, Brazil <br>
-			Fernando Figueira Filho, Universidade Federal do Rio Grande do Norte, Brazil<br>
-			Leif Singer, Computer Science Department, University of Victoria, Canada<br>
-			David Redmiles, Ban Al-Ani, Department of Informatics, UC Irvine, USA<br>
-			Ban Al-Ani, Department of Informatics, UC Irvine, USA <br>
-			Christoph Treude, Universidade de São Paulo, Brazil
-			<br><br>
-
-			<strong>Abstract:</strong> While there is a reasonable body of knowledge on how to support collaboration among members of virtual teams, those in which team members are separated by distance and have to rely on technology to communicate and to coordinate work, how to motivate such collaboration remains an open question. Gamification, the act of applying game elements and game design techniques in non-game contexts, has being pointed out as a means to engage and motivate people to achieve their goals. However, we lack evidence on the topic. Therefore, we invite researchers, students, and practitioners to discuss in this one-day workshop gamification as a motivator to foster collaboration in virtual teams. We would like to explore three key issues within this general theme: 1) the activities that can be gamified aiming to motivate collaboration in virtual settings, 2) the development of a gamification framework to support gamification of such activities, and 3) the requirements for software tools that support gamification processes.
-			<br><br>
-			Website: <a href="http://munddos.com.br/gamification/">http://munddos.com.br/gamification/</a>
 			</p>
 			<hr>
 
