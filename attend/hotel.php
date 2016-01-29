@@ -22,18 +22,29 @@ include_once('../_inc/header.php');
                 </div>
         </aside>
         <article class="ten columns" role="main" id="content">
-              <H1>Conference Hotel</H1>
-              <p>
+              <h1>Conference Hotel</h1>
+              	<p>
                 The conference will be held at: 
                 </p>
                 <p>
                   <a href="http://sanfranciscoregency.hyatt.com/en/hotel/home.html" class="text" target="_blank">Hyatt Regency San Francisco</a><br>
                   5 Embarcadero Center<br>
-                  San Francisco, CA 94111, US<br><br>
+                  San Francisco, CA 94111, US
+                </p>
+				<p>
+                  The block of rooms available at the conference rate are now <strong>sold out</strong> (some more expensive rooms are still available).
+                </p>
+                <p> 
+                  <strong>Please see the list of <a href="#overflow">overflow hotels</a> below.</strong>
+                </p>
+                <p>
+                  <strong>If you wish to cancel your hotel reservation at the Hyatt</strong>, please contact our conference liason, John 
+                  (<a href="mailto:john@ims-solutions-net">john@ims-solutions-net</a>). This will allow us to reassign the rooms to other CSCW attendees.
+                </p>
+                <p style="text-decoration: line-through;">
                   We encourage everyone to book early for the CSCW group discounted rate (January 29, 2016 is the cutoff for the $269 conference rate):<br>
                   <strong>Online reservation:</strong>  <a href="https://resweb.passkey.com/go/ACMCSCW" class="text" target="_blank">Follow this link</a> <br>
                   <strong>Phone reservation:</strong> +1 888 591 1234 (mention ACM / CSCW Conference)<br>
-                  
                 </p>
 
                 <p>Boasting the
@@ -89,9 +100,59 @@ include_once('../_inc/header.php');
         <a href="#hotel7"><img src="../images/hotel7.jpg" alt=""></a>
         <a href="#_" class="lightbox" id="hotel7"><img src="../images/hotel7.jpg"></a>
 </div> -->
-</div>
 
-</article>
+	        <h1 id="overflow">Recommended Overflow Hotels</h1>
+	
+	        <p>
+			<a href="http://www.hotelvitale.com">Hotel Vitale</a> – 1 block<br>
+			8 Mission Street<br>
+			San Francisco, CA 94105<br>
+			415-278-3700
+			</p>
+	
+			<p>
+			<a href="http://www.harborcourthotel.com">Harbor Court Hotel</a> - 2.5 blocks<br>
+			165 Steuart Street<br>
+			San Francisco, CA 94105<br>
+			415-882-1300
+			</p>
+	
+			<p>
+			<a href="http://www.hotelgriffon.com">Griffon Hotel</a> – 2.5 blocks<br>
+			155 Steuart Street<br>
+			San Francisco, CA 94105<br>
+			415-495-2100
+			</p>
+	
+			<p>
+			<a href="http://www.starwoodhotels.com/lemeridien/property/overview/index.html?propertyID=1957">Le Meridian</a> – 4 blocks<br> 
+			333 Battery Street <br>
+			San Francisco, CA 94111<br>
+			415-296-2900
+			</p>
+	
+			<p>
+			<a href="http://www.omnihotels.com/hotels/san-francisco">Omni Hotel</a> – 5 blocks<br>
+			500 California Street at Montgomery<br>
+			San Francisco, CA 94104<br>
+			415- 677-9494
+			</p>
+	
+			<p>
+			<a href="http://www.sfpalace.com/">Palace Hotel</a> – 6 blocks<br> 
+			2 New Montgomery Street<br>
+			San Francisco, CA 94105<br>
+			1-415-512-1111
+			</p>
+	
+			<p>
+			<a href="http://www3.hilton.com/en/hotels/california/hilton-san-francisco-financial-district-SFOFDHF/index.html">Hilton San Francisco Financial District</a> - 7 blocks<br> 
+			750 Kearny Street<br>
+			San Francisco, CA 94108<br>
+			1-415-433-6600
+			</p>
+        
+	</article>
 
 </div>	
 </div>

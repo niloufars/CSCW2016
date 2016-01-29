@@ -11,7 +11,14 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
-						<a href="attend/reg.php">Early bird registration</a> deadline extended to <strong>January 15, 2016.</strong> 
+						<a href="attend/reg.php">Advance registration</a> ends <strong>February 5, 2016!</strong> 
+					</p>
+					<p>
+						<strong>January 28, 2016:</strong>The conference hotel reduced rate rooms are now sold out.
+						See the list of <a href="attend/hotel.php#overflow">overflow hotels</a> for alternatives. 
+					</p>
+					<p>
+						<strong>January 8, 2016:</strong><a href="attend/reg.php">Early bird registration</a> deadline extended to <em>January 15, 2016.</em> 
 					</p>
 					<p>
 						<strong>December 3, 2015:</strong> <a href="program/lastingimpact.php">Lasting Impact Award announced!</a>
