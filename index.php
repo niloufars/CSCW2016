@@ -11,7 +11,7 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
-						<strong>February 27, 2016:</strong>The registration desk will be open on Friday at 5:15 pm and remain open until 6:30 pm. </strong> 
+						<strong>February 27, 2016:</strong> The registration desk will be open on Friday at 5:15 pm and remain open until 6:30 pm. </strong> 
 					</p>
 
 					<p>
