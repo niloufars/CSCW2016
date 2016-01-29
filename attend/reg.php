@@ -68,6 +68,12 @@ include_once ('../_inc/header.php');
 							<td>$895</td>
 							<td>$995</td>
 						</tr>
+						<tr>
+							<td>Emeritus</td>
+							<td>$275</td>
+							<td>$345</td>
+							<td>$395</td>
+						</tr>
 					</tbody>
 				</table>
 			</div>
