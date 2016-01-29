@@ -85,8 +85,9 @@
 				<a class="email" href="mailto:cscw<?php echo $year; ?>local@acm.org">cscw<?php echo $year; ?>local@acm.org</a>
 				</p>
 				
-				<h2 class="h3">Accessibility Chair</h2>
-				<p>Joshua Hailpern, HP ArcSight<br />
+				<h2 class="h3">Accessibility Co-Chairs</h2>
+				<p>Erin Brady, Indiana University-Purdue University Indianapolis<br />				 
+				Joshua Hailpern, HP ArcSight<br />
 				<a class="email" href="mailto:cscw<?php echo $year; ?>accessibility@acm.org">cscw<?php echo $year; ?>accessibility@acm.org</a>
 				</p>
 

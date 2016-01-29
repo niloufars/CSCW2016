@@ -24,7 +24,7 @@
       <article class="ten columns" role="main" id="content">
         <h1>Accessibility</h1>
         
-          <p>CSCW aims to be an accessible and inclusive conference. If you have any questions or concerns about accessibility, or any special requests (such as ASL translation, captioning, etc.), please contact the conference accessibility chair at <a class="email" href="mailto:cscw<?php echo $year; ?>accessibility@acm.org">cscw<?php echo $year; ?>accessibility@acm.org</a>, and he will do his best to work with you to address your concerns. Note that some requests may require advance notice, so please be mindful to submit accessibility requests as far in advance of the conference date as possible in order to maximize the chance that we can address them to your satisfaction.</p>
+          <p>CSCW aims to be an accessible and inclusive conference. If you have any questions or concerns about accessibility, or any special requests (such as ASL translation, captioning, etc.), please contact the conference accessibility chairs at <a class="email" href="mailto:cscw<?php echo $year; ?>accessibility@acm.org">cscw<?php echo $year; ?>accessibility@acm.org</a>, and he will do his best to work with you to address your concerns. Note that some requests may require advance notice, so please be mindful to submit accessibility requests as far in advance of the conference date as possible in order to maximize the chance that we can address them to your satisfaction.</p>
           <p>
           Interested attendees with health or mobility concerns that preclude travel to San Francisco may also find CSCW’s <a href="telepresence.php">telepresence initiative</a> of interest.
           </p>
@@ -32,8 +32,9 @@
           </p>
           
           
-          <h3>Accessibility Chair</h3>
-        <p>Joshua Hailpern, HP Labs<br />
+          <h3>Accessibility Co-Chairs</h3>
+          <p>Erin Brady, Indiana University-Purdue University Indianapolis<br />
+        Joshua Hailpern, HP Labs<br />
           <a class="email" href="mailto:cscw<?php echo $year; ?>accessibility@acm.org">cscw<?php echo $year; ?>accessibility@acm.org</a></p>
 
           </p>
