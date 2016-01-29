@@ -39,7 +39,7 @@ include_once('../_inc/header.php');
                 </p>
                 <p>
                   <strong>If you wish to cancel your hotel reservation at the Hyatt</strong>, please contact our conference liason, John 
-                  (<a href="mailto:john@ims-solutions-net">john@ims-solutions-net</a>). This will allow us to reassign the rooms to other CSCW attendees.
+                  (<a href="mailto:john@ims-solutions.net">john@ims-solutions.net</a>). This will allow us to reassign the rooms to other CSCW attendees.
                 </p>
                 <p style="text-decoration: line-through;">
                   We encourage everyone to book early for the CSCW group discounted rate (January 29, 2016 is the cutoff for the $269 conference rate):<br>
