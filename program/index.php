@@ -185,7 +185,7 @@ include_once ('../_inc/header.php');
 						</tr>
 						<tr>
 							<td>5:30</td>
-							<td>6:00</td>
+							<td>6:15</td>
 							<td colspan="2">Town Hall Meeting</td>
 						</tr>
 						<tr>
