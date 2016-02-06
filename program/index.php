@@ -124,11 +124,6 @@ include_once ('../_inc/header.php');
 							<td>8:00</td>
 							<td colspan="2">Poster & Demo Reception</td>
 						</tr>
-						<tr>
-							<td>8:00</td>
-							<td>10:30</td>
-							<td colspan="2">Sponsored Hospitality Receptions</td>
-						</tr>
 					</tbody>
 				</table>
 			</div>
