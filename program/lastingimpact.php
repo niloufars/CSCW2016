@@ -86,7 +86,15 @@ include_once ('../_inc/header.php');
 				Editor of the International Journal of HCI. In 2013 she was awarded
 				membership of the ACM SIGCHI Academy for her contributions to the
 				field and professional community of Human Computer Interaction.</p>
-
+				<h2>Discussants:</h2>
+				<ul>
+				<li>Carl Gutwin, University of Saskatchewan, Canada 
+				</li>
+				<li>Charlotte Lee, University of Washington, USA  
+				</li>
+				<li>Geraldine Fitzpatrick, Vienna University of Technology,  Austria 
+				</li>
+				</ul>
 		</article>
 	</div>
 </div>
