@@ -11,11 +11,10 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
-						<strong>February 27, 2016:</strong> The registration desk will be open on Friday at 5:15 pm and remain open until 6:30 pm. </strong> 
+						<strong>February 26, 2016:</strong> The full proceedings of the conference are available open access for the next 30 days <a href="http://dl.acm.org/citation.cfm?id=2818048">via the ACM DL</a>. 
 					</p>
-
 					<p>
-						<a href="attend/reg.php">Advance registration</a> ends <strong>February 5, 2016!</strong> 
+						<strong>February 24, 2016:</strong> The registration desk will be open Friday, Feb 26 at 5:15 pm and remain open until 6:30 pm. 
 					</p>
 					<p>
 						<strong>January 28, 2016:</strong>The conference hotel reduced rate rooms are now sold out.
