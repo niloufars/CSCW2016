@@ -28,9 +28,8 @@ include_once ('../_inc/header.php');
 				CSCW sessions. 142
 				papers have been accepted for this year’s core program. View the 
 				<a href="http://confer.csail.mit.edu/cscw2016/schedule">Detailed Program in Confer</a> to see details of individual papers 
-				within sessions. Details on workshops,
-				panels, and plenary sessions will be available later this fall, as
-				well.</p>
+				within sessions.</p>
+			<p>The <strong>Proceedings</strong> are available here: <a href="toc.html">Papers</a> and <a href="toc_companion.html">Demos, Doctoral Symposium, Posters, and&nbsp;Workshops</a>.</p>
 			<h2>Saturday, February 27</h2>
 			<div class="responsive-table">
 				<table>

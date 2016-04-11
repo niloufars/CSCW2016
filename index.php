@@ -11,6 +11,9 @@ include_once ('_inc/header.php');
 				<h2>Updates</h2>
 				<div class="inner" id="updates">
 					<p>
+						<strong>April 11, 2016:</strong> The proceedings of the conference are also now available here: <a href="program/toc.html">Papers</a> and <a href="program/toc_companion.html">Demos, Doctoral Symposium, Posters, and Workshops</a>. 
+					</p>
+					<p>
 						<strong>February 26, 2016:</strong> The full proceedings of the conference are available open access for the next 30 days via the ACM DL: <a href="http://dl.acm.org/citation.cfm?id=2818048">papers</a> and <a href="http://dl.acm.org/citation.cfm?id=2818052">extended abstracts</a>. 
 					</p>
 					<p>
